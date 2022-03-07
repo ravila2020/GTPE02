@@ -1,0 +1,57 @@
+2022-03-01 13:56:54 info:  [registro.js] [Usuario: GCABAÑASM] METODO: concesionario-registro
+2022-03-01 13:56:54 info:  [persona.dao.js]  FUNCION: consultaConcesionarioReg
+2022-03-01 13:56:54 info:  [persona.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaConcesionarioReg 
+2022-03-01 13:56:55 info: CALL spConsultaConcesionarioRegis()
+2022-03-01 19:45:58 info:  [registro.js] [Usuario: Administrador] METODO: contrato
+2022-03-01 19:45:58 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-03-01 19:45:58 info:  [contrato.dao.js] [Usuario: Administrador] METODO: BdConsultaDatosContrato 
+2022-03-01 19:45:59 info: CALL spContratoRegistroConsulta(181)
+2022-03-01 19:45:59 info: contratoDat
+2022-03-01 19:45:59 info: {"IdContrato":6}
+2022-03-01 19:49:34 info:  [registro.js] [Usuario: Administrador] METODO: contrato
+2022-03-01 19:49:34 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-03-01 19:49:34 info:  [contrato.dao.js] [Usuario: Administrador] METODO: BdConsultaDatosContrato 
+2022-03-01 19:49:34 info: CALL spContratoRegistroConsulta(181)
+2022-03-01 19:49:35 info: contratoDat
+2022-03-01 19:49:35 info: {"IdContrato":7,"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":"25200.00","ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}
+2022-03-01 19:50:19 info:  [registro.js] [Usuario: Administrador] METODO: contrato
+2022-03-01 19:50:19 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-03-01 19:50:19 info:  [contrato.dao.js] [Usuario: Administrador] METODO: BdConsultaDatosContrato 
+2022-03-01 19:50:19 info: CALL spContratoRegistroConsulta(181)
+2022-03-01 19:50:19 info: contratoDat
+2022-03-01 19:50:19 info: {"IdContrato":7,"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":"25200.00","ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}
+2022-03-01 19:50:24 info:  [registro.js] [Usuario: Administrador] METODO: contrato
+2022-03-01 19:50:24 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-03-01 19:50:24 info:  [contrato.dao.js] [Usuario: Administrador] METODO: BdConsultaDatosContrato 
+2022-03-01 19:50:24 info: CALL spContratoRegistroConsulta(181)
+2022-03-01 19:50:24 info: contratoDat
+2022-03-01 19:50:24 info: {"IdContrato":7,"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":"25200.00","ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}
+2022-03-01 19:50:44 info:  [registro.js] [Usuario: Administrador] METODO: contrato
+2022-03-01 19:50:44 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-03-01 19:50:44 info:  [contrato.dao.js] [Usuario: Administrador] METODO: BdConsultaDatosContrato 
+2022-03-01 19:50:44 info: CALL spContratoRegistroConsulta(181)
+2022-03-01 19:50:44 info: {"IdContrato":7,"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":"25200.00","ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}
+2022-03-01 19:50:45 info:  [registro.js] [Usuario: Administrador] METODO: contrato
+2022-03-01 19:50:45 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-03-01 19:50:45 info:  [contrato.dao.js] [Usuario: Administrador] METODO: BdConsultaDatosContrato 
+2022-03-01 19:50:45 info: CALL spContratoRegistroConsulta(181)
+2022-03-01 19:50:45 info: {"IdContrato":7,"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":"25200.00","ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}
+2022-03-01 19:57:35 info:  [registro.js] [Usuario: GCABAÑASM] METODO: concesionario-registro
+2022-03-01 19:57:35 info:  [persona.dao.js]  FUNCION: consultaConcesionarioReg
+2022-03-01 19:57:35 info:  [persona.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaConcesionarioReg 
+2022-03-01 19:57:35 info: CALL spConsultaConcesionarioRegis()
+2022-03-01 22:34:54 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documento-digitaliacion
+2022-03-01 22:34:54 info: body--->
+2022-03-01 22:34:54 info: {"IdVehiculo":"181","IdDocumento":"5","IdConcesionario":"259"}
+2022-03-01 22:34:54 info: req.file
+2022-03-01 22:34:54 info: {"fieldname":"Documento","originalname":"F0000000186.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"C:/ArchivosDocumentos/","filename":"F0000000186_1646195694129.pdf","path":"C:\\ArchivosDocumentos\\F0000000186_1646195694129.pdf","size":122420}
+2022-03-01 22:34:54 info: NombreArchivoPDF
+2022-03-01 22:34:54 info: F0000000186_1646195694129.pdf
+2022-03-01 22:34:54 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: digitalizaDocumento 
+2022-03-01 22:34:54 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: BdDigitalizaDocumento 
+2022-03-01 22:34:54 info: CALL spDocumentoDigitalizar(
+        259,  
+        181,  
+        5, 
+        'F0000000186_1646195694129.pdf'
+        )

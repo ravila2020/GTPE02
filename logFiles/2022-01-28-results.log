@@ -1,0 +1,57 @@
+2022-01-28 11:50:15 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-cita
+2022-01-28 11:50:15 info:  [taller.dao.js]  FUNCION: consultaTalleresActivos
+2022-01-28 11:50:15 info:  [taller.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaTalleresActivos 
+2022-01-28 11:50:16 info: query_str
+2022-01-28 11:50:16 info: CALL spConsultaTalleres('A')
+2022-01-28 11:50:48 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-28 11:50:48 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-28 11:50:48 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaTallerDisponibilidad 
+2022-01-28 11:50:48 info: CALL spFechasDispTaller(2,'2022-01-01')
+2022-01-28 11:51:08 info:  [citas.js] [Usuario: JGONZALEZ] METODO: horas-disponibles
+2022-01-28 11:51:08 info:  [cita.dao.js]  FUNCION: consultaHorasDisponibles
+2022-01-28 11:51:08 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaHorasDisponibles 
+2022-01-28 11:51:08 info: CALL spHorasDispTaller(2, '2022-02-01')
+2022-01-28 12:43:38 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-28 12:43:38 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-28 12:43:38 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaTallerDisponibilidad 
+2022-01-28 12:43:38 info: CALL spFechasDispTaller(1,'2022-01-01')
+2022-01-28 12:45:28 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-28 12:45:28 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-28 12:45:28 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaTallerDisponibilidad 
+2022-01-28 12:45:28 info: CALL spFechasDispTaller(2,'2022-01-01')
+2022-01-28 12:46:33 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-28 12:46:33 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-28 12:46:33 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaTallerDisponibilidad 
+2022-01-28 12:46:33 info: CALL spFechasDispTaller(1,'2022-01-01')
+2022-01-28 12:48:36 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-28 12:48:36 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-28 12:48:36 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaTallerDisponibilidad 
+2022-01-28 12:48:36 info: CALL spFechasDispTaller(1,'2022-02-01')
+2022-01-28 12:50:05 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-28 12:50:05 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-28 12:50:05 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaTallerDisponibilidad 
+2022-01-28 12:50:05 info: CALL spFechasDispTaller(2,'2022-02-01')
+2022-01-28 12:50:17 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-28 12:50:17 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-28 12:50:17 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaTallerDisponibilidad 
+2022-01-28 12:50:17 info: CALL spFechasDispTaller(1,'2022-02-01')
+2022-01-28 12:51:15 info:  [citas.js] [Usuario: JGONZALEZ] METODO: horas-disponibles
+2022-01-28 12:51:15 info:  [cita.dao.js]  FUNCION: consultaHorasDisponibles
+2022-01-28 12:51:15 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaHorasDisponibles 
+2022-01-28 12:51:15 info: CALL spHorasDispTaller(1, '2022-02-01')
+2022-01-28 13:03:32 info:  [citas.js] [Usuario: JGONZALEZ] METODO: horas-disponibles
+2022-01-28 13:03:32 info:  [cita.dao.js]  FUNCION: consultaHorasDisponibles
+2022-01-28 13:03:32 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaHorasDisponibles 
+2022-01-28 13:03:32 info: CALL spHorasDispTaller(1, '2022-02-15')
+2022-01-28 17:39:29 info:  [citas.js] [Usuario: JGONZALEZ] METODO: horas-disponibles
+2022-01-28 17:39:29 info:  [cita.dao.js]  FUNCION: consultaHorasDisponibles
+2022-01-28 17:39:29 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaHorasDisponibles 
+2022-01-28 17:39:30 info: CALL spHorasDispTaller(1, '2022-02-15')
+2022-01-28 17:42:22 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-28 17:42:22 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-28 17:42:22 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaTallerDisponibilidad 
+2022-01-28 17:42:22 info: CALL spFechasDispTaller(1,'2022-02-01')
+2022-01-28 18:56:19 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-28 18:56:19 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-28 18:56:19 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaTallerDisponibilidad 
+2022-01-28 18:56:20 info: CALL spFechasDispTaller(2,'2022-02-01')

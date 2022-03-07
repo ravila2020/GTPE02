@@ -1,0 +1,532 @@
+2022-01-10 12:31:59 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-rfc
+2022-01-10 12:31:59 info:  [persona.dao.js]  FUNCION: consultaConcesionarioRFC
+2022-01-10 12:31:59 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioRFC 
+2022-01-10 12:32:01 info: CALL spConsultaConcesionarioRFC('GARJ700238JGF')
+2022-01-10 12:33:13 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-rfc
+2022-01-10 12:33:13 info:  [persona.dao.js]  FUNCION: consultaConcesionarioRFC
+2022-01-10 12:33:13 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioRFC 
+2022-01-10 12:33:13 info: CALL spConsultaConcesionarioRFC('GARJ700238JGF')
+2022-01-10 12:41:25 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-rfc
+2022-01-10 12:41:25 info:  [persona.dao.js]  FUNCION: consultaConcesionarioRFC
+2022-01-10 12:41:25 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioRFC 
+2022-01-10 12:41:25 info: CALL spConsultaConcesionarioRFC('GARJ700238JGF')
+2022-01-10 12:41:25 info: ok
+2022-01-10 12:41:25 info: concesionario
+2022-01-10 12:42:11 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-rfc
+2022-01-10 12:42:11 info:  [persona.dao.js]  FUNCION: consultaConcesionarioRFC
+2022-01-10 12:42:11 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioRFC 
+2022-01-10 12:42:11 info: CALL spConsultaConcesionarioRFC('GARJ700238JGF')
+2022-01-10 12:42:11 info: ok
+2022-01-10 12:42:11 info: concesionario
+2022-01-10 12:42:11 info: {}
+2022-01-10 12:43:01 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-rfc
+2022-01-10 12:43:01 info:  [persona.dao.js]  FUNCION: consultaConcesionarioRFC
+2022-01-10 12:43:01 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioRFC 
+2022-01-10 12:43:01 info: CALL spConsultaConcesionarioRFC('GARJ700238JGF')
+2022-01-10 12:43:01 info: ok
+2022-01-10 12:43:01 info: concesionario
+2022-01-10 12:43:01 info: {}
+2022-01-10 12:43:39 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-rfc
+2022-01-10 12:43:39 info:  [persona.dao.js]  FUNCION: consultaConcesionarioRFC
+2022-01-10 12:43:39 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioRFC 
+2022-01-10 12:43:39 info: CALL spConsultaConcesionarioRFC('GARJ700238JGF')
+2022-01-10 12:43:39 info: ok
+2022-01-10 12:43:39 info: concesionario
+2022-01-10 12:43:39 info: {"IdPersona":0}
+2022-01-10 12:44:06 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-rfc
+2022-01-10 12:44:06 info:  [persona.dao.js]  FUNCION: consultaConcesionarioRFC
+2022-01-10 12:44:06 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioRFC 
+2022-01-10 12:44:06 info: CALL spConsultaConcesionarioRFC('GARJ700238JGF')
+2022-01-10 12:44:06 info: ok
+2022-01-10 12:44:06 info: concesionario
+2022-01-10 12:44:06 info: {"IdPersona":0}
+2022-01-10 12:44:42 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-rfc
+2022-01-10 12:44:42 info:  [persona.dao.js]  FUNCION: consultaConcesionarioRFC
+2022-01-10 12:44:42 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioRFC 
+2022-01-10 12:44:42 info: CALL spConsultaConcesionarioRFC('GARJ700238JGF')
+2022-01-10 12:44:42 info: ok
+2022-01-10 12:44:42 info: concesionario
+2022-01-10 12:44:42 info: {"IdPersona":0}
+2022-01-10 12:44:55 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-rfc
+2022-01-10 12:44:55 info:  [persona.dao.js]  FUNCION: consultaConcesionarioRFC
+2022-01-10 12:44:55 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioRFC 
+2022-01-10 12:44:55 info: CALL spConsultaConcesionarioRFC('GARJ700238JGF')
+2022-01-10 12:44:55 info: ok
+2022-01-10 12:44:55 info: concesionario
+2022-01-10 12:44:55 info: {"IdConcesionario":0}
+2022-01-10 12:45:07 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-rfc
+2022-01-10 12:45:07 info:  [persona.dao.js]  FUNCION: consultaConcesionarioRFC
+2022-01-10 12:45:07 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioRFC 
+2022-01-10 12:45:07 info: CALL spConsultaConcesionarioRFC('GARJ700238JGF')
+2022-01-10 12:45:07 info: ok
+2022-01-10 12:45:07 info: concesionario
+2022-01-10 12:45:07 info: {"IdConcesionario":0}
+2022-01-10 12:47:11 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-rfc
+2022-01-10 12:47:11 info:  [persona.dao.js]  FUNCION: consultaConcesionarioRFC
+2022-01-10 12:47:11 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioRFC 
+2022-01-10 12:47:11 info: CALL spConsultaConcesionarioRFC('GARJ700238JGF')
+2022-01-10 12:47:12 info: ok
+2022-01-10 12:47:12 info: concesionario
+2022-01-10 12:47:12 info: {"IdConcesionario":0}
+2022-01-10 12:59:04 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-prerregistro
+2022-01-10 12:59:04 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-01-10 12:59:04 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioPrerreg 
+2022-01-10 12:59:04 info: CALL spConsultaConcesionarioPrereg()
+2022-01-10 13:43:23 info:  [autenticacion.js] METODO: verificaToken  Error: Se generó un error en la verificación del token solicitado de /concesionario-edicion
+2022-01-10 13:44:59 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-10 13:44:59 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-10 13:44:59 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-10 13:44:59 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-10 13:44:59 info: CALL spPersona('C',
+        40,  
+        'Erica', 
+        'Lopez',
+        'Salas',
+        'LOSE0101011A1',
+        NULL,
+        1,
+        '333333',
+        '2022-01-03',
+        'F',
+        'F',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'Ricardoemail@email.com',
+        2,
+        2,
+        '89988411',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-10 13:44:59 info: rows
+2022-01-10 13:44:59 info: [object Object]
+2022-01-10 13:44:59 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPersona":40}
+2022-01-10 13:44:59 info: result
+2022-01-10 13:44:59 info: [object Object]
+2022-01-10 13:44:59 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdConcesionario":40}
+2022-01-10 13:48:52 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-10 13:48:52 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-10 13:48:52 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-10 13:48:52 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-10 13:48:52 info: CALL spPersona('C',
+        40,  
+        'Erica', 
+        'Lopez',
+        'Salas',
+        'LOSE0101011A1',
+        NULL,
+        1,
+        '333333',
+        '2022-01-03',
+        'F',
+        'F',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'Ricardoemail@email.com',
+        2,
+        2,
+        '2222222',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-10 13:48:52 info: rows
+2022-01-10 13:48:52 info: [object Object]
+2022-01-10 13:48:52 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPersona":40}
+2022-01-10 13:48:52 info: result
+2022-01-10 13:48:52 info: [object Object]
+2022-01-10 13:48:52 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdConcesionario":40}
+2022-01-10 13:49:26 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-10 13:49:26 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-10 13:49:26 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-10 13:49:26 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-10 13:49:26 info: CALL spPersona('C',
+        40,  
+        'Hector', 
+        'Lopez',
+        'Salas',
+        'LOSH0101011A1',
+        NULL,
+        1,
+        '333333',
+        '2022-01-03',
+        'F',
+        'F',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'ssss@email.com',
+        2,
+        2,
+        '1111111111',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-10 13:49:26 info: rows
+2022-01-10 13:49:26 info: [object Object]
+2022-01-10 13:49:26 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPersona":40}
+2022-01-10 13:49:26 info: result
+2022-01-10 13:49:26 info: [object Object]
+2022-01-10 13:49:26 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdConcesionario":40}
+2022-01-10 13:49:34 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-10 13:49:34 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-10 13:49:34 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-10 13:49:34 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-10 13:49:34 info: CALL spPersona('C',
+        40,  
+        'Hector', 
+        'Lopez',
+        'Salas',
+        'LOSH0101011A1',
+        NULL,
+        1,
+        '333333',
+        '2022-01-03',
+        'F',
+        'F',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'ssss@email.com',
+        2,
+        2,
+        '1111111111',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-10 13:49:34 info: rows
+2022-01-10 13:49:34 info: [object Object]
+2022-01-10 13:49:34 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPersona":40}
+2022-01-10 13:49:34 info: result
+2022-01-10 13:49:34 info: [object Object]
+2022-01-10 13:49:34 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdConcesionario":40}
+2022-01-10 13:50:18 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-10 13:50:18 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-10 13:50:18 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-10 13:50:18 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-10 13:50:18 info: CALL spPersona('C',
+        NULL,  
+        'Hector', 
+        'Lopez',
+        'Salas',
+        'AAAA0101011A1',
+        NULL,
+        1,
+        '333333',
+        '2022-01-03',
+        'F',
+        'F',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'ssss@email.com',
+        2,
+        2,
+        '1111111111',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-10 13:50:19 info: rows
+2022-01-10 13:50:19 info: [object Object]
+2022-01-10 13:50:19 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPersona":41}
+2022-01-10 13:50:19 info: result
+2022-01-10 13:50:19 info: [object Object]
+2022-01-10 13:50:19 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdConcesionario":41}
+2022-01-10 17:40:52 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-10 17:40:52 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-10 17:40:52 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-10 17:40:52 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-10 17:40:52 info: CALL spPersona('C',
+        40,  
+        'Hector', 
+        'Lopez',
+        'Salas',
+        'AAAA0101011A1',
+        NULL,
+        1,
+        '333333',
+        '2022-01-03',
+        'F',
+        'F',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'ssss@email.com',
+        2,
+        2,
+        '1111111111',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-10 17:40:56 info: rows
+2022-01-10 17:40:56 info: [object Object]
+2022-01-10 17:40:56 info: {"estatus":0,"mensaje":"Ocurrió un error en la edición.","mensajeDet":"Duplicate entry 'AAAA0101011A1' for key 'personas.RFC_UNIQUE'"}
+2022-01-10 17:40:56 info: result
+2022-01-10 17:40:56 info: [object Object]
+2022-01-10 17:40:56 info: {"estatus":0,"mensaje":"Ocurrió un error en la edición.","mensajeDet":"Duplicate entry 'AAAA0101011A1' for key 'personas.RFC_UNIQUE'"}
+2022-01-10 17:40:56 info:  [prerregistro.js] Atención: Ocurrió un error en la edición. Duplicate entry 'AAAA0101011A1' for key 'personas.RFC_UNIQUE'
+2022-01-10 17:41:22 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-10 17:41:22 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-10 17:41:22 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-10 17:41:22 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-10 17:41:22 info: CALL spPersona('C',
+        40,  
+        'Hilda', 
+        'Lopez',
+        'Salas',
+        'LOSH0101011A1',
+        NULL,
+        1,
+        '333333',
+        '2022-01-03',
+        'F',
+        'F',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'ssss@email.com',
+        2,
+        2,
+        '1111111111',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-10 17:41:24 info: rows
+2022-01-10 17:41:24 info: [object Object]
+2022-01-10 17:41:24 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPersona":40}
+2022-01-10 17:41:24 info: result
+2022-01-10 17:41:24 info: [object Object]
+2022-01-10 17:41:24 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdConcesionario":40}
+2022-01-10 19:59:27 info:  [listas.js] [Usuario: Administrador] METODO: identificaciones-lista
+2022-01-10 19:59:27 info:  [reportes.dao.js]  FUNCION: obtieneIdentificaciones
+2022-01-10 19:59:27 info:  [reportes.dao.js] [Usuario: Administrador] METODO: BdConsultaIdentificaciones 
+2022-01-10 19:59:27 info: query_str
+2022-01-10 19:59:27 info: CALL spConsultaIdentificaciones()
+2022-01-10 19:59:28 error: IdentificacionModel is not defined
+2022-01-10 19:59:28 error:  [listas.js] ERROR: Se presentó un error al obtener las identificacione: ReferenceError: IdentificacionModel is not defined
+2022-01-10 20:00:22 info:  [listas.js] [Usuario: Administrador] METODO: identificaciones-lista
+2022-01-10 20:00:22 info:  [reportes.dao.js]  FUNCION: obtieneIdentificaciones
+2022-01-10 20:00:22 info:  [reportes.dao.js] [Usuario: Administrador] METODO: BdConsultaIdentificaciones 
+2022-01-10 20:00:22 info: query_str
+2022-01-10 20:00:22 info: CALL spConsultaIdentificaciones()
+2022-01-10 20:02:24 info:  [listas.js] [Usuario: Administrador] METODO: identificaciones-lista
+2022-01-10 20:02:24 info:  [reportes.dao.js]  FUNCION: obtieneIdentificaciones
+2022-01-10 20:02:24 info:  [reportes.dao.js] [Usuario: Administrador] METODO: BdConsultaIdentificaciones 
+2022-01-10 20:02:24 info: query_str
+2022-01-10 20:02:24 info: CALL spConsultaIdentificaciones()
+2022-01-10 20:03:54 info:  [listas.js] [Usuario: Administrador] METODO: identificaciones-lista
+2022-01-10 20:03:54 info:  [reportes.dao.js]  FUNCION: obtieneIdentificaciones
+2022-01-10 20:03:54 info:  [reportes.dao.js] [Usuario: Administrador] METODO: BdConsultaIdentificaciones 
+2022-01-10 20:03:54 info: query_str
+2022-01-10 20:03:54 info: CALL spConsultaIdentificaciones()
+2022-01-10 20:03:54 info: resultado
+2022-01-10 20:03:54 info: [{"IdIdentificacion":1,"Nombre":"IFE/INE","Emisor":"INE"},{"IdIdentificacion":3,"Nombre":"Licencia","Emisor":"SEMOVI"},{"IdIdentificacion":2,"Nombre":"Pasaporte","Emisor":"SRE"}]
+2022-01-10 20:04:26 info:  [listas.js] [Usuario: Administrador] METODO: identificaciones-lista
+2022-01-10 20:04:26 info:  [reportes.dao.js]  FUNCION: obtieneIdentificaciones
+2022-01-10 20:04:26 info:  [reportes.dao.js] [Usuario: Administrador] METODO: BdConsultaIdentificaciones 
+2022-01-10 20:04:26 info: query_str
+2022-01-10 20:04:26 info: CALL spConsultaIdentificaciones()
+2022-01-10 20:04:26 info: resultado
+2022-01-10 20:04:26 info: [{"IdIdentificacion":1,"Nombre":"IFE/INE","Emisor":"INE"},{"IdIdentificacion":3,"Nombre":"Licencia","Emisor":"SEMOVI"},{"IdIdentificacion":2,"Nombre":"Pasaporte","Emisor":"SRE"}]
+2022-01-10 20:05:02 info:  [listas.js] [Usuario: Administrador] METODO: identificaciones-lista
+2022-01-10 20:05:02 info:  [reportes.dao.js]  FUNCION: obtieneIdentificaciones
+2022-01-10 20:05:02 info:  [reportes.dao.js] [Usuario: Administrador] METODO: BdConsultaIdentificaciones 
+2022-01-10 20:05:02 info: query_str
+2022-01-10 20:05:02 info: CALL spConsultaIdentificaciones()
+2022-01-10 20:05:03 info: resultado
+2022-01-10 20:05:03 info: [{"IdIdentificacion":1,"Nombre":"IFE/INE","Emisor":"INE"},{"IdIdentificacion":3,"Nombre":"Licencia","Emisor":"SEMOVI"},{"IdIdentificacion":2,"Nombre":"Pasaporte","Emisor":"SRE"}]
+2022-01-10 20:05:03 info: identifica
+2022-01-10 20:05:03 info: [object Object]
+2022-01-10 20:05:03 info: identifica
+2022-01-10 20:05:03 info: [object Object]
+2022-01-10 20:05:03 info: identifica
+2022-01-10 20:05:03 info: [object Object]
+2022-01-10 20:05:29 info:  [listas.js] [Usuario: Administrador] METODO: identificaciones-lista
+2022-01-10 20:05:29 info:  [reportes.dao.js]  FUNCION: obtieneIdentificaciones
+2022-01-10 20:05:29 info:  [reportes.dao.js] [Usuario: Administrador] METODO: BdConsultaIdentificaciones 
+2022-01-10 20:05:29 info: query_str
+2022-01-10 20:05:29 info: CALL spConsultaIdentificaciones()
+2022-01-10 20:05:29 info: resultado
+2022-01-10 20:05:29 info: [{"IdIdentificacion":1,"Nombre":"IFE/INE","Emisor":"INE"},{"IdIdentificacion":3,"Nombre":"Licencia","Emisor":"SEMOVI"},{"IdIdentificacion":2,"Nombre":"Pasaporte","Emisor":"SRE"}]
+2022-01-10 20:05:29 info: identifica
+2022-01-10 20:05:29 info: {"IdIdentificacion":1,"Nombre":"IFE/INE","Emisor":"INE"}
+2022-01-10 20:05:29 info: identifica
+2022-01-10 20:05:29 info: {"IdIdentificacion":3,"Nombre":"Licencia","Emisor":"SEMOVI"}
+2022-01-10 20:05:29 info: identifica
+2022-01-10 20:05:29 info: {"IdIdentificacion":2,"Nombre":"Pasaporte","Emisor":"SRE"}
+2022-01-10 20:05:56 info:  [listas.js] [Usuario: Administrador] METODO: identificaciones-lista
+2022-01-10 20:05:56 info:  [reportes.dao.js]  FUNCION: obtieneIdentificaciones
+2022-01-10 20:05:56 info:  [reportes.dao.js] [Usuario: Administrador] METODO: BdConsultaIdentificaciones 
+2022-01-10 20:05:56 info: query_str
+2022-01-10 20:05:56 info: CALL spConsultaIdentificaciones()
+2022-01-10 20:05:58 info: resultado
+2022-01-10 20:05:58 info: [{"IdIdentificacion":1,"Nombre":"IFE/INE","Emisor":"INE"},{"IdIdentificacion":3,"Nombre":"Licencia","Emisor":"SEMOVI"},{"IdIdentificacion":2,"Nombre":"Pasaporte","Emisor":"SRE"}]
+2022-01-10 20:05:58 info: identifica
+2022-01-10 20:05:58 info: {"IdIdentificacion":1,"Nombre":"IFE/INE","Emisor":"INE"}
+2022-01-10 20:05:58 info: identificacion
+2022-01-10 20:05:58 info: [{"IdIdentificacion":1,"Nombre":"IFE/INE","Emisor":"INE"}]
+2022-01-10 20:05:58 info: identifica
+2022-01-10 20:05:58 info: {"IdIdentificacion":3,"Nombre":"Licencia","Emisor":"SEMOVI"}
+2022-01-10 20:05:58 info: identificacion
+2022-01-10 20:05:58 info: [{"IdIdentificacion":1,"Nombre":"IFE/INE","Emisor":"INE"},{"IdIdentificacion":3,"Nombre":"Licencia","Emisor":"SEMOVI"}]
+2022-01-10 20:05:58 info: identifica
+2022-01-10 20:05:58 info: {"IdIdentificacion":2,"Nombre":"Pasaporte","Emisor":"SRE"}
+2022-01-10 20:05:58 info: identificacion
+2022-01-10 20:05:58 info: [{"IdIdentificacion":1,"Nombre":"IFE/INE","Emisor":"INE"},{"IdIdentificacion":3,"Nombre":"Licencia","Emisor":"SEMOVI"},{"IdIdentificacion":2,"Nombre":"Pasaporte","Emisor":"SRE"}]
+2022-01-10 20:07:48 info:  [listas.js] [Usuario: Administrador] METODO: identificaciones-lista
+2022-01-10 20:07:48 info:  [reportes.dao.js]  FUNCION: obtieneIdentificaciones
+2022-01-10 20:07:48 info:  [reportes.dao.js] [Usuario: Administrador] METODO: BdConsultaIdentificaciones 
+2022-01-10 20:07:48 info: query_str
+2022-01-10 20:07:48 info: CALL spConsultaIdentificaciones()
+2022-01-10 20:07:48 info: resultado
+2022-01-10 20:07:48 info: [{"IdIdentificacion":1,"Nombre":"IFE/INE","Emisor":"INE"},{"IdIdentificacion":3,"Nombre":"Licencia","Emisor":"SEMOVI"},{"IdIdentificacion":2,"Nombre":"Pasaporte","Emisor":"SRE"}]
+2022-01-10 20:07:48 info: identifica
+2022-01-10 20:07:48 info: {"IdIdentificacion":1,"Nombre":"IFE/INE","Emisor":"INE"}
+2022-01-10 20:07:48 info: identifica
+2022-01-10 20:07:48 info: {"IdIdentificacion":3,"Nombre":"Licencia","Emisor":"SEMOVI"}
+2022-01-10 20:07:48 info: identifica
+2022-01-10 20:07:48 info: {"IdIdentificacion":2,"Nombre":"Pasaporte","Emisor":"SRE"}
+2022-01-10 20:07:48 error: identifica is not defined
+2022-01-10 20:07:48 error:  [listas.js] ERROR: Se presentó un error al obtener las identificaciones: ReferenceError: identifica is not defined
+2022-01-10 20:08:40 info:  [listas.js] [Usuario: Administrador] METODO: identificaciones-lista
+2022-01-10 20:08:40 info:  [reportes.dao.js]  FUNCION: obtieneIdentificaciones
+2022-01-10 20:08:40 info:  [reportes.dao.js] [Usuario: Administrador] METODO: BdConsultaIdentificaciones 
+2022-01-10 20:08:40 info: query_str
+2022-01-10 20:08:40 info: CALL spConsultaIdentificaciones()
+2022-01-10 20:08:40 info: resultado
+2022-01-10 20:08:40 info: [{"IdIdentificacion":1,"Nombre":"IFE/INE","Emisor":"INE"},{"IdIdentificacion":3,"Nombre":"Licencia","Emisor":"SEMOVI"},{"IdIdentificacion":2,"Nombre":"Pasaporte","Emisor":"SRE"}]
+2022-01-10 20:08:40 info: identifica
+2022-01-10 20:08:40 info: {"IdIdentificacion":1,"Nombre":"IFE/INE","Emisor":"INE"}
+2022-01-10 20:08:40 info: identificacion
+2022-01-10 20:08:40 error: identificacion is not defined
+2022-01-10 20:08:40 error:  [listas.js] ERROR: Se presentó un error al obtener las identificaciones: ReferenceError: identificacion is not defined
+2022-01-10 20:09:11 info:  [listas.js] [Usuario: Administrador] METODO: identificaciones-lista
+2022-01-10 20:09:11 info:  [reportes.dao.js]  FUNCION: obtieneIdentificaciones
+2022-01-10 20:09:11 info:  [reportes.dao.js] [Usuario: Administrador] METODO: BdConsultaIdentificaciones 
+2022-01-10 20:09:11 info: query_str
+2022-01-10 20:09:11 info: CALL spConsultaIdentificaciones()
+2022-01-10 20:09:11 info: resultado
+2022-01-10 20:09:11 info: [{"IdIdentificacion":1,"Nombre":"IFE/INE","Emisor":"INE"},{"IdIdentificacion":3,"Nombre":"Licencia","Emisor":"SEMOVI"},{"IdIdentificacion":2,"Nombre":"Pasaporte","Emisor":"SRE"}]
+2022-01-10 20:09:11 info: identifica
+2022-01-10 20:09:11 info: {"IdIdentificacion":1,"Nombre":"IFE/INE","Emisor":"INE"}
+2022-01-10 20:09:11 info: identifica
+2022-01-10 20:09:11 info: {"IdIdentificacion":3,"Nombre":"Licencia","Emisor":"SEMOVI"}
+2022-01-10 20:09:11 info: identifica
+2022-01-10 20:09:11 info: {"IdIdentificacion":2,"Nombre":"Pasaporte","Emisor":"SRE"}
+2022-01-10 20:09:40 info:  [listas.js] [Usuario: Administrador] METODO: identificaciones-lista
+2022-01-10 20:09:40 info:  [reportes.dao.js]  FUNCION: obtieneIdentificaciones
+2022-01-10 20:09:40 info:  [reportes.dao.js] [Usuario: Administrador] METODO: BdConsultaIdentificaciones 
+2022-01-10 20:09:40 info: query_str
+2022-01-10 20:09:40 info: CALL spConsultaIdentificaciones()
+2022-01-10 20:20:01 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo-edicion
+2022-01-10 20:20:01 error:  [prerregistro.js] ERROR: ReferenceError: datPersona is not defined
+2022-01-10 20:23:16 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo-edicion
+2022-01-10 20:23:16 error:  [prerregistro.js] ERROR: ReferenceError: datPersona is not defined
+2022-01-10 20:24:24 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo-edicion
+2022-01-10 20:24:24 info:  [prerregistro.js] Atención: Verifique la información requerida.
+2022-01-10 20:25:50 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo-edicion
+2022-01-10 20:25:50 info:  [prerregistro.js] Atención: Verifique la información requerida.
+2022-01-10 20:26:10 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo-edicion
+2022-01-10 20:26:10 error:  [prerregistro.js] ERROR: ReferenceError: personaModel is not defined
+2022-01-10 20:26:40 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo-edicion
+2022-01-10 20:26:40 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: editaVehiculo 
+2022-01-10 20:26:40 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: BdEdicionVehiculo 
+2022-01-10 20:26:40 info: CALL spVehiculo(
+        NULL,  
+        40, 
+        '12345678999',
+        'VW',
+        'Golf',
+        2020,
+        '223311',
+        'Rojo'
+        )
+2022-01-10 20:26:40 info: result
+2022-01-10 20:26:40 info: [object Object]
+2022-01-10 20:26:40 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdVehiculo":7}
+2022-01-10 20:39:14 info:  [autenticacion.js] METODO: verificaToken  Error: Se generó un error en la verificación del token solicitado de /vehiculo-edicion
+2022-01-10 20:39:38 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo-edicion
+2022-01-10 20:39:38 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: editaVehiculo 
+2022-01-10 20:39:38 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: BdEdicionVehiculo 
+2022-01-10 20:39:38 info: CALL spVehiculo(
+        NULL,  
+        45, 
+        '12345678999',
+        'VW',
+        'Golf',
+        2020,
+        '223311',
+        'Rojo'
+        )
+2022-01-10 20:39:38 info: result
+2022-01-10 20:39:38 info: [object Object]
+2022-01-10 20:39:38 info: {"estatus":0,"mensaje":"Ocurrió un error en la edición del Vehículo.","mensajeDet":"Cannot add or update a child row: a foreign key constraint fails (`gtpe02`.`vehiculos`, CONSTRAINT `Fk_ConsecionarioVehiculo` FOREIGN KEY (`IdConcesionario`) REFERENCES `concesionarios` (`IdConcesionario`))"}
+2022-01-10 20:39:38 info:  [prerregistro.js] Atención: Ocurrió un error en la edición del Vehículo. Cannot add or update a child row: a foreign key constraint fails (`gtpe02`.`vehiculos`, CONSTRAINT `Fk_ConsecionarioVehiculo` FOREIGN KEY (`IdConcesionario`) REFERENCES `concesionarios` (`IdConcesionario`))
+2022-01-10 20:39:56 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo-edicion
+2022-01-10 20:39:56 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: editaVehiculo 
+2022-01-10 20:39:56 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: BdEdicionVehiculo 
+2022-01-10 20:39:56 info: CALL spVehiculo(
+        NULL,  
+        41, 
+        '9871112223',
+        'VW',
+        'Golf',
+        2020,
+        '223311',
+        'Rojo'
+        )
+2022-01-10 20:39:56 info: result
+2022-01-10 20:39:56 info: [object Object]
+2022-01-10 20:39:56 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdVehiculo":9}
+2022-01-10 20:42:47 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo-edicion
+2022-01-10 20:42:47 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: editaVehiculo 
+2022-01-10 20:42:47 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: BdEdicionVehiculo 
+2022-01-10 20:42:47 info: CALL spVehiculo(
+        NULL,  
+        24, 
+        '9871112223',
+        'VW',
+        'Golf',
+        2020,
+        '223311',
+        'Rojo'
+        )
+2022-01-10 20:42:47 info: result
+2022-01-10 20:42:47 info: [object Object]
+2022-01-10 20:42:47 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdVehiculo":10}

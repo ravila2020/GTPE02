@@ -1,0 +1,136 @@
+2022-01-31 13:41:46 info:  [citas.js] [Usuario: JGONZALEZ] METODO: cita-registro
+2022-01-31 13:41:46 error:  [citas.js] ERROR: ReferenceError: boby is not defined
+2022-01-31 13:42:05 info:  [citas.js] [Usuario: JGONZALEZ] METODO: cita-registro
+2022-01-31 13:42:05 info:  [citas.js] Atención: Verifique la información requerida.
+2022-01-31 13:42:28 info:  [citas.js] [Usuario: JGONZALEZ] METODO: cita-registro
+2022-01-31 13:42:28 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: registraCita 
+2022-01-31 13:42:28 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdCita 
+2022-01-31 13:42:28 info: CALL spCita( 'R',
+        NULL,  
+        7,  
+        '2022-02-03 12:00:00',
+        2, 
+        NULL,
+        NULL,
+        40, 
+        )
+2022-01-31 13:42:28 error: Se presentó un error en BdCita: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9
+2022-01-31 13:42:28 error:  [citas.js] ERROR: Se presentó un error al registrar la Cita: Se presentó un error en BdCita: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9
+2022-01-31 13:44:12 info:  [citas.js] [Usuario: JGONZALEZ] METODO: cita-registro
+2022-01-31 13:44:12 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: registraCita 
+2022-01-31 13:44:12 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdCita 
+2022-01-31 13:44:12 info: CALL spCita( 'R',
+        NULL,  
+        7,  
+        '2022-02-03 12:00:00',
+        2, 
+        NULL,
+        NULL,
+        40
+        )
+2022-01-31 13:44:46 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-cita
+2022-01-31 13:44:46 info:  [taller.dao.js]  FUNCION: consultaTalleresActivos
+2022-01-31 13:44:46 info:  [taller.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaTalleresActivos 
+2022-01-31 13:44:46 info: query_str
+2022-01-31 13:44:46 info: CALL spConsultaTalleres('A')
+2022-01-31 13:44:55 info:  [autenticacion.js] METODO: verificaToken  Error: Se generó un error en la verificación del token solicitado de /taller-disponibilidad
+2022-01-31 13:45:04 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-31 13:45:04 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-31 13:45:04 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaTallerDisponibilidad 
+2022-01-31 13:45:04 info: CALL spFechasDispTaller(2,'2022-02-01')
+2022-01-31 13:45:34 info:  [citas.js] [Usuario: JGONZALEZ] METODO: horas-disponibles
+2022-01-31 13:45:34 info:  [cita.dao.js]  FUNCION: consultaHorasDisponibles
+2022-01-31 13:45:34 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaHorasDisponibles 
+2022-01-31 13:45:34 info: CALL spHorasDispTaller(2, '2022-02-03')
+2022-01-31 13:46:18 info:  [citas.js] [Usuario: JGONZALEZ] METODO: horas-disponibles
+2022-01-31 13:46:18 info:  [cita.dao.js]  FUNCION: consultaHorasDisponibles
+2022-01-31 13:46:18 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaHorasDisponibles 
+2022-01-31 13:46:18 info: CALL spHorasDispTaller(2, '2022-02-04')
+2022-01-31 13:46:28 info:  [citas.js] [Usuario: JGONZALEZ] METODO: horas-disponibles
+2022-01-31 13:46:28 info:  [cita.dao.js]  FUNCION: consultaHorasDisponibles
+2022-01-31 13:46:28 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaHorasDisponibles 
+2022-01-31 13:46:28 info: CALL spHorasDispTaller(2, '2022-02-08')
+2022-01-31 13:46:36 info:  [citas.js] [Usuario: JGONZALEZ] METODO: horas-disponibles
+2022-01-31 13:46:36 info:  [cita.dao.js]  FUNCION: consultaHorasDisponibles
+2022-01-31 13:46:36 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaHorasDisponibles 
+2022-01-31 13:46:36 info: CALL spHorasDispTaller(2, '2022-02-03')
+2022-01-31 13:46:40 info:  [citas.js] [Usuario: JGONZALEZ] METODO: cita-registro
+2022-01-31 13:46:40 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: registraCita 
+2022-01-31 13:46:40 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdCita 
+2022-01-31 13:46:40 info: CALL spCita( 'R',
+        NULL,  
+        7,  
+        '2022-02-03 12:00:00',
+        2, 
+        NULL,
+        NULL,
+        40
+        )
+2022-01-31 13:46:40 info:  [citas.js] Atención: Existe una cita abierta para el Vehículo indicado. 
+2022-01-31 14:13:30 info:  [citas.js] [Usuario: JGONZALEZ] METODO: cita-registro
+2022-01-31 14:13:30 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: registraCita 
+2022-01-31 14:13:30 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdCita 
+2022-01-31 14:13:30 info: CALL spCita( 'R',
+        NULL,  
+        7,  
+        '2022-02-03 12:00:00',
+        2, 
+        NULL,
+        NULL,
+        40
+        )
+2022-01-31 14:13:30 info:  [citas.js] Atención: Existe una cita abierta para el Vehículo indicado. 
+2022-01-31 14:14:36 info:  [citas.js] [Usuario: JGONZALEZ] METODO: cita-registro
+2022-01-31 14:14:36 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: registraCita 
+2022-01-31 14:14:36 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdCita 
+2022-01-31 14:14:36 info: CALL spCita( 'R',
+        NULL,  
+        18,  
+        '2022-02-03 12:00:00',
+        2, 
+        NULL,
+        NULL,
+        44
+        )
+2022-01-31 14:14:36 info:  [citas.js] Atención: El horario indicado ya no está disponible. 
+2022-01-31 14:14:56 info:  [citas.js] [Usuario: JGONZALEZ] METODO: cita-registro
+2022-01-31 14:14:56 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: registraCita 
+2022-01-31 14:14:56 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdCita 
+2022-01-31 14:14:56 info: CALL spCita( 'R',
+        NULL,  
+        18,  
+        '2022-02-03 12:30:00',
+        2, 
+        NULL,
+        NULL,
+        44
+        )
+2022-01-31 14:33:00 info:  [citas.js] [Usuario: JGONZALEZ] METODO: cita-registro
+2022-01-31 14:33:00 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: registraCita 
+2022-01-31 14:33:00 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdCita 
+2022-01-31 14:33:00 info: CALL spCita( 'R',
+        NULL,  
+        19,  
+        '2022-02-03 12:30:00',
+        2, 
+        NULL,
+        NULL,
+        66
+        )
+2022-01-31 14:33:00 info:  [citas.js] Atención: El horario indicado está fuera del rango de atención. 
+2022-01-31 14:33:35 info:  [citas.js] [Usuario: JGONZALEZ] METODO: cita-registro
+2022-01-31 14:33:35 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: registraCita 
+2022-01-31 14:33:35 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdCita 
+2022-01-31 14:33:35 info: CALL spCita( 'R',
+        NULL,  
+        19,  
+        '2022-02-03 17:30:00',
+        2, 
+        NULL,
+        NULL,
+        66
+        )
+2022-01-31 14:33:44 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-31 14:33:44 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-31 14:33:44 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaTallerDisponibilidad 
+2022-01-31 14:33:44 info: CALL spFechasDispTaller(2,'2022-02-01')

@@ -1,0 +1,20 @@
+2022-02-01 11:11:03 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-cita
+2022-02-01 11:11:03 info:  [taller.dao.js]  FUNCION: consultaTalleresActivos
+2022-02-01 11:11:03 info:  [taller.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaTalleresActivos 
+2022-02-01 11:11:04 info: query_str
+2022-02-01 11:11:04 info: CALL spConsultaTalleres('A')
+2022-02-01 11:12:52 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-cita
+2022-02-01 11:12:52 info:  [taller.dao.js]  FUNCION: consultaTalleresActivos
+2022-02-01 11:12:52 info:  [taller.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaTalleresActivos 
+2022-02-01 11:12:52 info: query_str
+2022-02-01 11:12:52 info: CALL spConsultaTalleres('A')
+2022-02-01 11:13:22 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-cita
+2022-02-01 11:13:22 info:  [taller.dao.js]  FUNCION: consultaTalleresActivos
+2022-02-01 11:13:22 info:  [taller.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaTalleresActivos 
+2022-02-01 11:13:22 info: query_str
+2022-02-01 11:13:22 info: CALL spConsultaTalleres('A')
+2022-02-01 11:13:35 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-cita
+2022-02-01 11:13:35 info:  [taller.dao.js]  FUNCION: consultaTalleresActivos
+2022-02-01 11:13:35 info:  [taller.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaTalleresActivos 
+2022-02-01 11:13:35 info: query_str
+2022-02-01 11:13:35 info: CALL spConsultaTalleres('A')

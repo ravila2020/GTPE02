@@ -1,0 +1,101 @@
+2022-01-11 11:58:07 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo-edicion
+2022-01-11 11:58:07 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: editaVehiculo 
+2022-01-11 11:58:07 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: BdEdicionVehiculo 
+2022-01-11 11:58:09 info: CALL spVehiculo(
+        NULL,  
+        24, 
+        '9871112223',
+        'VW',
+        'Golf',
+        2020,
+        '223311',
+        'Rojo'
+        )
+2022-01-11 11:58:09 info: result
+2022-01-11 11:58:09 info: [object Object]
+2022-01-11 11:58:09 info: {"estatus":0,"mensaje":"Ocurrió un error en la edición del Vehículo.","mensajeDet":"Unknown column 'vIdConcesionario' in 'where clause'"}
+2022-01-11 11:58:09 info:  [prerregistro.js] Atención: Ocurrió un error en la edición del Vehículo. Unknown column 'vIdConcesionario' in 'where clause'
+2022-01-11 12:05:18 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo-edicion
+2022-01-11 12:05:18 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: editaVehiculo 
+2022-01-11 12:05:18 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: BdEdicionVehiculo 
+2022-01-11 12:05:18 info: CALL spVehiculo(
+        NULL,  
+        24, 
+        '9871112223',
+        'VW',
+        'Golf',
+        2020,
+        '223311',
+        'Rojo'
+        )
+2022-01-11 12:05:18 info: result
+2022-01-11 12:05:18 info: [object Object]
+2022-01-11 12:05:18 info: {"estatus":0,"mensaje":"Actualmente no se puede registrar un Vehículo al consesionario indicado.","mensajeDet":""}
+2022-01-11 12:05:18 info:  [prerregistro.js] Atención: Actualmente no se puede registrar un Vehículo al consesionario indicado. 
+2022-01-11 13:52:01 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo-edicion
+2022-01-11 13:52:01 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: editaVehiculo 
+2022-01-11 13:52:01 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: BdEdicionVehiculo 
+2022-01-11 13:52:01 info: CALL spVehiculo(
+        NULL,  
+        31, 
+        '9871112223',
+        'VW',
+        'JETTA',
+        2020,
+        '223311',
+        'Rojo'
+        )
+2022-01-11 13:52:02 info: result
+2022-01-11 13:52:02 info: [object Object]
+2022-01-11 13:52:02 info: {"estatus":0,"mensaje":"Actualmente no se puede registrar un Vehículo al consesionario indicado.","mensajeDet":""}
+2022-01-11 13:52:02 info:  [prerregistro.js] Atención: Actualmente no se puede registrar un Vehículo al consesionario indicado. 
+2022-01-11 13:52:24 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo-edicion
+2022-01-11 13:52:24 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: editaVehiculo 
+2022-01-11 13:52:24 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: BdEdicionVehiculo 
+2022-01-11 13:52:24 info: CALL spVehiculo(
+        NULL,  
+        38, 
+        '9871112223',
+        'VW',
+        'JETTA',
+        2020,
+        '223311',
+        'Rojo'
+        )
+2022-01-11 13:52:24 info: result
+2022-01-11 13:52:24 info: [object Object]
+2022-01-11 13:52:24 info: {"estatus":0,"mensaje":"Actualmente no se puede registrar un Vehículo al consesionario indicado.","mensajeDet":""}
+2022-01-11 13:52:24 info:  [prerregistro.js] Atención: Actualmente no se puede registrar un Vehículo al consesionario indicado. 
+2022-01-11 13:59:54 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo-edicion
+2022-01-11 13:59:54 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: editaVehiculo 
+2022-01-11 13:59:54 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: BdEdicionVehiculo 
+2022-01-11 13:59:54 info: CALL spVehiculo(
+        NULL,  
+        38, 
+        '9871112223',
+        'VW',
+        'JETTA',
+        2020,
+        '223311',
+        'Rojo'
+        )
+2022-01-11 13:59:55 info: result
+2022-01-11 13:59:55 info: [object Object]
+2022-01-11 13:59:55 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdVehiculo":11}
+2022-01-11 18:18:46 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo-edicion
+2022-01-11 18:18:46 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: editaVehiculo 
+2022-01-11 18:18:46 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: BdEdicionVehiculo 
+2022-01-11 18:18:46 info: CALL spVehiculo(
+        NULL,  
+        38, 
+        '9871112223',
+        'VW',
+        'JETTA',
+        2020,
+        '223311',
+        'Rojo'
+        )
+2022-01-11 18:18:46 info: result
+2022-01-11 18:18:46 info: [object Object]
+2022-01-11 18:18:46 info: {"estatus":0,"mensaje":"Actualmente no se puede registrar un Vehículo al consesionario indicado.","mensajeDet":""}
+2022-01-11 18:18:46 info:  [prerregistro.js] Atención: Actualmente no se puede registrar un Vehículo al consesionario indicado. 

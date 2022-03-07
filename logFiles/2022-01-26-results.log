@@ -1,0 +1,93 @@
+2022-01-26 17:58:37 info:  [documentacion.js] [Usuario: undefined] METODO: documento-edicion
+2022-01-26 17:58:37 info:  [documentacion.js] Atención: Verifique la información requerida.
+2022-01-26 17:58:51 info:  [documentacion.js] [Usuario: undefined] METODO: documento-edicion
+2022-01-26 17:58:51 info: req.file
+2022-01-26 17:58:51 info: {"fieldname":"Documento","originalname":"F0000000186.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"C:/ArchivosDocumentos/","filename":"F0000000186.pdf","path":"C:\\ArchivosDocumentos\\F0000000186.pdf","size":122420}
+2022-01-26 17:58:51 info: NombreArchivoPDF
+2022-01-26 17:58:51 info: F0000000186.pdf
+2022-01-26 17:58:51 info:  [documentacion.dao.js] [Usuario: ] METODO: editaDocumento 
+2022-01-26 17:58:51 info:  [documentacion.dao.js] [Usuario: ] METODO: BdEdicionDocumento 
+2022-01-26 17:58:51 info: CALL spVehiculoDocumento( 'E',
+        4,  
+        1,  
+        5, 
+        'F0000000186.pdf'
+        )
+2022-01-26 18:00:22 info:  [documentacion.js] [Usuario: undefined] METODO: documento-edicion
+2022-01-26 18:00:22 info: req.file
+2022-01-26 18:00:22 info: {"fieldname":"Documento","originalname":"F0000000186.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"C:/ArchivosDocumentos/","filename":"F0000000186.pdf","path":"C:\\ArchivosDocumentos\\F0000000186.pdf","size":122420}
+2022-01-26 18:00:22 info: NombreArchivoPDF
+2022-01-26 18:00:22 info: F0000000186.pdf
+2022-01-26 18:00:22 info:  [documentacion.dao.js] [Usuario: ] METODO: editaDocumento 
+2022-01-26 18:00:22 info:  [documentacion.dao.js] [Usuario: ] METODO: BdEdicionDocumento 
+2022-01-26 18:00:22 info: CALL spVehiculoDocumento( 'E',
+        1,  
+        1,  
+        5, 
+        'F0000000186.pdf'
+        )
+2022-01-26 18:00:52 info:  [documentacion.js] [Usuario: undefined] METODO: documento-edicion
+2022-01-26 18:00:52 info: req.file
+2022-01-26 18:00:52 info: {"fieldname":"Documento","originalname":"F0000000186.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"C:/ArchivosDocumentos/","filename":"F0000000186.pdf","path":"C:\\ArchivosDocumentos\\F0000000186.pdf","size":122420}
+2022-01-26 18:00:52 info: NombreArchivoPDF
+2022-01-26 18:00:52 info: F0000000186.pdf
+2022-01-26 18:00:52 info:  [documentacion.dao.js] [Usuario: ] METODO: editaDocumento 
+2022-01-26 18:00:52 info:  [documentacion.dao.js] [Usuario: ] METODO: BdEdicionDocumento 
+2022-01-26 18:00:52 info: CALL spVehiculoDocumento( 'E',
+        1,  
+        1,  
+        5, 
+        'F0000000186.pdf'
+        )
+2022-01-26 18:01:38 info:  [documentacion.js] [Usuario: undefined] METODO: documento-edicion
+2022-01-26 18:01:38 info: req.file
+2022-01-26 18:01:38 info: {"fieldname":"Documento","originalname":"F0000000186.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"C:/ArchivosDocumentos/","filename":"F0000000186.pdf","path":"C:\\ArchivosDocumentos\\F0000000186.pdf","size":122420}
+2022-01-26 18:01:38 info: NombreArchivoPDF
+2022-01-26 18:01:38 info: F0000000186.pdf
+2022-01-26 18:01:38 info:  [documentacion.dao.js] [Usuario: ] METODO: editaDocumento 
+2022-01-26 18:01:38 info:  [documentacion.dao.js] [Usuario: ] METODO: BdEdicionDocumento 
+2022-01-26 18:01:38 info: CALL spVehiculoDocumento( 'E',
+        1,  
+        1,  
+        5, 
+        'F0000000186.pdf'
+        )
+2022-01-26 18:03:28 info:  [documentacion.js] [Usuario: undefined] METODO: documento-edicion
+2022-01-26 18:03:28 info: req.file
+2022-01-26 18:03:28 info: {"fieldname":"Documento","originalname":"F0000000186.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"C:/ArchivosDocumentos/","filename":"F0000000186.pdf","path":"C:\\ArchivosDocumentos\\F0000000186.pdf","size":122420}
+2022-01-26 18:03:28 info: NombreArchivoPDF
+2022-01-26 18:03:28 info: F0000000186.pdf
+2022-01-26 18:03:28 info:  [documentacion.dao.js] [Usuario: ] METODO: editaDocumento 
+2022-01-26 18:03:28 info:  [documentacion.dao.js] [Usuario: ] METODO: BdEdicionDocumento 
+2022-01-26 18:03:28 info: CALL spVehiculoDocumento( 'E',
+        1,  
+        1,  
+        5, 
+        'F0000000186.pdf'
+        )
+2022-01-26 18:03:49 info:  [documentacion.js] [Usuario: undefined] METODO: documento-edicion
+2022-01-26 18:03:49 info: req.file
+2022-01-26 18:03:49 info: {"fieldname":"Documento","originalname":"F0000000186.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"C:/ArchivosDocumentos/","filename":"F0000000186.pdf","path":"C:\\ArchivosDocumentos\\F0000000186.pdf","size":122420}
+2022-01-26 18:03:49 info: NombreArchivoPDF
+2022-01-26 18:03:49 info: F0000000186.pdf
+2022-01-26 18:03:49 info:  [documentacion.dao.js] [Usuario: ] METODO: editaDocumento 
+2022-01-26 18:03:49 info:  [documentacion.dao.js] [Usuario: ] METODO: BdEdicionDocumento 
+2022-01-26 18:03:49 info: CALL spVehiculoDocumento( 'E',
+        1,  
+        1,  
+        5, 
+        'F0000000186.pdf'
+        )
+2022-01-26 18:06:42 info:  [documentacion.js] [Usuario: undefined] METODO: documento-edicion
+2022-01-26 18:06:42 info: req.file
+2022-01-26 18:06:42 info: {"fieldname":"Documento","originalname":"F0000000186.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"C:/ArchivosDocumentos/","filename":"F0000000186.pdf","path":"C:\\ArchivosDocumentos\\F0000000186.pdf","size":122420}
+2022-01-26 18:06:42 info: NombreArchivoPDF
+2022-01-26 18:06:42 info: F0000000186.pdf
+2022-01-26 18:06:42 info:  [documentacion.dao.js] [Usuario: ] METODO: editaDocumento 
+2022-01-26 18:06:42 info:  [documentacion.dao.js] [Usuario: ] METODO: BdEdicionDocumento 
+2022-01-26 18:06:42 info: CALL spVehiculoDocumento( 'E',
+        1,  
+        1,  
+        5, 
+        'F0000000186.pdf'
+        )

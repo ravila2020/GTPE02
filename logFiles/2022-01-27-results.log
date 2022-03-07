@@ -1,0 +1,443 @@
+2022-01-27 10:55:17 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-27 10:55:17 info:  [citas.js] Atención: Verifique la información requerida.
+2022-01-27 10:57:04 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-27 10:57:04 info: parametros
+2022-01-27 10:57:04 info: {"IdUsuario":"JGONZALEZ","IdTaller":"1","Fecha":"2022-02-01"}
+2022-01-27 10:57:04 error:  [citas.js] ERROR: TypeError: cita.consultaDocumentacion is not a function
+2022-01-27 10:57:33 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-27 10:57:33 info: parametros
+2022-01-27 10:57:33 info: {"IdUsuario":"JGONZALEZ","IdTaller":"1","Fecha":"2022-02-01"}
+2022-01-27 10:57:33 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-27 10:57:33 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaCita 
+2022-01-27 10:57:33 info: CALL fechasDispTaller(1,'2022-02-01')
+2022-01-27 10:57:37 error: Se presentó un error en BdConsultaCita: Error: Incorrect number of arguments for PROCEDURE gtpe02.fechasDispTaller; expected 1, got 2
+2022-01-27 10:57:37 error:  [citas.js] ERROR: Se presentó un error al consultar las citas: Se presentó un error en BdConsultaCita: Error: Incorrect number of arguments for PROCEDURE gtpe02.fechasDispTaller; expected 1, got 2
+2022-01-27 11:09:50 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-27 11:09:50 info: parametros
+2022-01-27 11:09:50 info: {"IdUsuario":"JGONZALEZ","IdTaller":"1","Fecha":"2022-02-01"}
+2022-01-27 11:09:50 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-27 11:09:50 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaCita 
+2022-01-27 11:09:50 info: CALL fechasDispTaller('2022-02-01')
+2022-01-27 11:09:50 info: rows----------------->
+2022-01-27 11:09:50 info: [[{"mesActual":"2022-02-02T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-04T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-06T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-08T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-10T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-12T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-14T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-16T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-18T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-20T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-22T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-24T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-26T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-28T06:00:00.000Z","Disponibles":1}],{"fieldCount":0,"affectedRows":0,"insertId":0,"info":"","serverStatus":2,"warningStatus":0}]
+2022-01-27 11:10:48 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-27 11:10:48 info: parametros
+2022-01-27 11:10:48 info: {"IdUsuario":"JGONZALEZ","IdTaller":"1","Fecha":"2022-02-01"}
+2022-01-27 11:10:48 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-27 11:10:48 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaCita 
+2022-01-27 11:10:48 info: CALL fechasDispTaller('2022-02-01')
+2022-01-27 11:10:48 info: rows----------------->
+2022-01-27 11:10:48 info: [[{"mesActual":"2022-02-02T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-04T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-06T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-08T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-10T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-12T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-14T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-16T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-18T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-20T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-22T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-24T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-26T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-28T06:00:00.000Z","Disponibles":1}],{"fieldCount":0,"affectedRows":0,"insertId":0,"info":"","serverStatus":2,"warningStatus":0}]
+2022-01-27 11:10:48 info: rows[0]----------------->
+2022-01-27 11:10:48 info: [{"mesActual":"2022-02-02T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:14:29 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-27 11:14:29 info: parametros
+2022-01-27 11:14:29 info: {"IdUsuario":"JGONZALEZ","IdTaller":"1","Fecha":"2022-02-01"}
+2022-01-27 11:14:29 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-27 11:14:29 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaCita 
+2022-01-27 11:14:29 info: CALL fechasDispTaller('2022-02-01')
+2022-01-27 11:14:29 info: rows----------------->
+2022-01-27 11:14:29 info: [[{"mesActual":"2022-02-02T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-04T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-06T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-08T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-10T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-12T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-14T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-16T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-18T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-20T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-22T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-24T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-26T06:00:00.000Z","Disponibles":1}],[{"mesActual":"2022-02-28T06:00:00.000Z","Disponibles":1}],{"fieldCount":0,"affectedRows":0,"insertId":0,"info":"","serverStatus":2,"warningStatus":0}]
+2022-01-27 11:14:29 info: rows longitud----------------->
+2022-01-27 11:14:29 info: 15
+2022-01-27 11:19:30 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-27 11:19:30 info: parametros
+2022-01-27 11:19:30 info: {"IdUsuario":"JGONZALEZ","IdTaller":"1","Fecha":"2022-02-01"}
+2022-01-27 11:19:30 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-27 11:19:30 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaCita 
+2022-01-27 11:19:30 info: CALL fechasDispTaller('2022-02-01')
+2022-01-27 11:19:30 info: rows----------------->
+2022-01-27 11:19:30 info: [[{"Fecha":"2022-02-02T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-04T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-06T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-08T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-10T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-12T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-14T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-16T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-18T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-20T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-22T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-24T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-26T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-28T06:00:00.000Z","Disponibles":1}],{"fieldCount":0,"affectedRows":0,"insertId":0,"info":"","serverStatus":2,"warningStatus":0}]
+2022-01-27 11:19:30 info: rows longitud----------------->
+2022-01-27 11:19:30 info: 15
+2022-01-27 11:21:09 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-27 11:21:09 info: parametros
+2022-01-27 11:21:09 info: {"IdUsuario":"JGONZALEZ","IdTaller":"1","Fecha":"2022-02-01"}
+2022-01-27 11:21:09 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-27 11:21:09 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaCita 
+2022-01-27 11:21:09 info: CALL fechasDispTaller('2022-02-01')
+2022-01-27 11:21:09 info: rows----------------->
+2022-01-27 11:21:09 info: [[{"Fecha":"2022-02-02T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-04T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-06T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-08T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-10T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-12T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-14T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-16T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-18T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-20T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-22T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-24T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-26T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-28T06:00:00.000Z","Disponibles":1}],{"fieldCount":0,"affectedRows":0,"insertId":0,"info":"","serverStatus":2,"warningStatus":0}]
+2022-01-27 11:21:09 info: rows longitud----------------->
+2022-01-27 11:21:09 info: 15
+2022-01-27 11:21:09 info: datos[i]
+2022-01-27 11:21:09 info: [object Object]
+2022-01-27 11:21:09 info: datos[i]
+2022-01-27 11:21:09 info: [object Object]
+2022-01-27 11:21:09 info: datos[i]
+2022-01-27 11:21:09 info: [object Object]
+2022-01-27 11:21:09 info: datos[i]
+2022-01-27 11:21:09 info: [object Object]
+2022-01-27 11:21:09 info: datos[i]
+2022-01-27 11:21:09 info: [object Object]
+2022-01-27 11:21:09 info: datos[i]
+2022-01-27 11:21:09 info: [object Object]
+2022-01-27 11:21:09 info: datos[i]
+2022-01-27 11:21:09 info: [object Object]
+2022-01-27 11:21:09 info: datos[i]
+2022-01-27 11:21:09 info: [object Object]
+2022-01-27 11:21:09 info: datos[i]
+2022-01-27 11:21:09 info: [object Object]
+2022-01-27 11:21:09 info: datos[i]
+2022-01-27 11:21:09 info: [object Object]
+2022-01-27 11:21:09 info: datos[i]
+2022-01-27 11:21:09 info: [object Object]
+2022-01-27 11:21:09 info: datos[i]
+2022-01-27 11:21:09 info: [object Object]
+2022-01-27 11:21:09 info: datos[i]
+2022-01-27 11:21:09 info: [object Object]
+2022-01-27 11:21:09 info: datos[i]
+2022-01-27 11:21:09 info: [object Object]
+2022-01-27 11:22:59 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-27 11:22:59 info: parametros
+2022-01-27 11:22:59 info: {"IdUsuario":"JGONZALEZ","IdTaller":"1","Fecha":"2022-02-01"}
+2022-01-27 11:22:59 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-27 11:22:59 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaCita 
+2022-01-27 11:22:59 info: CALL fechasDispTaller('2022-02-01')
+2022-01-27 11:22:59 info: rows----------------->
+2022-01-27 11:22:59 info: [[{"Fecha":"2022-02-02T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-04T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-06T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-08T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-10T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-12T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-14T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-16T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-18T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-20T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-22T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-24T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-26T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-28T06:00:00.000Z","Disponibles":1}],{"fieldCount":0,"affectedRows":0,"insertId":0,"info":"","serverStatus":2,"warningStatus":0}]
+2022-01-27 11:22:59 info: rows longitud----------------->
+2022-01-27 11:22:59 info: 15
+2022-01-27 11:22:59 info: fechaX[i]
+2022-01-27 11:22:59 info: [{"Fecha":"2022-02-02T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:22:59 info: fechaX[i]
+2022-01-27 11:22:59 info: [{"Fecha":"2022-02-04T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:22:59 info: fechaX[i]
+2022-01-27 11:22:59 info: [{"Fecha":"2022-02-06T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:22:59 info: fechaX[i]
+2022-01-27 11:22:59 info: [{"Fecha":"2022-02-08T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:22:59 info: fechaX[i]
+2022-01-27 11:22:59 info: [{"Fecha":"2022-02-10T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:22:59 info: fechaX[i]
+2022-01-27 11:22:59 info: [{"Fecha":"2022-02-12T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:22:59 info: fechaX[i]
+2022-01-27 11:22:59 info: [{"Fecha":"2022-02-14T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:22:59 info: fechaX[i]
+2022-01-27 11:22:59 info: [{"Fecha":"2022-02-16T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:22:59 info: fechaX[i]
+2022-01-27 11:22:59 info: [{"Fecha":"2022-02-18T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:22:59 info: fechaX[i]
+2022-01-27 11:22:59 info: [{"Fecha":"2022-02-20T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:22:59 info: fechaX[i]
+2022-01-27 11:22:59 info: [{"Fecha":"2022-02-22T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:22:59 info: fechaX[i]
+2022-01-27 11:22:59 info: [{"Fecha":"2022-02-24T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:22:59 info: fechaX[i]
+2022-01-27 11:22:59 info: [{"Fecha":"2022-02-26T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:22:59 info: fechaX[i]
+2022-01-27 11:22:59 info: [{"Fecha":"2022-02-28T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:24:25 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-27 11:24:25 info: parametros
+2022-01-27 11:24:25 info: {"IdUsuario":"JGONZALEZ","IdTaller":"1","Fecha":"2022-02-01"}
+2022-01-27 11:24:25 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-27 11:24:25 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaCita 
+2022-01-27 11:24:25 info: CALL fechasDispTaller('2022-02-01')
+2022-01-27 11:24:25 info: rows----------------->
+2022-01-27 11:24:25 info: [[{"Fecha":"2022-02-02T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-04T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-06T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-08T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-10T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-12T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-14T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-16T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-18T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-20T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-22T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-24T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-26T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-28T06:00:00.000Z","Disponibles":1}],{"fieldCount":0,"affectedRows":0,"insertId":0,"info":"","serverStatus":2,"warningStatus":0}]
+2022-01-27 11:24:25 info: rows longitud----------------->
+2022-01-27 11:24:25 info: 15
+2022-01-27 11:24:25 info: fechaX[i]
+2022-01-27 11:24:25 info: [{"Fecha":"2022-02-02T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:24:25 info: fechaX[i]
+2022-01-27 11:24:25 info: [{"Fecha":"2022-02-04T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:24:25 info: fechaX[i]
+2022-01-27 11:24:25 info: [{"Fecha":"2022-02-06T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:24:25 info: fechaX[i]
+2022-01-27 11:24:25 info: [{"Fecha":"2022-02-08T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:24:25 info: fechaX[i]
+2022-01-27 11:24:25 info: [{"Fecha":"2022-02-10T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:24:25 info: fechaX[i]
+2022-01-27 11:24:25 info: [{"Fecha":"2022-02-12T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:24:25 info: fechaX[i]
+2022-01-27 11:24:25 info: [{"Fecha":"2022-02-14T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:24:25 info: fechaX[i]
+2022-01-27 11:24:25 info: [{"Fecha":"2022-02-16T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:24:25 info: fechaX[i]
+2022-01-27 11:24:25 info: [{"Fecha":"2022-02-18T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:24:25 info: fechaX[i]
+2022-01-27 11:24:25 info: [{"Fecha":"2022-02-20T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:24:25 info: fechaX[i]
+2022-01-27 11:24:25 info: [{"Fecha":"2022-02-22T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:24:25 info: fechaX[i]
+2022-01-27 11:24:25 info: [{"Fecha":"2022-02-24T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:24:25 info: fechaX[i]
+2022-01-27 11:24:25 info: [{"Fecha":"2022-02-26T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:24:25 info: fechaX[i]
+2022-01-27 11:24:25 info: [{"Fecha":"2022-02-28T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:24:25 info: fechasDisp[i]
+2022-01-27 11:24:25 info: [{},{},{},{},{},{},{},{},{},{},{},{},{},{}]
+2022-01-27 11:25:59 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-27 11:25:59 info: parametros
+2022-01-27 11:25:59 info: {"IdUsuario":"JGONZALEZ","IdTaller":"1","Fecha":"2022-02-01"}
+2022-01-27 11:25:59 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-27 11:25:59 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaCita 
+2022-01-27 11:25:59 info: CALL fechasDispTaller('2022-02-01')
+2022-01-27 11:25:59 info: rows----------------->
+2022-01-27 11:25:59 info: [[{"Fecha":"2022-02-02T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-04T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-06T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-08T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-10T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-12T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-14T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-16T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-18T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-20T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-22T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-24T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-26T06:00:00.000Z","Disponibles":1}],[{"Fecha":"2022-02-28T06:00:00.000Z","Disponibles":1}],{"fieldCount":0,"affectedRows":0,"insertId":0,"info":"","serverStatus":2,"warningStatus":0}]
+2022-01-27 11:25:59 info: rows longitud----------------->
+2022-01-27 11:25:59 info: 15
+2022-01-27 11:25:59 info: datoFecha[i]
+2022-01-27 11:25:59 info: {"Fecha":"2022-02-02T06:00:00.000Z","Disponibles":1}
+2022-01-27 11:25:59 info: datoFecha[i]
+2022-01-27 11:25:59 info: {"Fecha":"2022-02-04T06:00:00.000Z","Disponibles":1}
+2022-01-27 11:25:59 info: datoFecha[i]
+2022-01-27 11:25:59 info: {"Fecha":"2022-02-06T06:00:00.000Z","Disponibles":1}
+2022-01-27 11:25:59 info: datoFecha[i]
+2022-01-27 11:25:59 info: {"Fecha":"2022-02-08T06:00:00.000Z","Disponibles":1}
+2022-01-27 11:25:59 info: datoFecha[i]
+2022-01-27 11:25:59 info: {"Fecha":"2022-02-10T06:00:00.000Z","Disponibles":1}
+2022-01-27 11:25:59 info: datoFecha[i]
+2022-01-27 11:25:59 info: {"Fecha":"2022-02-12T06:00:00.000Z","Disponibles":1}
+2022-01-27 11:25:59 info: datoFecha[i]
+2022-01-27 11:25:59 info: {"Fecha":"2022-02-14T06:00:00.000Z","Disponibles":1}
+2022-01-27 11:25:59 info: datoFecha[i]
+2022-01-27 11:25:59 info: {"Fecha":"2022-02-16T06:00:00.000Z","Disponibles":1}
+2022-01-27 11:25:59 info: datoFecha[i]
+2022-01-27 11:25:59 info: {"Fecha":"2022-02-18T06:00:00.000Z","Disponibles":1}
+2022-01-27 11:25:59 info: datoFecha[i]
+2022-01-27 11:25:59 info: {"Fecha":"2022-02-20T06:00:00.000Z","Disponibles":1}
+2022-01-27 11:25:59 info: datoFecha[i]
+2022-01-27 11:25:59 info: {"Fecha":"2022-02-22T06:00:00.000Z","Disponibles":1}
+2022-01-27 11:25:59 info: datoFecha[i]
+2022-01-27 11:25:59 info: {"Fecha":"2022-02-24T06:00:00.000Z","Disponibles":1}
+2022-01-27 11:25:59 info: datoFecha[i]
+2022-01-27 11:25:59 info: {"Fecha":"2022-02-26T06:00:00.000Z","Disponibles":1}
+2022-01-27 11:25:59 info: datoFecha[i]
+2022-01-27 11:25:59 info: {"Fecha":"2022-02-28T06:00:00.000Z","Disponibles":1}
+2022-01-27 11:25:59 info: fechasDisp[i]
+2022-01-27 11:25:59 info: [{"Fecha":"2022-02-02T06:00:00.000Z","Disponibles":1},{"Fecha":"2022-02-04T06:00:00.000Z","Disponibles":1},{"Fecha":"2022-02-06T06:00:00.000Z","Disponibles":1},{"Fecha":"2022-02-08T06:00:00.000Z","Disponibles":1},{"Fecha":"2022-02-10T06:00:00.000Z","Disponibles":1},{"Fecha":"2022-02-12T06:00:00.000Z","Disponibles":1},{"Fecha":"2022-02-14T06:00:00.000Z","Disponibles":1},{"Fecha":"2022-02-16T06:00:00.000Z","Disponibles":1},{"Fecha":"2022-02-18T06:00:00.000Z","Disponibles":1},{"Fecha":"2022-02-20T06:00:00.000Z","Disponibles":1},{"Fecha":"2022-02-22T06:00:00.000Z","Disponibles":1},{"Fecha":"2022-02-24T06:00:00.000Z","Disponibles":1},{"Fecha":"2022-02-26T06:00:00.000Z","Disponibles":1},{"Fecha":"2022-02-28T06:00:00.000Z","Disponibles":1}]
+2022-01-27 11:45:33 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-27 11:45:33 info: parametros
+2022-01-27 11:45:33 info: {"IdUsuario":"JGONZALEZ","IdTaller":"1","Fecha":"2022-02-01"}
+2022-01-27 11:45:33 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-27 11:45:33 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaCita 
+2022-01-27 11:45:33 info: CALL fechasDispTaller('2022-02-01')
+2022-01-27 11:45:34 info: rows----------------->
+2022-01-27 11:45:34 info: [[{"Fecha":"02/02/2022","Disponibles":1}],[{"Fecha":"04/02/2022","Disponibles":1}],[{"Fecha":"06/02/2022","Disponibles":1}],[{"Fecha":"08/02/2022","Disponibles":1}],[{"Fecha":"10/02/2022","Disponibles":1}],[{"Fecha":"12/02/2022","Disponibles":1}],[{"Fecha":"14/02/2022","Disponibles":1}],[{"Fecha":"16/02/2022","Disponibles":1}],[{"Fecha":"18/02/2022","Disponibles":1}],[{"Fecha":"20/02/2022","Disponibles":1}],[{"Fecha":"22/02/2022","Disponibles":1}],[{"Fecha":"24/02/2022","Disponibles":1}],[{"Fecha":"26/02/2022","Disponibles":1}],[{"Fecha":"28/02/2022","Disponibles":1}],{"fieldCount":0,"affectedRows":0,"insertId":0,"info":"","serverStatus":2,"warningStatus":0}]
+2022-01-27 11:45:34 info: rows longitud----------------->
+2022-01-27 11:45:34 info: 15
+2022-01-27 11:45:34 info: datoFecha[i]
+2022-01-27 11:45:34 info: {"Fecha":"02/02/2022","Disponibles":1}
+2022-01-27 11:45:34 info: datoFecha[i]
+2022-01-27 11:45:34 info: {"Fecha":"04/02/2022","Disponibles":1}
+2022-01-27 11:45:34 info: datoFecha[i]
+2022-01-27 11:45:34 info: {"Fecha":"06/02/2022","Disponibles":1}
+2022-01-27 11:45:34 info: datoFecha[i]
+2022-01-27 11:45:34 info: {"Fecha":"08/02/2022","Disponibles":1}
+2022-01-27 11:45:34 info: datoFecha[i]
+2022-01-27 11:45:34 info: {"Fecha":"10/02/2022","Disponibles":1}
+2022-01-27 11:45:34 info: datoFecha[i]
+2022-01-27 11:45:34 info: {"Fecha":"12/02/2022","Disponibles":1}
+2022-01-27 11:45:34 info: datoFecha[i]
+2022-01-27 11:45:34 info: {"Fecha":"14/02/2022","Disponibles":1}
+2022-01-27 11:45:34 info: datoFecha[i]
+2022-01-27 11:45:34 info: {"Fecha":"16/02/2022","Disponibles":1}
+2022-01-27 11:45:34 info: datoFecha[i]
+2022-01-27 11:45:34 info: {"Fecha":"18/02/2022","Disponibles":1}
+2022-01-27 11:45:34 info: datoFecha[i]
+2022-01-27 11:45:34 info: {"Fecha":"20/02/2022","Disponibles":1}
+2022-01-27 11:45:34 info: datoFecha[i]
+2022-01-27 11:45:34 info: {"Fecha":"22/02/2022","Disponibles":1}
+2022-01-27 11:45:34 info: datoFecha[i]
+2022-01-27 11:45:34 info: {"Fecha":"24/02/2022","Disponibles":1}
+2022-01-27 11:45:34 info: datoFecha[i]
+2022-01-27 11:45:34 info: {"Fecha":"26/02/2022","Disponibles":1}
+2022-01-27 11:45:34 info: datoFecha[i]
+2022-01-27 11:45:34 info: {"Fecha":"28/02/2022","Disponibles":1}
+2022-01-27 11:45:34 info: fechasDisp[i]
+2022-01-27 11:45:34 info: [{"Fecha":"02/02/2022","Disponibles":1},{"Fecha":"04/02/2022","Disponibles":1},{"Fecha":"06/02/2022","Disponibles":1},{"Fecha":"08/02/2022","Disponibles":1},{"Fecha":"10/02/2022","Disponibles":1},{"Fecha":"12/02/2022","Disponibles":1},{"Fecha":"14/02/2022","Disponibles":1},{"Fecha":"16/02/2022","Disponibles":1},{"Fecha":"18/02/2022","Disponibles":1},{"Fecha":"20/02/2022","Disponibles":1},{"Fecha":"22/02/2022","Disponibles":1},{"Fecha":"24/02/2022","Disponibles":1},{"Fecha":"26/02/2022","Disponibles":1},{"Fecha":"28/02/2022","Disponibles":1}]
+2022-01-27 17:02:26 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-27 17:02:26 info: parametros
+2022-01-27 17:02:26 info: {"IdUsuario":"JGONZALEZ","IdTaller":"1","Fecha":"2022-02-01"}
+2022-01-27 17:02:26 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-27 17:02:26 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaTallerDisponibilidad 
+2022-01-27 17:02:26 info: CALL fechasDispTaller('2022-02-01')
+2022-01-27 17:02:26 info: rows----------------->
+2022-01-27 17:02:26 info: [[{"Fecha":"02/02/2022","Disponibles":1}],[{"Fecha":"04/02/2022","Disponibles":1}],[{"Fecha":"06/02/2022","Disponibles":1}],[{"Fecha":"08/02/2022","Disponibles":1}],[{"Fecha":"10/02/2022","Disponibles":1}],[{"Fecha":"12/02/2022","Disponibles":1}],[{"Fecha":"14/02/2022","Disponibles":1}],[{"Fecha":"16/02/2022","Disponibles":1}],[{"Fecha":"18/02/2022","Disponibles":1}],[{"Fecha":"20/02/2022","Disponibles":1}],[{"Fecha":"22/02/2022","Disponibles":1}],[{"Fecha":"24/02/2022","Disponibles":1}],[{"Fecha":"26/02/2022","Disponibles":1}],[{"Fecha":"28/02/2022","Disponibles":1}],{"fieldCount":0,"affectedRows":0,"insertId":0,"info":"","serverStatus":2,"warningStatus":0}]
+2022-01-27 17:02:26 info: rows longitud----------------->
+2022-01-27 17:02:26 info: 15
+2022-01-27 17:02:26 info: datoFecha[i]
+2022-01-27 17:02:26 info: {"Fecha":"02/02/2022","Disponibles":1}
+2022-01-27 17:02:26 info: datoFecha[i]
+2022-01-27 17:02:26 info: {"Fecha":"04/02/2022","Disponibles":1}
+2022-01-27 17:02:26 info: datoFecha[i]
+2022-01-27 17:02:26 info: {"Fecha":"06/02/2022","Disponibles":1}
+2022-01-27 17:02:26 info: datoFecha[i]
+2022-01-27 17:02:26 info: {"Fecha":"08/02/2022","Disponibles":1}
+2022-01-27 17:02:26 info: datoFecha[i]
+2022-01-27 17:02:26 info: {"Fecha":"10/02/2022","Disponibles":1}
+2022-01-27 17:02:26 info: datoFecha[i]
+2022-01-27 17:02:26 info: {"Fecha":"12/02/2022","Disponibles":1}
+2022-01-27 17:02:26 info: datoFecha[i]
+2022-01-27 17:02:26 info: {"Fecha":"14/02/2022","Disponibles":1}
+2022-01-27 17:02:26 info: datoFecha[i]
+2022-01-27 17:02:26 info: {"Fecha":"16/02/2022","Disponibles":1}
+2022-01-27 17:02:26 info: datoFecha[i]
+2022-01-27 17:02:26 info: {"Fecha":"18/02/2022","Disponibles":1}
+2022-01-27 17:02:26 info: datoFecha[i]
+2022-01-27 17:02:26 info: {"Fecha":"20/02/2022","Disponibles":1}
+2022-01-27 17:02:26 info: datoFecha[i]
+2022-01-27 17:02:26 info: {"Fecha":"22/02/2022","Disponibles":1}
+2022-01-27 17:02:26 info: datoFecha[i]
+2022-01-27 17:02:26 info: {"Fecha":"24/02/2022","Disponibles":1}
+2022-01-27 17:02:26 info: datoFecha[i]
+2022-01-27 17:02:26 info: {"Fecha":"26/02/2022","Disponibles":1}
+2022-01-27 17:02:26 info: datoFecha[i]
+2022-01-27 17:02:26 info: {"Fecha":"28/02/2022","Disponibles":1}
+2022-01-27 17:02:26 info: fechasDisp[i]
+2022-01-27 17:02:26 info: [{"Fecha":"02/02/2022","Disponibles":1},{"Fecha":"04/02/2022","Disponibles":1},{"Fecha":"06/02/2022","Disponibles":1},{"Fecha":"08/02/2022","Disponibles":1},{"Fecha":"10/02/2022","Disponibles":1},{"Fecha":"12/02/2022","Disponibles":1},{"Fecha":"14/02/2022","Disponibles":1},{"Fecha":"16/02/2022","Disponibles":1},{"Fecha":"18/02/2022","Disponibles":1},{"Fecha":"20/02/2022","Disponibles":1},{"Fecha":"22/02/2022","Disponibles":1},{"Fecha":"24/02/2022","Disponibles":1},{"Fecha":"26/02/2022","Disponibles":1},{"Fecha":"28/02/2022","Disponibles":1}]
+2022-01-27 17:04:17 info:  [citas.js] [Usuario: JGONZALEZ] METODO: horas-disponibles
+2022-01-27 17:04:17 info:  [citas.js] Atención: Verifique la información requerida.
+2022-01-27 17:04:29 info:  [citas.js] [Usuario: JGONZALEZ] METODO: horas-disponibles
+2022-01-27 17:04:29 info: parametros
+2022-01-27 17:04:29 info: {"IdUsuario":"JGONZALEZ","IdTaller":"1","Fecha":"2022-02-01"}
+2022-01-27 17:04:29 info:  [cita.dao.js]  FUNCION: consultaHorasDisponibles
+2022-01-27 17:04:29 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaHorasDisponibles 
+2022-01-27 17:04:29 info: CALL spHorasDispTaller(1, '2022-02-01')
+2022-01-27 17:04:29 info: rows----------------->
+2022-01-27 17:04:29 info: [[{"HoraCita":"08:00:00"}],[{"HoraCita":"08:30:00"}],[{"HoraCita":"09:00:00"}],[{"HoraCita":"09:30:00"}],[{"HoraCita":"10:00:00"}],[{"HoraCita":"11:00:00"}],[{"HoraCita":"11:30:00"}],[{"HoraCita":"12:00:00"}],[{"HoraCita":"12:30:00"}],[{"HoraCita":"13:00:00"}],[{"HoraCita":"13:30:00"}],[{"HoraCita":"14:00:00"}],[{"HoraCita":"14:30:00"}],[{"HoraCita":"15:00:00"}],[{"HoraCita":"15:30:00"}],[{"HoraCita":"16:00:00"}],[{"HoraCita":"16:30:00"}],{"fieldCount":0,"affectedRows":0,"insertId":0,"info":"","serverStatus":34,"warningStatus":0}]
+2022-01-27 17:04:29 info: rows longitud----------------->
+2022-01-27 17:04:29 info: 18
+2022-01-27 17:04:29 info: datoHora[i]
+2022-01-27 17:04:29 info: {"HoraCita":"08:00:00"}
+2022-01-27 17:04:29 info: datoHora[i]
+2022-01-27 17:04:29 info: {"HoraCita":"08:30:00"}
+2022-01-27 17:04:29 info: datoHora[i]
+2022-01-27 17:04:29 info: {"HoraCita":"09:00:00"}
+2022-01-27 17:04:29 info: datoHora[i]
+2022-01-27 17:04:29 info: {"HoraCita":"09:30:00"}
+2022-01-27 17:04:29 info: datoHora[i]
+2022-01-27 17:04:29 info: {"HoraCita":"10:00:00"}
+2022-01-27 17:04:29 info: datoHora[i]
+2022-01-27 17:04:29 info: {"HoraCita":"11:00:00"}
+2022-01-27 17:04:29 info: datoHora[i]
+2022-01-27 17:04:29 info: {"HoraCita":"11:30:00"}
+2022-01-27 17:04:29 info: datoHora[i]
+2022-01-27 17:04:29 info: {"HoraCita":"12:00:00"}
+2022-01-27 17:04:29 info: datoHora[i]
+2022-01-27 17:04:29 info: {"HoraCita":"12:30:00"}
+2022-01-27 17:04:29 info: datoHora[i]
+2022-01-27 17:04:29 info: {"HoraCita":"13:00:00"}
+2022-01-27 17:04:29 info: datoHora[i]
+2022-01-27 17:04:29 info: {"HoraCita":"13:30:00"}
+2022-01-27 17:04:29 info: datoHora[i]
+2022-01-27 17:04:29 info: {"HoraCita":"14:00:00"}
+2022-01-27 17:04:29 info: datoHora[i]
+2022-01-27 17:04:29 info: {"HoraCita":"14:30:00"}
+2022-01-27 17:04:29 info: datoHora[i]
+2022-01-27 17:04:29 info: {"HoraCita":"15:00:00"}
+2022-01-27 17:04:29 info: datoHora[i]
+2022-01-27 17:04:29 info: {"HoraCita":"15:30:00"}
+2022-01-27 17:04:29 info: datoHora[i]
+2022-01-27 17:04:29 info: {"HoraCita":"16:00:00"}
+2022-01-27 17:04:29 info: datoHora[i]
+2022-01-27 17:04:29 info: {"HoraCita":"16:30:00"}
+2022-01-27 17:04:29 info: HorasDisp[i]
+2022-01-27 17:04:29 info: [{"Fecha":"08:00:00"},{"Fecha":"08:30:00"},{"Fecha":"09:00:00"},{"Fecha":"09:30:00"},{"Fecha":"10:00:00"},{"Fecha":"11:00:00"},{"Fecha":"11:30:00"},{"Fecha":"12:00:00"},{"Fecha":"12:30:00"},{"Fecha":"13:00:00"},{"Fecha":"13:30:00"},{"Fecha":"14:00:00"},{"Fecha":"14:30:00"},{"Fecha":"15:00:00"},{"Fecha":"15:30:00"},{"Fecha":"16:00:00"},{"Fecha":"16:30:00"}]
+2022-01-27 17:04:47 info:  [citas.js] [Usuario: JGONZALEZ] METODO: horas-disponibles
+2022-01-27 17:04:47 info: parametros
+2022-01-27 17:04:47 info: {"IdUsuario":"JGONZALEZ","IdTaller":"1","Fecha":"2022-02-02"}
+2022-01-27 17:04:47 info:  [cita.dao.js]  FUNCION: consultaHorasDisponibles
+2022-01-27 17:04:47 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaHorasDisponibles 
+2022-01-27 17:04:47 info: CALL spHorasDispTaller(1, '2022-02-02')
+2022-01-27 17:04:47 info: rows----------------->
+2022-01-27 17:04:47 info: [[{"HoraCita":"08:00:00"}],[{"HoraCita":"08:30:00"}],[{"HoraCita":"09:00:00"}],[{"HoraCita":"09:30:00"}],[{"HoraCita":"10:00:00"}],[{"HoraCita":"10:30:00"}],[{"HoraCita":"11:00:00"}],[{"HoraCita":"11:30:00"}],[{"HoraCita":"12:00:00"}],[{"HoraCita":"12:30:00"}],[{"HoraCita":"13:00:00"}],[{"HoraCita":"13:30:00"}],[{"HoraCita":"14:00:00"}],[{"HoraCita":"14:30:00"}],[{"HoraCita":"15:00:00"}],[{"HoraCita":"15:30:00"}],[{"HoraCita":"16:00:00"}],[{"HoraCita":"16:30:00"}],{"fieldCount":0,"affectedRows":0,"insertId":0,"info":"","serverStatus":34,"warningStatus":0}]
+2022-01-27 17:04:47 info: rows longitud----------------->
+2022-01-27 17:04:47 info: 19
+2022-01-27 17:04:47 info: datoHora[i]
+2022-01-27 17:04:47 info: {"HoraCita":"08:00:00"}
+2022-01-27 17:04:47 info: datoHora[i]
+2022-01-27 17:04:47 info: {"HoraCita":"08:30:00"}
+2022-01-27 17:04:47 info: datoHora[i]
+2022-01-27 17:04:47 info: {"HoraCita":"09:00:00"}
+2022-01-27 17:04:47 info: datoHora[i]
+2022-01-27 17:04:47 info: {"HoraCita":"09:30:00"}
+2022-01-27 17:04:47 info: datoHora[i]
+2022-01-27 17:04:47 info: {"HoraCita":"10:00:00"}
+2022-01-27 17:04:47 info: datoHora[i]
+2022-01-27 17:04:47 info: {"HoraCita":"10:30:00"}
+2022-01-27 17:04:47 info: datoHora[i]
+2022-01-27 17:04:47 info: {"HoraCita":"11:00:00"}
+2022-01-27 17:04:47 info: datoHora[i]
+2022-01-27 17:04:47 info: {"HoraCita":"11:30:00"}
+2022-01-27 17:04:47 info: datoHora[i]
+2022-01-27 17:04:47 info: {"HoraCita":"12:00:00"}
+2022-01-27 17:04:47 info: datoHora[i]
+2022-01-27 17:04:47 info: {"HoraCita":"12:30:00"}
+2022-01-27 17:04:47 info: datoHora[i]
+2022-01-27 17:04:47 info: {"HoraCita":"13:00:00"}
+2022-01-27 17:04:47 info: datoHora[i]
+2022-01-27 17:04:47 info: {"HoraCita":"13:30:00"}
+2022-01-27 17:04:47 info: datoHora[i]
+2022-01-27 17:04:47 info: {"HoraCita":"14:00:00"}
+2022-01-27 17:04:47 info: datoHora[i]
+2022-01-27 17:04:47 info: {"HoraCita":"14:30:00"}
+2022-01-27 17:04:47 info: datoHora[i]
+2022-01-27 17:04:47 info: {"HoraCita":"15:00:00"}
+2022-01-27 17:04:47 info: datoHora[i]
+2022-01-27 17:04:47 info: {"HoraCita":"15:30:00"}
+2022-01-27 17:04:47 info: datoHora[i]
+2022-01-27 17:04:47 info: {"HoraCita":"16:00:00"}
+2022-01-27 17:04:47 info: datoHora[i]
+2022-01-27 17:04:47 info: {"HoraCita":"16:30:00"}
+2022-01-27 17:04:47 info: HorasDisp[i]
+2022-01-27 17:04:47 info: [{"Fecha":"08:00:00"},{"Fecha":"08:30:00"},{"Fecha":"09:00:00"},{"Fecha":"09:30:00"},{"Fecha":"10:00:00"},{"Fecha":"10:30:00"},{"Fecha":"11:00:00"},{"Fecha":"11:30:00"},{"Fecha":"12:00:00"},{"Fecha":"12:30:00"},{"Fecha":"13:00:00"},{"Fecha":"13:30:00"},{"Fecha":"14:00:00"},{"Fecha":"14:30:00"},{"Fecha":"15:00:00"},{"Fecha":"15:30:00"},{"Fecha":"16:00:00"},{"Fecha":"16:30:00"}]
+2022-01-27 17:07:14 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-27 17:07:14 info: parametros
+2022-01-27 17:07:14 info: {"IdUsuario":"JGONZALEZ","IdTaller":"1","Fecha":"2022-02-01"}
+2022-01-27 17:07:14 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-27 17:07:14 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaTallerDisponibilidad 
+2022-01-27 17:07:14 info: CALL fechasDispTaller('2022-02-01')
+2022-01-27 17:07:17 info:  [citas.js] [Usuario: JGONZALEZ] METODO: horas-disponibles
+2022-01-27 17:07:17 info: parametros
+2022-01-27 17:07:17 info: {"IdUsuario":"JGONZALEZ","IdTaller":"1","Fecha":"2022-02-02"}
+2022-01-27 17:07:17 info:  [cita.dao.js]  FUNCION: consultaHorasDisponibles
+2022-01-27 17:07:17 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaHorasDisponibles 
+2022-01-27 17:07:17 info: CALL spHorasDispTaller(1, '2022-02-02')
+2022-01-27 17:08:23 info:  [citas.js] [Usuario: JGONZALEZ] METODO: horas-disponibles
+2022-01-27 17:08:23 info:  [cita.dao.js]  FUNCION: consultaHorasDisponibles
+2022-01-27 17:08:23 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaHorasDisponibles 
+2022-01-27 17:08:23 info: CALL spHorasDispTaller(1, '2022-02-02')
+2022-01-27 17:08:25 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-27 17:08:25 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-27 17:08:25 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaTallerDisponibilidad 
+2022-01-27 17:08:25 info: CALL fechasDispTaller('2022-02-01')
+2022-01-27 18:05:55 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-27 18:05:55 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-27 18:05:55 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaTallerDisponibilidad 
+2022-01-27 18:05:55 info: CALL spFechasDispTaller(1,'2022-02-01')
+2022-01-27 18:06:10 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-27 18:06:10 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-27 18:06:10 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaTallerDisponibilidad 
+2022-01-27 18:06:10 info: CALL spFechasDispTaller(1,'2022-01-01')
+2022-01-27 18:06:40 info:  [citas.js] [Usuario: JGONZALEZ] METODO: horas-disponibles
+2022-01-27 18:06:40 info:  [cita.dao.js]  FUNCION: consultaHorasDisponibles
+2022-01-27 18:06:40 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaHorasDisponibles 
+2022-01-27 18:06:40 info: CALL spHorasDispTaller(1, '2022-02-01')
+2022-01-27 18:09:08 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-27 18:09:08 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-27 18:09:08 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaTallerDisponibilidad 
+2022-01-27 18:09:08 info: CALL spFechasDispTaller(1,'2022-01-01')
+2022-01-27 18:09:11 info:  [citas.js] [Usuario: JGONZALEZ] METODO: horas-disponibles
+2022-01-27 18:09:11 info:  [cita.dao.js]  FUNCION: consultaHorasDisponibles
+2022-01-27 18:09:11 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaHorasDisponibles 
+2022-01-27 18:09:11 info: CALL spHorasDispTaller(1, '2022-02-01')
+2022-01-27 18:57:00 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-cita
+2022-01-27 18:57:00 info:  [taller.dao.js]  FUNCION: consultaTalleresActivos
+2022-01-27 18:57:00 info:  [taller.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaTalleresActivos 
+2022-01-27 18:57:00 info: query_str
+2022-01-27 18:57:00 info: CALL spConsultaTalleres('A')
+2022-01-27 19:03:54 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-cita
+2022-01-27 19:03:54 info:  [taller.dao.js]  FUNCION: consultaTalleresActivos
+2022-01-27 19:03:54 info:  [taller.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaTalleresActivos 
+2022-01-27 19:03:54 info: query_str
+2022-01-27 19:03:54 info: CALL spConsultaTalleres('A')
+2022-01-27 19:04:24 info:  [citas.js] [Usuario: JGONZALEZ] METODO: horas-disponibles
+2022-01-27 19:04:24 info:  [cita.dao.js]  FUNCION: consultaHorasDisponibles
+2022-01-27 19:04:24 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaHorasDisponibles 
+2022-01-27 19:04:24 info: CALL spHorasDispTaller(2, '2022-02-01')
+2022-01-27 19:04:43 info:  [autenticacion.js] METODO: verificaToken  Error: Se generó un error en la verificación del token solicitado de /taller-disponibilidad
+2022-01-27 19:05:08 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-disponibilidad
+2022-01-27 19:05:08 info:  [cita.dao.js]  FUNCION: consultaTallerDisponibilidad
+2022-01-27 19:05:08 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BDConsultaTallerDisponibilidad 
+2022-01-27 19:05:08 info: CALL spFechasDispTaller(2,'2022-01-01')

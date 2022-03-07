@@ -1,0 +1,54 @@
+2022-02-09 15:04:34 info:  [citas.js] [Usuario: JGONZALEZ] METODO: cita-registro
+2022-02-09 15:04:34 info: Datos de entrada
+2022-02-09 15:04:34 info: {"IdUsuario":"JGONZALEZ","IdConcesionario":"78","IdVehiculo":"28","IdTaller":"2","Fecha":"2022-02-05 16:30:00"}
+2022-02-09 15:04:34 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: registraCita 
+2022-02-09 15:04:34 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdCita 
+2022-02-09 15:04:35 info: CALL spCita( 'R',
+        NULL,  
+        28,  
+        '2022-02-05 16:30:00',
+        2, 
+        NULL,
+        NULL,
+        78
+        )
+2022-02-09 15:04:35 info:  [citas.js] Atención: Ocurrió un error en la edición de la Cita. Cannot add or update a child row: a foreign key constraint fails (`gtpe02`.`citas`, CONSTRAINT `FK_VehiculoCita` FOREIGN KEY (`IdVehiculo`) REFERENCES `vehiculos` (`IdVehiculo`))
+2022-02-09 15:05:18 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: concesionario-edicion
+2022-02-09 15:05:18 info: Datos de entrada
+2022-02-09 15:05:18 info: {"IdUsuario":"JGONZALEZ","IdPersona":"0","Nombre":"Loisa","Paterno":"Luis","Materno":"Luis","RFC":"LOLL0101011A1","CURP":"","IdIdentificacion":"1","FolioIdentificacion":"333333","FechaNacimiento":"2022-01-03","TipoPersona":"F","Genero":"F","EstadoCivil":"C","Calle":"Calle 99","Exterior":"123","Interior":"interior x","IdColonia":"090111919","Telefono":"55555555","Celular":"04444444","email":"pruebaServicios@email.com","IdSindicato":"2","IdAsignacionSindicato":"2","NumeroConcesion":"1111111111","IdVehiculo":0,"Licencia":"","Estatus":""}
+2022-02-09 15:05:19 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-02-09 15:05:19 info:  [persona.dao.js] [Usuario: JGONZALEZ] METODO: EditaPersona 
+2022-02-09 15:05:19 info:  [persona.dao.js] [Usuario: JGONZALEZ] METODO: BdEdicionPersona 
+2022-02-09 15:05:19 info: CALL spPersona('C',
+        NULL,  
+        'Loisa', 
+        'Luis',
+        'Luis',
+        'LOLL0101011A1',
+        NULL,
+        1,
+        '333333',
+        '2022-01-03',
+        'F',
+        'F',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        '090111919',
+        '55555555',
+        '04444444',
+        'pruebaServicios@email.com',
+        2,
+        2,
+        '1111111111',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-02-09 15:05:19 info: rows
+2022-02-09 15:05:19 info: [object Object]
+2022-02-09 15:05:19 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPersona":171}
+2022-02-09 15:05:19 info: result
+2022-02-09 15:05:19 info: [object Object]
+2022-02-09 15:05:19 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdConcesionario":171}

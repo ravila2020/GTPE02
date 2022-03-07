@@ -1,0 +1,199 @@
+2022-02-25 14:34:38 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:34:38 info:  [registro.js] Atención: Verifique la información requerida.
+2022-02-25 14:34:47 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:34:47 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-02-25 14:34:47 info:  [contrato.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDatosContrato 
+2022-02-25 14:34:48 info: CALL spConsultaContratoInf(181)
+2022-02-25 14:36:32 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:36:32 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-02-25 14:36:32 info:  [contrato.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDatosContrato 
+2022-02-25 14:36:32 info: CALL spConsultaContratoInf(181)
+2022-02-25 14:36:32 info: [{"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}]
+2022-02-25 14:37:13 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:37:13 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-02-25 14:37:13 info:  [contrato.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDatosContrato 
+2022-02-25 14:37:13 info: CALL spConsultaContratoInf(181)
+2022-02-25 14:37:13 info: [{"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}]
+2022-02-25 14:37:13 info: datos[0].IdTipoConvertidor
+2022-02-25 14:37:13 info: 1
+2022-02-25 14:37:44 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:37:44 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-02-25 14:37:44 info:  [contrato.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDatosContrato 
+2022-02-25 14:37:44 info: CALL spConsultaContratoInf(181)
+2022-02-25 14:37:44 info: [{"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}]
+2022-02-25 14:37:44 info: datos[0].IdTipoConvertidor
+2022-02-25 14:37:44 info: 1
+2022-02-25 14:37:44 info: contratoDat
+2022-02-25 14:37:44 info: [object Object]
+2022-02-25 14:38:06 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:38:06 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-02-25 14:38:06 info:  [contrato.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDatosContrato 
+2022-02-25 14:38:06 info: CALL spConsultaContratoInf(181)
+2022-02-25 14:38:06 info: [{"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}]
+2022-02-25 14:38:06 info: datos[0].IdTipoConvertidor
+2022-02-25 14:38:06 info: 1
+2022-02-25 14:38:06 info: contratoDat
+2022-02-25 14:38:06 error: json.stringify is not a function
+2022-02-25 14:38:06 error:  [registro.js] ERROR: Se presentó un error al consultar los datos del contrato: TypeError: json.stringify is not a function
+2022-02-25 14:38:20 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:38:20 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-02-25 14:38:20 info:  [contrato.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDatosContrato 
+2022-02-25 14:38:20 info: CALL spConsultaContratoInf(181)
+2022-02-25 14:38:20 info: [{"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}]
+2022-02-25 14:38:20 info: datos[0].IdTipoConvertidor
+2022-02-25 14:38:20 info: 1
+2022-02-25 14:38:20 info: contratoDat
+2022-02-25 14:38:20 info: {"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}
+2022-02-25 14:38:56 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:38:56 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-02-25 14:38:56 info:  [contrato.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDatosContrato 
+2022-02-25 14:38:56 info: CALL spConsultaContratoInf(181)
+2022-02-25 14:38:56 info: [{"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}]
+2022-02-25 14:38:56 info: datos[0].IdTipoConvertidor
+2022-02-25 14:38:56 info: 1
+2022-02-25 14:38:56 info: contratoDat
+2022-02-25 14:38:56 info: {"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}
+2022-02-25 14:38:56 info: contrato
+2022-02-25 14:38:56 info: [{"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}]
+2022-02-25 14:40:16 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:40:16 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-02-25 14:40:16 info:  [contrato.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDatosContrato 
+2022-02-25 14:40:16 info: CALL spConsultaContratoInf(181)
+2022-02-25 14:40:16 info: [{"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}]
+2022-02-25 14:40:16 info: datos[0].IdTipoConvertidor
+2022-02-25 14:40:16 info: 1
+2022-02-25 14:40:16 info: contratoDat
+2022-02-25 14:40:16 info: {"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}
+2022-02-25 14:40:16 info: contrato
+2022-02-25 14:40:16 info: [{"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}]
+2022-02-25 14:40:16 info: resul
+2022-02-25 14:40:16 info: [object Object]
+2022-02-25 14:40:30 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:40:30 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-02-25 14:40:30 info:  [contrato.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDatosContrato 
+2022-02-25 14:40:31 info: CALL spConsultaContratoInf(181)
+2022-02-25 14:40:31 info: [{"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}]
+2022-02-25 14:40:31 info: datos[0].IdTipoConvertidor
+2022-02-25 14:40:31 info: 1
+2022-02-25 14:40:31 info: contratoDat
+2022-02-25 14:40:31 info: {"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}
+2022-02-25 14:40:31 info: contrato
+2022-02-25 14:40:31 info: [{"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}]
+2022-02-25 14:40:31 info: resul
+2022-02-25 14:40:31 info: {"estatus":true,"mensaje":"Consulta exitosa","contrato":[{"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}]}
+2022-02-25 14:43:06 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:43:06 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-02-25 14:43:06 info:  [contrato.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDatosContrato 
+2022-02-25 14:43:06 info: CALL spConsultaContratoInf(181)
+2022-02-25 14:43:06 info: [{"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}]
+2022-02-25 14:43:06 info: datos[0].IdTipoConvertidor
+2022-02-25 14:43:06 info: 1
+2022-02-25 14:43:06 info: contratoDat
+2022-02-25 14:43:06 info: {"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}
+2022-02-25 14:43:06 info: contrato
+2022-02-25 14:43:06 info: [{"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}]
+2022-02-25 14:43:06 info: resul
+2022-02-25 14:43:06 info: {"estatus":true,"mensaje":"Consulta exitosa","contrato":[{"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}]}
+2022-02-25 14:43:38 info:  [registro.js] [Usuario: GCABAÑASM] METODO: concesionario-registro
+2022-02-25 14:43:38 info:  [persona.dao.js]  FUNCION: consultaConcesionarioReg
+2022-02-25 14:43:38 info:  [persona.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaConcesionarioReg 
+2022-02-25 14:43:38 info: CALL spConsultaConcesionarioRegis()
+2022-02-25 14:43:53 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:43:53 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-02-25 14:43:53 info:  [contrato.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDatosContrato 
+2022-02-25 14:43:53 info: CALL spConsultaContratoInf(183)
+2022-02-25 14:43:53 info: [{"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":700,"NumeroPeriodos":36,"IdTipoVehiculo":"A","TipoVehiculo":"Automovil"}]
+2022-02-25 14:43:53 info: datos[0].IdTipoConvertidor
+2022-02-25 14:43:53 info: 1
+2022-02-25 14:43:53 info: contratoDat
+2022-02-25 14:43:53 info: {"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":700,"NumeroPeriodos":36,"IdTipoVehiculo":"A","TipoVehiculo":"Automovil"}
+2022-02-25 14:43:53 info: contrato
+2022-02-25 14:43:53 info: [{"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":700,"NumeroPeriodos":36,"IdTipoVehiculo":"A","TipoVehiculo":"Automovil"}]
+2022-02-25 14:43:53 info: resul
+2022-02-25 14:43:53 info: {"estatus":true,"mensaje":"Consulta exitosa","contrato":[{"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":700,"NumeroPeriodos":36,"IdTipoVehiculo":"A","TipoVehiculo":"Automovil"}]}
+2022-02-25 14:43:57 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:43:57 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-02-25 14:43:57 info:  [contrato.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDatosContrato 
+2022-02-25 14:43:57 info: CALL spConsultaContratoInf(18344)
+2022-02-25 14:43:57 info: []
+2022-02-25 14:43:57 info: datos[0].IdTipoConvertidor
+2022-02-25 14:43:57 error: Cannot read property 'IdTipoConvertidor' of undefined
+2022-02-25 14:43:57 error:  [registro.js] ERROR: Se presentó un error al consultar los datos del contrato: TypeError: Cannot read property 'IdTipoConvertidor' of undefined
+2022-02-25 14:44:16 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:44:16 info:  [registro.js] Atención: Verifique la información requerida.
+2022-02-25 14:44:22 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:44:22 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-02-25 14:44:22 info:  [contrato.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDatosContrato 
+2022-02-25 14:44:22 info: CALL spConsultaContratoInf(011)
+2022-02-25 14:44:22 info: []
+2022-02-25 14:44:22 info: datos[0].IdTipoConvertidor
+2022-02-25 14:44:22 error: Cannot read property 'IdTipoConvertidor' of undefined
+2022-02-25 14:44:22 error:  [registro.js] ERROR: Se presentó un error al consultar los datos del contrato: TypeError: Cannot read property 'IdTipoConvertidor' of undefined
+2022-02-25 14:44:48 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:44:48 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-02-25 14:44:48 info:  [contrato.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDatosContrato 
+2022-02-25 14:44:48 info: CALL spConsultaContratoInf(011)
+2022-02-25 14:44:48 info: []
+2022-02-25 14:44:48 info: datos[0].IdTipoConvertidor
+2022-02-25 14:44:48 error: Cannot read property 'IdTipoConvertidor' of undefined
+2022-02-25 14:44:48 error:  [registro.js] ERROR: Se presentó un error al consultar los datos del contrato: TypeError: Cannot read property 'IdTipoConvertidor' of undefined
+2022-02-25 14:45:25 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:45:25 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-02-25 14:45:25 info:  [contrato.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDatosContrato 
+2022-02-25 14:45:25 info: CALL spConsultaContratoInf(011)
+2022-02-25 14:45:25 info: []
+2022-02-25 14:45:25 info: datos[0].IdTipoConvertidor
+2022-02-25 14:45:25 info: resul
+2022-02-25 14:45:25 info: {"estatus":true,"mensaje":"No se encontró información","contrato":[]}
+2022-02-25 14:46:03 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:46:03 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-02-25 14:46:03 info:  [contrato.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDatosContrato 
+2022-02-25 14:46:03 info: CALL spConsultaContratoInf(011)
+2022-02-25 14:46:03 info: []
+2022-02-25 14:46:03 info: datos[0].IdTipoConvertidor
+2022-02-25 14:46:03 info: resul
+2022-02-25 14:46:03 info: {"estatus":true,"mensaje":"No se encontró información","contrato":[]}
+2022-02-25 14:46:26 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:46:26 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-02-25 14:46:26 info:  [contrato.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDatosContrato 
+2022-02-25 14:46:26 info: CALL spConsultaContratoInf(011)
+2022-02-25 14:46:26 info: []
+2022-02-25 14:46:26 info: datos[0].IdTipoConvertidor
+2022-02-25 14:46:33 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:46:33 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-02-25 14:46:33 info:  [contrato.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDatosContrato 
+2022-02-25 14:46:33 info: CALL spConsultaContratoInf(181)
+2022-02-25 14:46:33 info: [{"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}]
+2022-02-25 14:46:33 info: datos[0].IdTipoConvertidor
+2022-02-25 14:46:33 info: contratoDat
+2022-02-25 14:46:33 info: {"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}
+2022-02-25 14:47:19 info:  [registro.js] [Usuario: GCABAÑASM] METODO: contrato
+2022-02-25 14:47:19 info:  [contrato.dao.js]  FUNCION: consultaDatosContrato
+2022-02-25 14:47:19 info:  [contrato.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDatosContrato 
+2022-02-25 14:47:19 info: CALL spConsultaContratoInf(181)
+2022-02-25 14:47:19 info: contratoDat
+2022-02-25 14:47:19 info: {"IdTipoConvertidor":1,"Convertidor":"Gasolina - Gas LP","ConsumoRequerido":25200,"ConsumoMensual":1680,"NumeroPeriodos":15,"IdTipoVehiculo":"V","TipoVehiculo":"Van"}
+2022-02-25 17:57:16 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documentos-contrato
+2022-02-25 17:57:16 info:  [documentacion.js] Atención: Verifique la información requerida.
+2022-02-25 17:57:35 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documentos-contrato
+2022-02-25 17:57:35 info:  [documentacion.js] Atención: Verifique la información requerida.
+2022-02-25 17:57:40 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documentos-contrato
+2022-02-25 17:57:40 info:  [documentacion.dao.js]  FUNCION: consultaDocumentosRegistro
+2022-02-25 17:57:40 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDocumentosRegistro 
+2022-02-25 17:57:41 info: CALL spConsultaDocumentacionRegistro(182)
+2022-02-25 17:58:08 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documentos-contrato
+2022-02-25 17:58:08 info:  [documentacion.dao.js]  FUNCION: consultaDocumentosRegistro
+2022-02-25 17:58:08 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDocumentosRegistro 
+2022-02-25 17:58:08 info: CALL spConsultaDocumentacionRegistro(189)
+2022-02-25 17:58:29 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documentos-contrato
+2022-02-25 17:58:29 info:  [documentacion.dao.js]  FUNCION: consultaDocumentosRegistro
+2022-02-25 17:58:29 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDocumentosRegistro 
+2022-02-25 17:58:29 info: CALL spConsultaDocumentacionRegistro(18933)
+2022-02-25 17:58:35 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documentos-contrato
+2022-02-25 17:58:35 info:  [documentacion.dao.js]  FUNCION: consultaDocumentosRegistro
+2022-02-25 17:58:35 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDocumentosRegistro 
+2022-02-25 17:58:35 info: CALL spConsultaDocumentacionRegistro(189)
+2022-02-25 18:00:06 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documentos-contrato
+2022-02-25 18:00:06 info:  [documentacion.dao.js]  FUNCION: consultaDocumentosRegistro
+2022-02-25 18:00:06 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaDocumentosRegistro 
+2022-02-25 18:00:06 info: CALL spConsultaDocumentacionRegistro(181)

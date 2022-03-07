@@ -1,0 +1,14 @@
+2022-02-02 12:40:18 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-cita
+2022-02-02 12:40:18 info:  [taller.dao.js]  FUNCION: consultaTalleresActivos
+2022-02-02 12:40:18 info:  [taller.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaTalleresActivos 
+2022-02-02 12:40:21 info: query_str
+2022-02-02 12:40:21 info: CALL spConsultaTalleres('A')
+2022-02-02 12:40:46 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-cita
+2022-02-02 12:40:46 info:  [taller.dao.js]  FUNCION: consultaTalleresActivos
+2022-02-02 12:40:46 info:  [taller.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaTalleresActivos 
+2022-02-02 12:40:46 info: query_str
+2022-02-02 12:40:46 info: CALL spConsultaTalleres('A')
+2022-02-02 12:41:12 info:  [citas.js] [Usuario: JGONZALEZ] METODO: taller-cita
+2022-02-02 12:41:12 info:  [taller.dao.js]  FUNCION: consultaTalleresActivos
+2022-02-02 12:41:12 info:  [taller.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaTalleresActivos 
+2022-02-02 12:41:12 info: CALL spConsultaTalleres('A')

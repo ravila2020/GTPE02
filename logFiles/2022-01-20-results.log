@@ -1,0 +1,234 @@
+2022-01-20 10:37:10 info:  [prerregistro.js] [Usuario: Administrador] METODO: cita-registro
+2022-01-20 10:37:10 info:  [prerregistro.js] Atención: Verifique la información requerida.
+2022-01-20 10:37:45 info:  [prerregistro.js] [Usuario: Administrador] METODO: cita-registro
+2022-01-20 10:37:45 info:  [prerregistro.js] Atención: Verifique la información requerida.
+2022-01-20 10:38:08 info:  [prerregistro.js] [Usuario: Administrador] METODO: cita-registro
+2022-01-20 10:38:08 info:  [cita.dao.js] [Usuario: Administrador] METODO: registraCita 
+2022-01-20 10:38:08 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdCita 
+2022-01-20 10:38:08 info: CALL spCita( 'R',
+        NULL,  
+        7,  
+        40, 
+        '2022-01-27',
+        NULL,
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-20 10:38:09 error: Se presentó un error en BdCita: Error: Incorrect number of arguments for PROCEDURE gtpe02.spCita; expected 8, got 9
+2022-01-20 10:38:09 error:  [prerregistro.js] ERROR: Se presentó un error al registrar la Cita: Se presentó un error en BdCita: Error: Incorrect number of arguments for PROCEDURE gtpe02.spCita; expected 8, got 9
+2022-01-20 10:41:48 info:  [prerregistro.js] [Usuario: Administrador] METODO: cita-registro
+2022-01-20 10:41:48 info:  [cita.dao.js] [Usuario: Administrador] METODO: registraCita 
+2022-01-20 10:41:48 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdCita 
+2022-01-20 10:41:48 info: CALL spCita( 'R',
+        NULL,  
+        7,  
+        40, 
+        '2022-01-27',
+        NULL,
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-20 10:41:48 error: Se presentó un error en BdCita: Error: Incorrect number of arguments for PROCEDURE gtpe02.spCita; expected 7, got 9
+2022-01-20 10:41:48 error:  [prerregistro.js] ERROR: Se presentó un error al registrar la Cita: Se presentó un error en BdCita: Error: Incorrect number of arguments for PROCEDURE gtpe02.spCita; expected 7, got 9
+2022-01-20 10:42:37 info:  [prerregistro.js] [Usuario: Administrador] METODO: cita-registro
+2022-01-20 10:42:37 info:  [cita.dao.js] [Usuario: Administrador] METODO: registraCita 
+2022-01-20 10:42:37 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdCita 
+2022-01-20 10:42:37 info: CALL spCita( 'R',
+        NULL,  
+        7,  
+        40, 
+        '2022-01-27',
+        NULL,
+        NULL
+        )
+2022-01-20 10:42:37 info:  [prerregistro.js] Atención: Ocurrió un error en la edición de la Cita. Cannot add or update a child row: a foreign key constraint fails (`gtpe02`.`citas`, CONSTRAINT `Fk_DictamenCita` FOREIGN KEY (`IdDictamen`) REFERENCES `dictamenes` (`IdDictamen`))
+2022-01-20 10:44:08 info:  [prerregistro.js] [Usuario: Administrador] METODO: cita-registro
+2022-01-20 10:44:08 info:  [cita.dao.js] [Usuario: Administrador] METODO: registraCita 
+2022-01-20 10:44:08 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdCita 
+2022-01-20 10:44:08 info: CALL spCita( 'R',
+        NULL,  
+        7,  
+        40, 
+        '2022-01-27',
+        NULL,
+        NULL
+        )
+2022-01-20 10:44:08 info:  [prerregistro.js] Atención: Ocurrió un error en la edición de la Cita. Unknown column 'vIdVehiculo' in 'field list'
+2022-01-20 10:44:41 info:  [prerregistro.js] [Usuario: Administrador] METODO: cita-registro
+2022-01-20 10:44:41 info:  [cita.dao.js] [Usuario: Administrador] METODO: registraCita 
+2022-01-20 10:44:41 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdCita 
+2022-01-20 10:44:41 info: CALL spCita( 'R',
+        NULL,  
+        7,  
+        40, 
+        '2022-01-27',
+        NULL,
+        NULL
+        )
+2022-01-20 10:49:30 info:  [prerregistro.js] [Usuario: Administrador] METODO: cita-cancelacion
+2022-01-20 10:49:30 info:  [cita.dao.js] [Usuario: Administrador] METODO: cancelaCita 
+2022-01-20 10:49:30 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdCita 
+2022-01-20 10:49:30 info: CALL spCita( 'C',
+        3,  
+        7,  
+        NULL, 
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-20 10:49:30 info:  [prerregistro.js] Atención: Ocurrió un error en la edición de la Cita. Table 'gtpe02.cita' doesn't exist
+2022-01-20 10:50:10 info:  [prerregistro.js] [Usuario: Administrador] METODO: cita-cancelacion
+2022-01-20 10:50:10 info:  [cita.dao.js] [Usuario: Administrador] METODO: cancelaCita 
+2022-01-20 10:50:10 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdCita 
+2022-01-20 10:50:10 info: CALL spCita( 'C',
+        3,  
+        7,  
+        NULL, 
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-20 10:50:40 info:  [prerregistro.js] [Usuario: Administrador] METODO: cita-registro
+2022-01-20 10:50:40 info:  [cita.dao.js] [Usuario: Administrador] METODO: registraCita 
+2022-01-20 10:50:40 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdCita 
+2022-01-20 10:50:40 info: CALL spCita( 'R',
+        NULL,  
+        7,  
+        40, 
+        '2022-01-28',
+        NULL,
+        NULL
+        )
+2022-01-20 10:50:40 info:  [prerregistro.js] Atención: Ocurrió un error en la edición de la Cita. Duplicate entry '40-7-3' for key 'seguimiento.PRIMARY'
+2022-01-20 14:00:03 info:  [prerregistro.js] [Usuario: Administrador] METODO: cita-registro
+2022-01-20 14:00:03 info:  [cita.dao.js] [Usuario: Administrador] METODO: registraCita 
+2022-01-20 14:00:03 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdCita 
+2022-01-20 14:00:03 info: CALL spCita( 'R',
+        NULL,  
+        7,  
+        40, 
+        '2022-01-28',
+        NULL,
+        NULL
+        )
+2022-01-20 14:00:08 info:  [prerregistro.js] Atención: Ocurrió un error en la edición de la Cita. Field 'IdSeguimiento' doesn't have a default value
+2022-01-20 14:13:40 info:  [prerregistro.js] [Usuario: Administrador] METODO: cita-registro
+2022-01-20 14:13:40 info:  [cita.dao.js] [Usuario: Administrador] METODO: registraCita 
+2022-01-20 14:13:40 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdCita 
+2022-01-20 14:13:40 info: CALL spCita( 'R',
+        NULL,  
+        7,  
+        40, 
+        '2022-01-28',
+        NULL,
+        NULL
+        )
+2022-01-20 14:15:58 info:  [prerregistro.js] [Usuario: Administrador] METODO: cita-cancelacion
+2022-01-20 14:15:58 info:  [cita.dao.js] [Usuario: Administrador] METODO: cancelaCita 
+2022-01-20 14:15:58 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdCita 
+2022-01-20 14:15:58 info: CALL spCita( 'C',
+        2,  
+        7,  
+        NULL, 
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-20 14:16:42 info:  [prerregistro.js] [Usuario: Administrador] METODO: cita-registro
+2022-01-20 14:16:42 info:  [cita.dao.js] [Usuario: Administrador] METODO: registraCita 
+2022-01-20 14:16:42 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdCita 
+2022-01-20 14:16:42 info: CALL spCita( 'R',
+        NULL,  
+        7,  
+        40, 
+        '2022-01-29',
+        NULL,
+        NULL
+        )
+2022-01-20 14:32:31 info:  [autenticacion.js] METODO: verificaToken  Error: Se generó un error en la verificación del token solicitado de /dictamen-lista
+2022-01-20 14:32:53 info:  [listas.js] [Usuario: Administrador] METODO: dictamen-lista
+2022-01-20 14:32:53 info:  [reportes.dao.js]  FUNCION: obtieneDictamen
+2022-01-20 14:32:53 info:  [reportes.dao.js] [Usuario: Administrador] METODO: BdConsultaDictamenes 
+2022-01-20 14:32:54 info: query_str
+2022-01-20 14:32:54 info: CALL spConsultaDictamenes()
+2022-01-20 14:43:26 info:  [prerregistro.js] [Usuario: Administrador] METODO: cita-dictamen
+2022-01-20 14:43:26 info:  [prerregistro.js] Atención: Verifique la información requerida.
+2022-01-20 14:43:31 info:  [prerregistro.js] [Usuario: Administrador] METODO: cita-dictamen
+2022-01-20 14:43:31 info:  [prerregistro.js] Atención: Verifique la información requerida.
+2022-01-20 14:43:58 info:  [prerregistro.js] [Usuario: Administrador] METODO: cita-dictamen
+2022-01-20 14:43:58 info:  [cita.dao.js] [Usuario: Administrador] METODO: dictaminaCita 
+2022-01-20 14:43:58 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdCita 
+2022-01-20 14:43:58 info: CALL spCita( 'D',
+        3,  
+        7,  
+        40, 
+        NULL,
+        'APB',
+        NULL
+        )
+2022-01-20 14:43:59 info:  [prerregistro.js] Atención: Ocurrió un error en la edición de la Cita. Unknown column 'vIdVehiculo' in 'field list'
+2022-01-20 14:44:50 info:  [prerregistro.js] [Usuario: Administrador] METODO: cita-dictamen
+2022-01-20 14:44:50 info:  [cita.dao.js] [Usuario: Administrador] METODO: dictaminaCita 
+2022-01-20 14:44:50 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdCita 
+2022-01-20 14:44:50 info: CALL spCita( 'D',
+        3,  
+        7,  
+        40, 
+        NULL,
+        'APB',
+        NULL
+        )
+2022-01-20 14:48:15 info:  [prerregistro.js] [Usuario: Administrador] METODO: cita-dictamen
+2022-01-20 14:48:15 info:  [cita.dao.js] [Usuario: Administrador] METODO: dictaminaCita 
+2022-01-20 14:48:15 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdCita 
+2022-01-20 14:48:15 info: CALL spCita( 'D',
+        3,  
+        7,  
+        40, 
+        NULL,
+        'APB',
+        'Todo muy bien'
+        )
+2022-01-20 14:54:34 info:  [prerregistro.js] [Usuario: Administrador] METODO: cita-dictamen
+2022-01-20 14:54:34 info:  [cita.dao.js] [Usuario: Administrador] METODO: dictaminaCita 
+2022-01-20 14:54:34 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdCita 
+2022-01-20 14:54:34 info: CALL spCita( 'D',
+        3,  
+        7,  
+        40, 
+        NULL,
+        'APB',
+        'Se revisó y todo muy bien '
+        )
+2022-01-20 16:14:24 info:  [prerregistro.js] [Usuario: Administrador] METODO: citas
+2022-01-20 16:14:24 error:  [prerregistro.js] ERROR: ReferenceError: body is not defined
+2022-01-20 16:15:20 info:  [prerregistro.js] [Usuario: Administrador] METODO: citas
+2022-01-20 16:15:20 info:  [prerregistro.js] Atención: Verifique la información requerida.
+2022-01-20 16:15:37 info:  [prerregistro.js] [Usuario: Administrador] METODO: citas
+2022-01-20 16:15:37 info:  [prerregistro.js] Atención: Verifique la información requerida.
+2022-01-20 16:15:39 info:  [prerregistro.js] [Usuario: Administrador] METODO: citas
+2022-01-20 16:15:39 info:  [prerregistro.js] Atención: Verifique la información requerida.
+2022-01-20 16:15:47 info:  [prerregistro.js] [Usuario: Administrador] METODO: citas
+2022-01-20 16:15:47 info:  [cita.dao.js]  FUNCION: consultaCita
+2022-01-20 16:15:47 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdConsultaCita 
+2022-01-20 16:15:47 info: CALL spConsultaCitas(7,'2022-01-01')
+2022-01-20 16:15:48 error: vehiculos is not defined
+2022-01-20 16:15:48 error:  [prerregistro.js] ERROR: Se presentó un error al consultar las citas: ReferenceError: vehiculos is not defined
+2022-01-20 16:17:57 info:  [prerregistro.js] [Usuario: Administrador] METODO: citas
+2022-01-20 16:17:57 info:  [cita.dao.js]  FUNCION: consultaCita
+2022-01-20 16:17:57 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdConsultaCita 
+2022-01-20 16:17:57 info: CALL spConsultaCitas(7,'2022-01-01')
+2022-01-20 16:19:51 info:  [prerregistro.js] [Usuario: Administrador] METODO: citas
+2022-01-20 16:19:51 info:  [cita.dao.js]  FUNCION: consultaCita
+2022-01-20 16:19:51 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdConsultaCita 
+2022-01-20 16:19:51 info: CALL spConsultaCitas(7,'2022-01-01')
+2022-01-20 16:20:10 info:  [prerregistro.js] [Usuario: Administrador] METODO: citas
+2022-01-20 16:20:10 info:  [cita.dao.js]  FUNCION: consultaCita
+2022-01-20 16:20:10 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdConsultaCita 
+2022-01-20 16:20:10 info: CALL spConsultaCitas(71,'2022-01-01')
+2022-01-20 16:20:15 info:  [prerregistro.js] [Usuario: Administrador] METODO: citas
+2022-01-20 16:20:15 info:  [cita.dao.js]  FUNCION: consultaCita
+2022-01-20 16:20:15 info:  [cita.dao.js] [Usuario: Administrador] METODO: BdConsultaCita 
+2022-01-20 16:20:15 info: CALL spConsultaCitas(7,'2022-01-01')

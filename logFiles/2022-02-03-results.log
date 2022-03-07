@@ -1,0 +1,24 @@
+2022-02-03 11:24:19 info:  [citas.js] [Usuario: JGONZALEZ] METODO: cita-registro
+2022-02-03 11:24:19 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: registraCita 
+2022-02-03 11:24:19 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdCita 
+2022-02-03 11:24:20 info: CALL spCita( 'R',
+        NULL,  
+        28,  
+        '2022-02-05 16:30:00',
+        2, 
+        NULL,
+        NULL,
+        78
+        )
+2022-02-03 11:26:25 info:  [citas.js] [Usuario: JGONZALEZ] METODO: cita-registro
+2022-02-03 11:26:25 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: registraCita 
+2022-02-03 11:26:25 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdCita 
+2022-02-03 11:26:25 info: CALL spCita( 'R',
+        NULL,  
+        28,  
+        '2022-02-05 16:30:00',
+        2, 
+        NULL,
+        NULL,
+        78
+        )

@@ -1,0 +1,4 @@
+2022-01-05 13:21:26 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-prerregistro
+2022-01-05 13:21:26 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-01-05 13:21:26 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioPrerreg 
+2022-01-05 13:21:26 info: CALL spConsultaConcesionarioPrereg()

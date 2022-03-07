@@ -1,0 +1,244 @@
+2022-02-10 13:28:52 info:  [citas.js] [Usuario: JGONZALEZ] METODO: cita-id
+2022-02-10 13:28:52 info:  [citas.js] Atención: Verifique la información requerida.
+2022-02-10 13:29:14 info:  [citas.js] [Usuario: JGONZALEZ] METODO: cita-id
+2022-02-10 13:29:14 info:  [cita.dao.js]  FUNCION: consultaCita
+2022-02-10 13:29:14 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaCita 
+2022-02-10 13:29:14 info: CALL spConsultaCitas(undefined,'undefined')
+2022-02-10 13:29:14 error: Se presentó un error en BdConsultaCita: Error: Unknown column 'undefined' in 'field list'
+2022-02-10 13:29:14 error:  [citas.js] ERROR: Se presentó un error al consultar las citas: Se presentó un error en BdConsultaCita: Error: Unknown column 'undefined' in 'field list'
+2022-02-10 13:29:53 info:  [citas.js] [Usuario: JGONZALEZ] METODO: cita-id
+2022-02-10 13:29:53 info:  [cita.dao.js]  FUNCION: consultaCitaId
+2022-02-10 13:29:53 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaCita 
+2022-02-10 13:29:53 info: CALL spConsultaCitaId(43)
+2022-02-10 13:29:53 error: citas is not defined
+2022-02-10 13:29:53 error:  [citas.js] ERROR: Se presentó un error al consultar la cita: ReferenceError: citas is not defined
+2022-02-10 13:32:49 info:  [citas.js] [Usuario: JGONZALEZ] METODO: cita-id
+2022-02-10 13:32:49 info:  [cita.dao.js]  FUNCION: consultaCitaId
+2022-02-10 13:32:49 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaCita 
+2022-02-10 13:32:49 info: CALL spConsultaCitaId(43)
+2022-02-10 13:34:28 info:  [citas.js] [Usuario: JGONZALEZ] METODO: cita-id
+2022-02-10 13:34:28 info:  [cita.dao.js]  FUNCION: consultaCitaId
+2022-02-10 13:34:28 info:  [cita.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaCita 
+2022-02-10 13:34:28 info: CALL spConsultaCitaId(43444)
+2022-02-10 13:52:25 info:  [listas.js] [Usuario: JGONZALEZ] METODO: marcas-lista
+2022-02-10 13:52:25 info:  [reportes.dao.js]  FUNCION: obtieneIdentificaciones
+2022-02-10 13:52:25 info:  [reportes.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaIdentificaciones 
+2022-02-10 13:52:25 info: query_str
+2022-02-10 13:52:25 info: CALL spConsultaIdentificaciones()
+2022-02-10 13:53:35 info:  [listas.js] [Usuario: JGONZALEZ] METODO: marcas-lista
+2022-02-10 13:53:35 info:  [reportes.dao.js]  FUNCION: obtieneMarcas
+2022-02-10 13:53:35 info:  [reportes.dao.js] [Usuario: undefined] METODO: BdObtieneMarcas 
+2022-02-10 13:53:35 info: query_str
+2022-02-10 13:53:35 info: CALL spConsultaMarcas()
+2022-02-10 13:54:41 info:  [listas.js] [Usuario: JGONZALEZ] METODO: submarcas-lista
+2022-02-10 13:54:41 info:  [listas.js] Atención: La Marca es requerida.
+2022-02-10 13:54:47 info:  [listas.js] [Usuario: JGONZALEZ] METODO: submarcas-lista
+2022-02-10 13:54:47 info:  [reportes.dao.js]  FUNCION: obtieneSubmarcas
+2022-02-10 13:54:47 info:  [reportes.dao.js] [Usuario: JGONZALEZ] METODO: BdObtieneSubmarcas 
+2022-02-10 13:54:47 info: query_str
+2022-02-10 13:54:47 info: CALL spConsultaCP(8)
+2022-02-10 13:55:33 info:  [listas.js] [Usuario: JGONZALEZ] METODO: submarcas-lista
+2022-02-10 13:55:33 info:  [reportes.dao.js]  FUNCION: obtieneSubmarcas
+2022-02-10 13:55:33 info:  [reportes.dao.js] [Usuario: JGONZALEZ] METODO: BdObtieneSubmarcas 
+2022-02-10 13:55:33 info: query_str
+2022-02-10 13:55:33 info: CALL spConsultaCP(1)
+2022-02-10 13:55:43 info:  [listas.js] [Usuario: JGONZALEZ] METODO: submarcas-lista
+2022-02-10 13:55:43 info:  [reportes.dao.js]  FUNCION: obtieneSubmarcas
+2022-02-10 13:55:43 info:  [reportes.dao.js] [Usuario: JGONZALEZ] METODO: BdObtieneSubmarcas 
+2022-02-10 13:55:43 info: query_str
+2022-02-10 13:55:43 info: CALL spConsultaCP(4)
+2022-02-10 13:57:09 info:  [listas.js] [Usuario: JGONZALEZ] METODO: submarcas-lista
+2022-02-10 13:57:09 info:  [reportes.dao.js]  FUNCION: obtieneSubmarcas
+2022-02-10 13:57:09 info:  [reportes.dao.js] [Usuario: JGONZALEZ] METODO: BdObtieneSubmarcas 
+2022-02-10 13:57:09 info: query_str
+2022-02-10 13:57:09 info: CALL spConsultaSubMarcas(4)
+2022-02-10 13:59:23 info:  [listas.js] [Usuario: JGONZALEZ] METODO: submarcas-lista
+2022-02-10 13:59:23 info:  [reportes.dao.js]  FUNCION: obtieneSubmarcas
+2022-02-10 13:59:23 info:  [reportes.dao.js] [Usuario: JGONZALEZ] METODO: BdObtieneSubmarcas 
+2022-02-10 13:59:23 info: query_str
+2022-02-10 13:59:23 info: CALL spConsultaSubMarcas(4)
+2022-02-10 13:59:30 info:  [listas.js] [Usuario: JGONZALEZ] METODO: submarcas-lista
+2022-02-10 13:59:30 info:  [reportes.dao.js]  FUNCION: obtieneSubmarcas
+2022-02-10 13:59:30 info:  [reportes.dao.js] [Usuario: JGONZALEZ] METODO: BdObtieneSubmarcas 
+2022-02-10 13:59:30 info: query_str
+2022-02-10 13:59:30 info: CALL spConsultaSubMarcas(1)
+2022-02-10 13:59:39 info:  [listas.js] [Usuario: JGONZALEZ] METODO: submarcas-lista
+2022-02-10 13:59:39 info:  [reportes.dao.js]  FUNCION: obtieneSubmarcas
+2022-02-10 13:59:39 info:  [reportes.dao.js] [Usuario: JGONZALEZ] METODO: BdObtieneSubmarcas 
+2022-02-10 13:59:39 info: query_str
+2022-02-10 13:59:39 info: CALL spConsultaSubMarcas(7)
+2022-02-10 13:59:44 info:  [listas.js] [Usuario: JGONZALEZ] METODO: submarcas-lista
+2022-02-10 13:59:44 info:  [reportes.dao.js]  FUNCION: obtieneSubmarcas
+2022-02-10 13:59:44 info:  [reportes.dao.js] [Usuario: JGONZALEZ] METODO: BdObtieneSubmarcas 
+2022-02-10 13:59:44 info: query_str
+2022-02-10 13:59:44 info: CALL spConsultaSubMarcas(74)
+2022-02-10 17:09:07 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: vehiculo
+2022-02-10 17:09:07 info:  [vehiculo.dao.js]  FUNCION: consultaVehículo
+2022-02-10 17:09:07 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaVehiculo 
+2022-02-10 17:09:07 info: CALL spConsultaVehiculo(46)
+2022-02-10 17:14:10 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: vehiculo-edicion
+2022-02-10 17:14:10 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: editaVehiculo 
+2022-02-10 17:14:10 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: BdEdicionVehiculo 
+2022-02-10 17:14:10 info: CALL spVehiculo(
+        NULL,  
+        78, 
+        '101010',
+        NULL,
+        2020,
+        '223355',
+        'AZUL'
+        )
+2022-02-10 17:14:10 info:  [prerregistro.js] Atención: Ocurrió un error en la edición del Vehículo. Unknown column 'Submarca' in 'field list'
+2022-02-10 17:15:01 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: vehiculo-edicion
+2022-02-10 17:15:01 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: editaVehiculo 
+2022-02-10 17:15:01 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: BdEdicionVehiculo 
+2022-02-10 17:15:01 info: CALL spVehiculo(
+        NULL,  
+        78, 
+        '101010',
+        NULL,
+        2020,
+        '223355',
+        'AZUL'
+        )
+2022-02-10 17:15:01 info:  [prerregistro.js] Atención: Ocurrió un error en la edición del Vehículo. Cannot add or update a child row: a foreign key constraint fails (`gtpe02`.`vehiculos`, CONSTRAINT `Fk_ConsecionarioVehiculo` FOREIGN KEY (`IdConcesionario`) REFERENCES `concesionarios` (`IdConcesionario`))
+2022-02-10 17:15:45 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: vehiculo-edicion
+2022-02-10 17:15:45 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: editaVehiculo 
+2022-02-10 17:15:45 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: BdEdicionVehiculo 
+2022-02-10 17:15:45 info: CALL spVehiculo(
+        NULL,  
+        151, 
+        '101010',
+        NULL,
+        2020,
+        '223355',
+        'AZUL'
+        )
+2022-02-10 17:15:45 info:  [prerregistro.js] Atención: Actualmente no se puede registrar un Vehículo al consesionario indicado. 
+2022-02-10 17:16:13 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: vehiculo-edicion
+2022-02-10 17:16:13 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: editaVehiculo 
+2022-02-10 17:16:13 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: BdEdicionVehiculo 
+2022-02-10 17:16:13 info: CALL spVehiculo(
+        NULL,  
+        144, 
+        '101010',
+        NULL,
+        2020,
+        '223355',
+        'AZUL'
+        )
+2022-02-10 17:17:21 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: vehiculo-edicion
+2022-02-10 17:17:21 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: editaVehiculo 
+2022-02-10 17:17:21 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: BdEdicionVehiculo 
+2022-02-10 17:17:21 info: CALL spVehiculo(
+        134,  
+        144, 
+        '101010',
+        NULL,
+        2020,
+        '223355',
+        'AZUL'
+        )
+2022-02-10 17:18:18 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: vehiculo-edicion
+2022-02-10 17:18:18 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: editaVehiculo 
+2022-02-10 17:18:18 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: BdEdicionVehiculo 
+2022-02-10 17:18:18 info: CALL spVehiculo(
+        134,  
+        144, 
+        '101010',
+        5,
+        2020,
+        '223355',
+        'AZUL'
+        )
+2022-02-10 17:18:35 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: vehiculo
+2022-02-10 17:18:35 info:  [vehiculo.dao.js]  FUNCION: consultaVehículo
+2022-02-10 17:18:35 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaVehiculo 
+2022-02-10 17:18:35 info: CALL spConsultaVehiculo(134)
+2022-02-10 17:19:57 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: vehiculo-edicion
+2022-02-10 17:19:57 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: editaVehiculo 
+2022-02-10 17:19:57 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: BdEdicionVehiculo 
+2022-02-10 17:19:57 info: CALL spVehiculo(
+        NULL,  
+        144, 
+        '101010',
+        6,
+        2020,
+        '223355',
+        'AZUL'
+        )
+2022-02-10 17:20:30 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: vehiculo
+2022-02-10 17:20:30 info:  [vehiculo.dao.js]  FUNCION: consultaVehículo
+2022-02-10 17:20:30 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaVehiculo 
+2022-02-10 17:20:30 info: CALL spConsultaVehiculo(135)
+2022-02-10 17:20:44 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: vehiculo-edicion
+2022-02-10 17:20:44 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: editaVehiculo 
+2022-02-10 17:20:44 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: BdEdicionVehiculo 
+2022-02-10 17:20:44 info: CALL spVehiculo(
+        136,  
+        144, 
+        '101010',
+        5,
+        2020,
+        '223355',
+        'AZUL'
+        )
+2022-02-10 17:20:46 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: vehiculo
+2022-02-10 17:20:46 info:  [vehiculo.dao.js]  FUNCION: consultaVehículo
+2022-02-10 17:20:46 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaVehiculo 
+2022-02-10 17:20:46 info: CALL spConsultaVehiculo(135)
+2022-02-10 17:20:54 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: vehiculo-edicion
+2022-02-10 17:20:54 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: editaVehiculo 
+2022-02-10 17:20:54 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: BdEdicionVehiculo 
+2022-02-10 17:20:54 info: CALL spVehiculo(
+        136,  
+        144, 
+        '101010',
+        5,
+        2020,
+        '223355',
+        'AZUL'
+        )
+2022-02-10 17:21:03 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: vehiculo
+2022-02-10 17:21:03 info:  [vehiculo.dao.js]  FUNCION: consultaVehículo
+2022-02-10 17:21:03 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaVehiculo 
+2022-02-10 17:21:03 info: CALL spConsultaVehiculo(135)
+2022-02-10 17:21:29 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: vehiculo-edicion
+2022-02-10 17:21:29 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: editaVehiculo 
+2022-02-10 17:21:29 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: BdEdicionVehiculo 
+2022-02-10 17:21:29 info: CALL spVehiculo(
+        135,  
+        144, 
+        '101010',
+        5,
+        2020,
+        '223355',
+        'AZUL'
+        )
+2022-02-10 17:21:40 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: vehiculo
+2022-02-10 17:21:40 info:  [vehiculo.dao.js]  FUNCION: consultaVehículo
+2022-02-10 17:21:40 info:  [vehiculo.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaVehiculo 
+2022-02-10 17:21:40 info: CALL spConsultaVehiculo(135)
+2022-02-10 17:29:16 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: concesionario-prerregistro
+2022-02-10 17:29:16 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-02-10 17:29:16 info:  [persona.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaConcesionarioPrerreg 
+2022-02-10 17:29:16 info: CALL spConsultaConcesionarioPrereg()
+2022-02-10 17:32:33 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: concesionario-prerregistro
+2022-02-10 17:32:33 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-02-10 17:32:33 info:  [persona.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaConcesionarioPrerreg 
+2022-02-10 17:32:33 info: CALL spConsultaConcesionarioPrereg()
+2022-02-10 17:55:47 info:  [reportes.js] [Usuario: JGONZALEZ] METODO: reporte-situacion-vehiculo
+2022-02-10 17:55:47 info:  [reportes.dao.js]  FUNCION: obtieneReporte1
+2022-02-10 17:55:47 info:  [reportes.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaReporte1 
+2022-02-10 17:55:49 info:  [reportes.js] [Usuario: JGONZALEZ] METODO: reporte-situacion-vehiculo
+2022-02-10 17:55:49 info:  [reportes.dao.js]  FUNCION: obtieneReporte1
+2022-02-10 17:55:49 info:  [reportes.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaReporte1 
+2022-02-10 17:56:29 info:  [reportes.js] [Usuario: JGONZALEZ] METODO: reporte-situacion-vehiculo
+2022-02-10 17:56:29 info:  [reportes.dao.js]  FUNCION: obtieneReporte1
+2022-02-10 17:56:29 info:  [reportes.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaReporte1 
+2022-02-10 17:56:48 info:  [reportes.js] [Usuario: JGONZALEZ] METODO: reporte-situacion-vehiculo
+2022-02-10 17:56:48 info:  [reportes.dao.js]  FUNCION: obtieneReporte1
+2022-02-10 17:56:48 info:  [reportes.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaReporte1 
+2022-02-10 17:57:48 info:  [reportes.js] [Usuario: JGONZALEZ] METODO: reporte-situacion-vehiculo
+2022-02-10 17:57:48 info:  [reportes.dao.js]  FUNCION: obtieneReporte1
+2022-02-10 17:57:48 info:  [reportes.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaReporte1 

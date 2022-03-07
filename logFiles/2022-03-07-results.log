@@ -1,0 +1,6 @@
+2022-03-07 11:39:11 info:  [login.js]  METODO: Login
+2022-03-07 11:39:11 info:  [login.js]  METODO: Login, PARAMETROS DE ENTRADA --> Administrador
+2022-03-07 11:39:11 info:  [login.dao.js]  METODO: validarContrasenia
+2022-03-07 11:39:11 info:  [login.dao.js] [Usuario: Administrador] METODO: BdObtenerUsuario 
+2022-03-07 11:39:21 error: Se presentó un error en BdObtenerUsuario: Error: connect ETIMEDOUT
+2022-03-07 11:39:21 error:  [login.js] ERROR: Se presentó un error en validarContrasenia: Se presentó un error en BdObtenerUsuario: Error: connect ETIMEDOUT

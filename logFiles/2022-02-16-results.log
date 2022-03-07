@@ -1,0 +1,8 @@
+2022-02-16 19:44:28 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: concesionario-prerregistro
+2022-02-16 19:44:28 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-02-16 19:44:28 info:  [persona.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaConcesionarioPrerreg 
+2022-02-16 19:44:29 info: CALL spConsultaConcesionarioPrereg()
+2022-02-16 19:46:06 info:  [prerregistro.js] [Usuario: JGONZALEZ] METODO: concesionario-prerregistro
+2022-02-16 19:46:06 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-02-16 19:46:06 info:  [persona.dao.js] [Usuario: JGONZALEZ] METODO: BdConsultaConcesionarioPrerreg 
+2022-02-16 19:46:06 info: CALL spConsultaConcesionarioPrereg()

@@ -1,0 +1,10 @@
+2022-02-11 10:39:59 info:  [listas.js] [Usuario: JGONZALEZ] METODO: submarcas-lista
+2022-02-11 10:39:59 info:  [reportes.dao.js]  FUNCION: obtieneSubmarcas
+2022-02-11 10:39:59 info:  [reportes.dao.js] [Usuario: JGONZALEZ] METODO: BdObtieneSubmarcas 
+2022-02-11 10:40:00 info: query_str
+2022-02-11 10:40:00 info: CALL spConsultaSubMarcas(7)
+2022-02-11 10:40:49 info:  [listas.js] [Usuario: JGONZALEZ] METODO: submarcas-lista
+2022-02-11 10:40:49 info:  [reportes.dao.js]  FUNCION: obtieneSubmarcas
+2022-02-11 10:40:49 info:  [reportes.dao.js] [Usuario: JGONZALEZ] METODO: BdObtieneSubmarcas 
+2022-02-11 10:40:49 info: query_str
+2022-02-11 10:40:49 info: CALL spConsultaSubMarcas(7)

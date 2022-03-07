@@ -1,0 +1,8 @@
+2022-02-22 13:24:41 info:  [registro.js] [Usuario: GCABAÑASM] METODO: concesionario-registro
+2022-02-22 13:24:41 info:  [persona.dao.js]  FUNCION: consultaConcesionarioReg
+2022-02-22 13:24:41 info:  [persona.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaConcesionarioReg 
+2022-02-22 13:24:42 info: CALL spConsultaConcesionarioRegis()
+2022-02-22 13:26:09 info:  [registro.js] [Usuario: GCABAÑASM] METODO: concesionario-registro
+2022-02-22 13:26:09 info:  [persona.dao.js]  FUNCION: consultaConcesionarioReg
+2022-02-22 13:26:09 info:  [persona.dao.js] [Usuario: GCABAÑASM] METODO: BdConsultaConcesionarioReg 
+2022-02-22 13:26:09 info: CALL spConsultaConcesionarioRegis()

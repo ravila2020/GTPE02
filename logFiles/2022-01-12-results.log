@@ -1,0 +1,559 @@
+2022-01-12 12:13:59 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-rfc
+2022-01-12 12:13:59 info:  [persona.dao.js]  FUNCION: consultaConcesionarioRFC
+2022-01-12 12:13:59 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioRFC 
+2022-01-12 12:13:59 info: CALL spConsultaConcesionarioRFC('GARJ700238JGF')
+2022-01-12 12:14:00 info: ok
+2022-01-12 12:14:00 info: concesionario
+2022-01-12 12:14:00 info: {"IdConcesionario":0}
+2022-01-12 12:15:25 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-rfc
+2022-01-12 12:15:25 info:  [persona.dao.js]  FUNCION: consultaConcesionarioRFC
+2022-01-12 12:15:25 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioRFC 
+2022-01-12 12:15:25 info: CALL spConsultaConcesionarioRFC('GASR0101011A1')
+2022-01-12 12:15:26 info: ok
+2022-01-12 12:15:26 info: concesionario
+2022-01-12 12:15:26 info: {"IdConcesionario":36,"Nombre":"Roberto","Paterno":"Garcia","Materno":"Salas","RFC":"GASR0101011A1","CURP":null,"IdIdentificacion":null,"FolioIdentificacion":null,"FechaNacimiento":"2022-01-03T06:00:00.000Z","TipoPersona":"F","Genero":"M","EstadoCivil":"C","Calle":"Calle 99","Exterior":"123","Interior":"interior x","CP":null,"IdColonia":null,"Colonia":null,"Municipio":null,"EntidadFederativa":null,"Telefono":"55555555","Celular":"04444444","email":"Ricardoemail@email.com","IdSindicato":2,"IdAsignacionSindicato":2,"NumeroConcesion":"333333"}
+2022-01-12 12:56:45 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 12:56:45 error:  [prerregistro.js] ERROR: ReferenceError: pIdPersona is not defined
+2022-01-12 12:57:20 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 12:57:20 error:  [prerregistro.js] ERROR: ReferenceError: pIdPersona is not defined
+2022-01-12 12:57:33 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 12:57:33 error:  [prerregistro.js] ERROR: ReferenceError: pIdPersona is not defined
+2022-01-12 12:58:53 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 12:58:53 error:  [prerregistro.js] ERROR: ReferenceError: pIdPersona is not defined
+2022-01-12 13:00:58 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 13:00:58 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 13:00:58 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 13:00:58 info: CALL spConsultaConcesionarioVehiculo(0, 0)
+2022-01-12 13:00:58 error: Se presentó un error en BdConsultaConcesionarioVehiculo: Error: Unknown column 'v.IdPersona' in 'where clause'
+2022-01-12 13:00:58 error:  [prerregistro.js] ERROR: Se presentó un error al consultar a la Persona indicada: Se presentó un error en BdConsultaConcesionarioVehiculo: Error: Unknown column 'v.IdPersona' in 'where clause'
+2022-01-12 13:02:16 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 13:02:16 info:  [prerregistro.js] Atención: Verifique la información requerida.
+2022-01-12 13:02:27 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 13:02:27 info:  [prerregistro.js] Atención: Verifique la información requerida.
+2022-01-12 13:02:33 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 13:02:33 info:  [prerregistro.js] Atención: Verifique la información requerida.
+2022-01-12 13:20:28 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 13:20:28 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 13:20:28 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 13:20:28 info: CALL spConsultaConcesionarioVehiculo(40, 4)
+2022-01-12 13:20:28 error: Se presentó un error en BdConsultaConcesionarioVehiculo: Error: Unknown column 'v.IdPersona' in 'where clause'
+2022-01-12 13:20:28 error:  [prerregistro.js] ERROR: Se presentó un error al consultar a la Persona indicada: Se presentó un error en BdConsultaConcesionarioVehiculo: Error: Unknown column 'v.IdPersona' in 'where clause'
+2022-01-12 13:21:32 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 13:21:32 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 13:21:32 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 13:21:32 info: CALL spConsultaConcesionarioVehiculo(40, 4)
+2022-01-12 13:21:33 info:  [prerregistro.js] Atención: No existe información
+2022-01-12 13:21:59 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 13:21:59 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 13:21:59 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 13:21:59 info: CALL spConsultaConcesionarioVehiculo(40, 7)
+2022-01-12 13:23:23 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 13:23:23 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 13:23:23 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 13:23:23 info: CALL spConsultaConcesionarioVehiculo(2, 5)
+2022-01-12 13:46:18 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo-edicion
+2022-01-12 13:46:18 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: editaVehiculo 
+2022-01-12 13:46:18 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: BdEdicionVehiculo 
+2022-01-12 13:46:18 info: CALL spVehiculo(
+        NULL,  
+        38, 
+        '666111666',
+        'VW',
+        'JETTA',
+        2020,
+        '223311',
+        'Rojo'
+        )
+2022-01-12 13:46:18 info: result
+2022-01-12 13:46:18 info: [object Object]
+2022-01-12 13:46:18 info: {"estatus":0,"mensaje":"Actualmente no se puede registrar un Vehículo al consesionario indicado.","mensajeDet":""}
+2022-01-12 13:46:18 info:  [prerregistro.js] Atención: Actualmente no se puede registrar un Vehículo al consesionario indicado. 
+2022-01-12 13:46:55 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo-edicion
+2022-01-12 13:46:55 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: editaVehiculo 
+2022-01-12 13:46:55 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: BdEdicionVehiculo 
+2022-01-12 13:46:55 info: CALL spVehiculo(
+        NULL,  
+        27, 
+        '666111666',
+        'VW',
+        'JETTA',
+        2020,
+        '223311',
+        'Rojo'
+        )
+2022-01-12 13:46:55 info: result
+2022-01-12 13:46:55 info: [object Object]
+2022-01-12 13:46:55 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdVehiculo":12}
+2022-01-12 14:05:47 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 14:05:47 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 14:05:47 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 14:05:47 info: CALL spConsultaConcesionarioVehiculo(2, 50)
+2022-01-12 14:05:48 info:  [prerregistro.js] Atención: No existe información
+2022-01-12 14:07:46 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 14:07:46 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 14:07:46 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 14:07:46 info: CALL spConsultaConcesionarioVehiculo(2, 50)
+2022-01-12 14:07:48 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 14:07:48 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 14:07:48 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 14:07:48 info: CALL spConsultaConcesionarioVehiculo(2, 50)
+2022-01-12 14:07:53 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 14:07:53 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 14:07:53 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 14:07:53 info: CALL spConsultaConcesionarioVehiculo(2, 5)
+2022-01-12 14:07:58 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 14:07:58 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 14:07:58 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 14:07:58 info: CALL spConsultaConcesionarioVehiculo(2, 59)
+2022-01-12 14:08:24 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 14:08:24 info:  [prerregistro.js] Atención: Verifique la información requerida.
+2022-01-12 14:08:30 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 14:08:30 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 14:08:30 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 14:08:30 info: CALL spConsultaConcesionarioVehiculo(2, 59)
+2022-01-12 14:08:53 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 14:08:53 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 14:08:53 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 14:08:53 info: CALL spConsultaConcesionarioVehiculo(2, 59)
+2022-01-12 14:08:53 error: Se presentó un error en BdConsultaConcesionarioVehiculo: Error: PROCEDURE gtpe02.spConsultaConcesionarioVehiculo does not exist
+2022-01-12 14:08:53 error:  [prerregistro.js] ERROR: Se presentó un error al consultar a la Persona indicada: Se presentó un error en BdConsultaConcesionarioVehiculo: Error: PROCEDURE gtpe02.spConsultaConcesionarioVehiculo does not exist
+2022-01-12 14:09:04 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 14:09:04 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 14:09:04 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 14:09:04 info: CALL spConsultaConcesionarioVehiculo(2, 59)
+2022-01-12 14:09:16 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 14:09:16 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 14:09:16 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 14:09:16 info: CALL spConsultaConcesionarioVehiculo(2, 5)
+2022-01-12 14:13:00 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 14:13:00 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 14:13:00 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 14:13:00 info: CALL spConsultaConcesionarioVehiculo(2, 5)
+2022-01-12 14:15:24 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 14:15:24 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 14:15:24 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 14:15:24 info: CALL spConsultaConcesionarioVehiculo(2, 5)
+2022-01-12 14:16:13 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 14:16:13 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 14:16:13 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 14:16:13 info: CALL spConsultaConcesionarioVehiculo(24, 10)
+2022-01-12 14:25:44 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo
+2022-01-12 14:25:44 info:  [prerregistro.js] Atención: Verifique la información requerida.
+2022-01-12 14:25:54 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo
+2022-01-12 14:25:54 info:  [vehiculo.dao.js]  FUNCION: consultaVehículo
+2022-01-12 14:25:54 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: BdConsultaVehiculo 
+2022-01-12 14:25:54 info: CALL spConsultaVehiculo(12)
+2022-01-12 14:27:46 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo
+2022-01-12 14:27:46 info:  [vehiculo.dao.js]  FUNCION: consultaVehículo
+2022-01-12 14:27:46 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: BdConsultaVehiculo 
+2022-01-12 14:27:47 info: CALL spConsultaVehiculo(12)
+2022-01-12 14:27:57 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo
+2022-01-12 14:27:57 info:  [vehiculo.dao.js]  FUNCION: consultaVehículo
+2022-01-12 14:27:57 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: BdConsultaVehiculo 
+2022-01-12 14:27:57 info: CALL spConsultaVehiculo(12www)
+2022-01-12 14:27:57 error: Se presentó un error en BdConsultaVehiculo: Error: Unknown column '12www' in 'field list'
+2022-01-12 14:27:57 error:  [prerregistro.js] ERROR: Se presentó un error al consultar el Vehículo: Se presentó un error en BdConsultaVehiculo: Error: Unknown column '12www' in 'field list'
+2022-01-12 14:28:04 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo
+2022-01-12 14:28:04 info:  [vehiculo.dao.js]  FUNCION: consultaVehículo
+2022-01-12 14:28:04 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: BdConsultaVehiculo 
+2022-01-12 14:28:04 info: CALL spConsultaVehiculo(12555)
+2022-01-12 14:28:10 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo
+2022-01-12 14:28:10 info:  [vehiculo.dao.js]  FUNCION: consultaVehículo
+2022-01-12 14:28:10 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: BdConsultaVehiculo 
+2022-01-12 14:28:10 info: CALL spConsultaVehiculo(12)
+2022-01-12 14:28:40 info:  [prerregistro.js] [Usuario: Administrador] METODO: vehiculo
+2022-01-12 14:28:40 info:  [vehiculo.dao.js]  FUNCION: consultaVehículo
+2022-01-12 14:28:40 info:  [vehiculo.dao.js] [Usuario: Administrador] METODO: BdConsultaVehiculo 
+2022-01-12 14:28:40 info: CALL spConsultaVehiculo(12)
+2022-01-12 18:37:50 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-rfc
+2022-01-12 18:37:50 info:  [persona.dao.js]  FUNCION: consultaConcesionarioRFC
+2022-01-12 18:37:50 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioRFC 
+2022-01-12 18:37:51 info: CALL spConsultaConcesionarioRFC('GASR0101011A1')
+2022-01-12 18:37:51 info: ok
+2022-01-12 18:37:51 info: concesionario
+2022-01-12 18:37:51 info: {"IdConcesionario":36,"Nombre":"Roberto","Paterno":"Garcia","Materno":"Salas","RFC":"GASR0101011A1","CURP":null,"IdIdentificacion":null,"FolioIdentificacion":null,"FechaNacimiento":"2022-01-03T06:00:00.000Z","TipoPersona":"F","Genero":"M","EstadoCivil":"C","Calle":"Calle 99","Exterior":"123","Interior":"interior x","CP":null,"IdColonia":null,"Colonia":null,"Municipio":null,"EntidadFederativa":null,"Telefono":"55555555","Celular":"04444444","email":"Ricardoemail@email.com","IdSindicato":2,"IdAsignacionSindicato":2,"NumeroConcesion":"333333"}
+2022-01-12 18:38:00 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-rfc
+2022-01-12 18:38:00 info:  [persona.dao.js]  FUNCION: consultaConcesionarioRFC
+2022-01-12 18:38:00 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioRFC 
+2022-01-12 18:38:00 info: CALL spConsultaConcesionarioRFC('GASR0101011A1ww')
+2022-01-12 18:38:01 error: Se presentó un error en BdConsultaConcesionarioRFC: Error: Data too long for column 'pRFC' at row 1
+2022-01-12 18:38:01 error:  [prerregistro.js] ERROR: Se presentó un error al consultar al Concesionario por RFC: Se presentó un error en BdConsultaConcesionarioRFC: Error: Data too long for column 'pRFC' at row 1
+2022-01-12 18:38:11 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-rfc
+2022-01-12 18:38:11 info:  [persona.dao.js]  FUNCION: consultaConcesionarioRFC
+2022-01-12 18:38:11 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioRFC 
+2022-01-12 18:38:11 info: CALL spConsultaConcesionarioRFC('GASR0101011')
+2022-01-12 18:38:11 info: ok
+2022-01-12 18:38:11 info: concesionario
+2022-01-12 18:38:11 info: {"IdConcesionario":0}
+2022-01-12 18:38:19 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-rfc
+2022-01-12 18:38:19 info:  [persona.dao.js]  FUNCION: consultaConcesionarioRFC
+2022-01-12 18:38:19 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioRFC 
+2022-01-12 18:38:19 info: CALL spConsultaConcesionarioRFC('GASR0101011A1')
+2022-01-12 18:38:19 info: ok
+2022-01-12 18:38:19 info: concesionario
+2022-01-12 18:38:19 info: {"IdConcesionario":36,"Nombre":"Roberto","Paterno":"Garcia","Materno":"Salas","RFC":"GASR0101011A1","CURP":null,"IdIdentificacion":null,"FolioIdentificacion":null,"FechaNacimiento":"2022-01-03T06:00:00.000Z","TipoPersona":"F","Genero":"M","EstadoCivil":"C","Calle":"Calle 99","Exterior":"123","Interior":"interior x","CP":null,"IdColonia":null,"Colonia":null,"Municipio":null,"EntidadFederativa":null,"Telefono":"55555555","Celular":"04444444","email":"Ricardoemail@email.com","IdSindicato":2,"IdAsignacionSindicato":2,"NumeroConcesion":"333333"}
+2022-01-12 18:38:38 info:  [autenticacion.js] METODO: verificaToken  Error: Se generó un error en la verificación del token solicitado de /concesionario-prerregistro
+2022-01-12 18:38:55 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-prerregistro
+2022-01-12 18:38:55 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-01-12 18:38:55 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioPrerreg 
+2022-01-12 18:38:55 info: CALL spConsultaConcesionarioPrereg()
+2022-01-12 18:56:39 info:  [prerregistro.js] [Usuario: Administrador] METODO: propietario-rfc
+2022-01-12 18:56:39 info:  [prerregistro.js] Atención: El RFC es requerido.
+2022-01-12 18:56:45 info:  [prerregistro.js] [Usuario: Administrador] METODO: propietario-rfc
+2022-01-12 18:56:45 info:  [prerregistro.js] Atención: El RFC es requerido.
+2022-01-12 18:56:50 info:  [prerregistro.js] [Usuario: Administrador] METODO: propietario-rfc
+2022-01-12 18:56:50 info:  [persona.dao.js]  FUNCION: consultaPropietarioRFC
+2022-01-12 18:56:50 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaPropietarioRFC 
+2022-01-12 18:56:50 info: CALL spConsultaPropietarioRFC('dddddfff')
+2022-01-12 18:57:33 info:  [prerregistro.js] [Usuario: Administrador] METODO: propietario-rfc
+2022-01-12 18:57:33 info:  [persona.dao.js]  FUNCION: consultaPropietarioRFC
+2022-01-12 18:57:33 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaPropietarioRFC 
+2022-01-12 18:57:33 info: CALL spConsultaPropietarioRFC('APMT220103X3W')
+2022-01-12 18:58:10 info:  [prerregistro.js] [Usuario: Administrador] METODO: propietario-rfc
+2022-01-12 18:58:10 info:  [persona.dao.js]  FUNCION: consultaPropietarioRFC
+2022-01-12 18:58:10 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaPropietarioRFC 
+2022-01-12 18:58:10 info: CALL spConsultaPropietarioRFC('APMT220103X3W')
+2022-01-12 19:00:25 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-rfc
+2022-01-12 19:00:25 info:  [persona.dao.js]  FUNCION: consultaConcesionarioRFC
+2022-01-12 19:00:25 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioRFC 
+2022-01-12 19:00:25 info: CALL spConsultaConcesionarioRFC('GASR0101011A1')
+2022-01-12 19:00:29 info: ok
+2022-01-12 19:00:29 info: concesionario
+2022-01-12 19:00:29 info: {"IdConcesionario":36,"Nombre":"Roberto","Paterno":"Garcia","Materno":"Salas","RFC":"GASR0101011A1","CURP":null,"IdIdentificacion":null,"FolioIdentificacion":null,"FechaNacimiento":"2022-01-03T06:00:00.000Z","TipoPersona":"F","Genero":"M","EstadoCivil":"C","Calle":"Calle 99","Exterior":"123","Interior":"interior x","CP":null,"IdColonia":null,"Colonia":null,"Municipio":null,"EntidadFederativa":null,"Telefono":"55555555","Celular":"04444444","email":"Ricardoemail@email.com","IdSindicato":2,"IdAsignacionSindicato":2,"NumeroConcesion":"333333"}
+2022-01-12 19:00:37 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-rfc
+2022-01-12 19:00:37 info:  [persona.dao.js]  FUNCION: consultaConcesionarioRFC
+2022-01-12 19:00:37 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioRFC 
+2022-01-12 19:00:37 info: CALL spConsultaConcesionarioRFC('GASR0101011A2')
+2022-01-12 19:00:43 info: ok
+2022-01-12 19:00:43 info: concesionario
+2022-01-12 19:00:43 info: {"IdConcesionario":0}
+2022-01-12 19:03:35 info:  [prerregistro.js] [Usuario: Administrador] METODO: propietario-rfc
+2022-01-12 19:03:35 info:  [persona.dao.js]  FUNCION: consultaPropietarioRFC
+2022-01-12 19:03:35 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaPropietarioRFC 
+2022-01-12 19:03:35 info: CALL spConsultaPropietarioRFC('APMT220103X3W')
+2022-01-12 19:03:45 info:  [prerregistro.js] [Usuario: Administrador] METODO: propietario-rfc
+2022-01-12 19:03:45 info:  [persona.dao.js]  FUNCION: consultaPropietarioRFC
+2022-01-12 19:03:45 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaPropietarioRFC 
+2022-01-12 19:03:45 info: CALL spConsultaPropietarioRFC('APMT220103X32')
+2022-01-12 19:05:12 info:  [prerregistro.js] [Usuario: Administrador] METODO: propietario-rfc
+2022-01-12 19:05:12 info:  [persona.dao.js]  FUNCION: consultaPropietarioRFC
+2022-01-12 19:05:12 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaPropietarioRFC 
+2022-01-12 19:05:12 info: CALL spConsultaPropietarioRFC('APMT220103X32')
+2022-01-12 19:05:20 info:  [prerregistro.js] [Usuario: Administrador] METODO: propietario-rfc
+2022-01-12 19:05:20 info:  [persona.dao.js]  FUNCION: consultaPropietarioRFC
+2022-01-12 19:05:20 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaPropietarioRFC 
+2022-01-12 19:05:20 info: CALL spConsultaPropietarioRFC('APMT220103X3W')
+2022-01-12 19:23:29 info:  [autenticacion.js] METODO: verificaToken  Error: Se generó un error en la verificación del token solicitado de /propietario-edicion
+2022-01-12 19:23:48 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-12 19:23:48 info:  [prerregistro.js] Atención: Verifique la información requerida.
+2022-01-12 19:24:59 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-12 19:24:59 info:  [prerregistro.js] Atención: Verifique la información requerida.
+2022-01-12 19:25:24 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-12 19:25:24 info:  [prerregistro.js] Atención: Verifique la información requerida.
+2022-01-12 19:25:29 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-12 19:25:29 info:  [persona.dao.js]  FUNCION: edicionPropietario
+2022-01-12 19:25:29 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-12 19:25:29 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-12 19:25:29 info: CALL spPersona('P',
+        NULL,  
+        'Ricardo', 
+        'Hernández',
+        'Trejo',
+        'HETR0101011A1',
+        NULL,
+        1,
+        '333333',
+        '2022-01-03',
+        'F',
+        'M',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'ssss@email.com',
+        undefined,
+        undefined,
+        'undefined',
+        40,
+        'undefined',
+        'undefined'
+        )
+2022-01-12 19:25:30 error: Se presentó un error en BdEdicionPersona: Error: Unknown column 'undefined' in 'field list'
+2022-01-12 19:25:30 error: Se presentó un error al editar a la Persona: Se presentó un error en BdEdicionPersona: Error: Unknown column 'undefined' in 'field list'
+2022-01-12 19:25:30 error:  [prerregistro.js] ERROR: Se presentó un error al editar al Propietario en prerregistro: Se presentó un error al editar a la Persona: Se presentó un error en BdEdicionPersona: Error: Unknown column 'undefined' in 'field list'
+2022-01-12 19:27:32 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-12 19:27:32 info:  [persona.dao.js]  FUNCION: edicionPropietario
+2022-01-12 19:27:32 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-12 19:27:32 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-12 19:27:32 info: CALL spPersona('P',
+        NULL,  
+        'Ricardo', 
+        'Hernández',
+        'Trejo',
+        'HETR0101011A1',
+        NULL,
+        1,
+        '333333',
+        '2022-01-03',
+        'F',
+        'M',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'ssss@email.com',
+        NULL,
+        NULL,
+        NULL,
+        40,
+        NULL,
+        NULL
+        )
+2022-01-12 19:27:32 info: rows
+2022-01-12 19:27:32 info: [object Object]
+2022-01-12 19:27:32 info: {"estatus":0,"mensaje":"Ocurrió un error en la edición.","mensajeDet":"Table 'gtpe02.vehiculo' doesn't exist"}
+2022-01-12 19:27:32 info: result
+2022-01-12 19:27:32 info: [object Object]
+2022-01-12 19:27:32 info: {"estatus":0,"mensaje":"Ocurrió un error en la edición.","mensajeDet":"Table 'gtpe02.vehiculo' doesn't exist"}
+2022-01-12 19:27:32 info:  [prerregistro.js] Atención: Ocurrió un error en la edición. Table 'gtpe02.vehiculo' doesn't exist
+2022-01-12 19:28:41 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-12 19:28:41 info:  [persona.dao.js]  FUNCION: edicionPropietario
+2022-01-12 19:28:41 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-12 19:28:41 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-12 19:28:41 info: CALL spPersona('P',
+        NULL,  
+        'Ricardo', 
+        'Hernández',
+        'Trejo',
+        'HETR0101011A1',
+        NULL,
+        1,
+        '333333',
+        '2022-01-03',
+        'F',
+        'M',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'ssss@email.com',
+        NULL,
+        NULL,
+        NULL,
+        7,
+        NULL,
+        NULL
+        )
+2022-01-12 19:28:43 info: rows
+2022-01-12 19:28:43 info: [object Object]
+2022-01-12 19:28:43 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPersona":43}
+2022-01-12 19:28:43 info: result
+2022-01-12 19:28:43 info: [object Object]
+2022-01-12 19:28:43 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPropietario":43}
+2022-01-12 19:31:06 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-12 19:31:06 info:  [persona.dao.js]  FUNCION: edicionPropietario
+2022-01-12 19:31:06 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-12 19:31:06 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-12 19:31:06 info: CALL spPersona('P',
+        34,  
+        'Juan Gabriel', 
+        'Alvarado',
+        'Carrillo',
+        'HETR0101011A1',
+        NULL,
+        1,
+        'Bach03',
+        '2022-01-03',
+        'F',
+        'M',
+        'C',
+        'Calle 99',
+        '123',
+        'interior B3', 
+        NULL,
+        '55555555',
+        '04444444',
+        'ssss@email.com',
+        NULL,
+        NULL,
+        NULL,
+        7,
+        NULL,
+        NULL
+        )
+2022-01-12 19:31:07 error: Se presentó un error en BdEdicionPersona: Error: Data too long for column 'pInterior' at row 1
+2022-01-12 19:31:07 error: Se presentó un error al editar a la Persona: Se presentó un error en BdEdicionPersona: Error: Data too long for column 'pInterior' at row 1
+2022-01-12 19:31:07 error:  [prerregistro.js] ERROR: Se presentó un error al editar al Propietario en prerregistro: Se presentó un error al editar a la Persona: Se presentó un error en BdEdicionPersona: Error: Data too long for column 'pInterior' at row 1
+2022-01-12 19:31:26 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-12 19:31:26 info:  [persona.dao.js]  FUNCION: edicionPropietario
+2022-01-12 19:31:26 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-12 19:31:26 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-12 19:31:26 info: CALL spPersona('P',
+        34,  
+        'Juan Gabriel', 
+        'Alvarado',
+        'Carrillo',
+        'HETR0101011A1',
+        NULL,
+        1,
+        'Bach03',
+        '2022-01-03',
+        'F',
+        'M',
+        'C',
+        'Calle 99',
+        '123',
+        'int B3', 
+        NULL,
+        '55555555',
+        '04444444',
+        'ssss@email.com',
+        NULL,
+        NULL,
+        NULL,
+        7,
+        NULL,
+        NULL
+        )
+2022-01-12 19:31:26 info: rows
+2022-01-12 19:31:26 info: [object Object]
+2022-01-12 19:31:26 info: {"estatus":0,"mensaje":"Ocurrió un error en la edición.","mensajeDet":"Duplicate entry 'HETR0101011A1' for key 'personas.RFC_UNIQUE'"}
+2022-01-12 19:31:26 info: result
+2022-01-12 19:31:26 info: [object Object]
+2022-01-12 19:31:26 info: {"estatus":0,"mensaje":"Ocurrió un error en la edición.","mensajeDet":"Duplicate entry 'HETR0101011A1' for key 'personas.RFC_UNIQUE'"}
+2022-01-12 19:31:26 info:  [prerregistro.js] Atención: Ocurrió un error en la edición. Duplicate entry 'HETR0101011A1' for key 'personas.RFC_UNIQUE'
+2022-01-12 19:32:16 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-12 19:32:16 info:  [persona.dao.js]  FUNCION: edicionPropietario
+2022-01-12 19:32:16 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-12 19:32:16 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-12 19:32:16 info: CALL spPersona('P',
+        34,  
+        'Juan Gabriel', 
+        'Alvarado',
+        'Carrillo',
+        'CAAJ0101011A1',
+        NULL,
+        1,
+        'Bach03',
+        '2022-01-03',
+        'F',
+        'M',
+        'C',
+        'Calle 99',
+        '123',
+        'int B3', 
+        NULL,
+        '55555555',
+        '04444444',
+        'ssss@email.com',
+        NULL,
+        NULL,
+        NULL,
+        7,
+        NULL,
+        NULL
+        )
+2022-01-12 19:32:17 info: rows
+2022-01-12 19:32:17 info: [object Object]
+2022-01-12 19:32:17 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPersona":34}
+2022-01-12 19:32:17 info: result
+2022-01-12 19:32:17 info: [object Object]
+2022-01-12 19:32:17 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPropietario":34}
+2022-01-12 19:38:04 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 19:38:04 info:  [prerregistro.js] Atención: Verifique la información requerida.
+2022-01-12 19:39:31 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 19:39:31 info:  [prerregistro.js] Atención: Verifique la información requerida.
+2022-01-12 19:39:53 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 19:39:53 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 19:39:53 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 19:39:53 info: CALL spConsultaConcesionarioVehiculo(undefined, 10)
+2022-01-12 19:39:53 error: Se presentó un error en BdConsultaConcesionarioVehiculo: Error: Unknown column 'undefined' in 'field list'
+2022-01-12 19:39:53 error:  [prerregistro.js] ERROR: Se presentó un error al consultar a la Persona indicada: Se presentó un error en BdConsultaConcesionarioVehiculo: Error: Unknown column 'undefined' in 'field list'
+2022-01-12 19:41:42 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 19:41:42 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 19:41:42 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 19:41:42 info: CALL spConsultaConcesionarioVehiculo(undefined, 10)
+2022-01-12 19:41:42 error: Se presentó un error en BdConsultaConcesionarioVehiculo: Error: Unknown column 'undefined' in 'field list'
+2022-01-12 19:41:42 error:  [prerregistro.js] ERROR: Se presentó un error al consultar a la Persona indicada: Se presentó un error en BdConsultaConcesionarioVehiculo: Error: Unknown column 'undefined' in 'field list'
+2022-01-12 19:42:58 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 19:42:58 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 19:42:58 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 19:42:58 info: CALL spConsultaConcesionarioVehiculo(NULL, 10)
+2022-01-12 19:44:01 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 19:44:01 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 19:44:01 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 19:44:01 info: CALL spConsultaConcesionarioVehiculo(NULL, 10)
+2022-01-12 19:45:29 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 19:45:29 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 19:45:29 info: entrada
+2022-01-12 19:45:29 info: {"IdUsuario":"Administrador","IdVehiculo":"10"}
+2022-01-12 19:45:29 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 19:45:29 info: CALL spConsultaConcesionarioVehiculo(NULL, 10)
+2022-01-12 19:47:14 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 19:47:14 info: entrada
+2022-01-12 19:47:14 error:  [prerregistro.js] ERROR: ReferenceError: entrada is not defined
+2022-01-12 19:47:54 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 19:47:54 info: parametrosModel
+2022-01-12 19:47:54 info: {"IdUsuario":"Administrador","IdPersona":"24","IdVehiculo":"10"}
+2022-01-12 19:47:54 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 19:47:54 info: entrada
+2022-01-12 19:47:54 info: {"IdUsuario":"Administrador","IdPersona":"24","IdVehiculo":"10"}
+2022-01-12 19:47:54 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 19:47:54 info: CALL spConsultaConcesionarioVehiculo(24, 10)
+2022-01-12 19:48:43 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 19:48:43 info: parametrosModel
+2022-01-12 19:48:43 info: {"IdUsuario":"Administrador","IdPersona":"24","IdVehiculo":"10"}
+2022-01-12 19:48:43 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 19:48:43 info: entrada
+2022-01-12 19:48:43 info: {"IdUsuario":"Administrador","IdPersona":"24","IdVehiculo":"10"}
+2022-01-12 19:48:43 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 19:48:43 info: CALL spConsultaConcesionarioVehiculo(24, 10)
+2022-01-12 19:49:33 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 19:49:33 info: parametrosModel
+2022-01-12 19:49:33 info: {"IdUsuario":"Administrador","IdPersona":"24","IdVehiculo":"10"}
+2022-01-12 19:49:33 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 19:49:33 info: entrada
+2022-01-12 19:49:33 info: {"IdUsuario":"Administrador","IdPersona":"24","IdVehiculo":"10"}
+2022-01-12 19:49:33 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 19:49:33 info: CALL spConsultaConcesionarioVehiculo(24, 10)
+2022-01-12 19:50:42 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 19:50:42 info: parametrosModel
+2022-01-12 19:50:42 info: {"IdUsuario":"Administrador","IdPersona":"24","IdVehiculo":"10"}
+2022-01-12 19:50:42 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 19:50:42 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 19:50:42 info: CALL spConsultaConcesionarioVehiculo(24, 10)
+2022-01-12 19:51:01 info:  [prerregistro.js] [Usuario: Administrador] METODO: concecionario-vehiculo
+2022-01-12 19:51:01 info:  [persona.dao.js]  FUNCION: consultaConcesionarioVehiculo
+2022-01-12 19:51:01 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioVehiculo 
+2022-01-12 19:51:01 info: CALL spConsultaConcesionarioVehiculo(24, 10)
+2022-01-12 20:01:21 info:  [prerregistro.js] [Usuario: Administrador] METODO: propietario-vehiculo
+2022-01-12 20:01:21 info:  [prerregistro.js] Atención: Verifique la información requerida.
+2022-01-12 20:01:34 info:  [prerregistro.js] [Usuario: Administrador] METODO: propietario-vehiculo
+2022-01-12 20:01:34 info:  [persona.dao.js]  FUNCION: consultaPropietarioVehiculo
+2022-01-12 20:01:34 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaPropietarioVehiculo 
+2022-01-12 20:01:34 info: CALL spConsultaConcesionarioVehiculo(24, 10)
+2022-01-12 20:03:35 info:  [prerregistro.js] [Usuario: Administrador] METODO: propietario-vehiculo
+2022-01-12 20:03:35 info:  [persona.dao.js]  FUNCION: consultaPropietarioVehiculo
+2022-01-12 20:03:35 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaPropietarioVehiculo 
+2022-01-12 20:03:35 info: CALL spConsultaPropietarioVehiculo(24, 10)
+2022-01-12 20:04:14 info:  [prerregistro.js] [Usuario: Administrador] METODO: propietario-vehiculo
+2022-01-12 20:04:14 info:  [persona.dao.js]  FUNCION: consultaPropietarioVehiculo
+2022-01-12 20:04:14 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaPropietarioVehiculo 
+2022-01-12 20:04:14 info: CALL spConsultaPropietarioVehiculo(24, 7)
+2022-01-12 20:04:20 info:  [prerregistro.js] [Usuario: Administrador] METODO: propietario-vehiculo
+2022-01-12 20:04:20 info:  [persona.dao.js]  FUNCION: consultaPropietarioVehiculo
+2022-01-12 20:04:20 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaPropietarioVehiculo 
+2022-01-12 20:04:20 info: CALL spConsultaPropietarioVehiculo(34, 7)
+2022-01-12 20:05:53 info:  [prerregistro.js] [Usuario: Administrador] METODO: propietario-vehiculo
+2022-01-12 20:05:53 info:  [persona.dao.js]  FUNCION: consultaPropietarioVehiculo
+2022-01-12 20:05:53 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaPropietarioVehiculo 
+2022-01-12 20:05:53 info: CALL spConsultaPropietarioVehiculo(34, 7)

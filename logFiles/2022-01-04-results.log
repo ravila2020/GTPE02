@@ -1,0 +1,104 @@
+2022-01-04 11:51:42 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-prerregistro
+2022-01-04 11:51:42 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-01-04 11:51:42 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioPrerreg 
+2022-01-04 11:51:42 info: CALL spConsultaConcesionarioPrereg()
+2022-01-04 11:51:47 error: mensaje is not defined
+2022-01-04 11:51:47 error:  [prerregistro.js] ERROR: Se presentó un error al consultar a los Concesionarios en prerregistro: ReferenceError: mensaje is not defined
+2022-01-04 11:53:15 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-prerregistro
+2022-01-04 11:53:15 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-01-04 11:53:15 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioPrerreg 
+2022-01-04 11:53:15 info: CALL spConsultaConcesionarioPrereg()
+2022-01-04 11:53:20 error: mensaje is not defined
+2022-01-04 11:53:20 error:  [prerregistro.js] ERROR: Se presentó un error al consultar a los Concesionarios en prerregistro: ReferenceError: mensaje is not defined
+2022-01-04 17:17:35 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-04 17:17:35 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-04 17:17:35 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionConcesionario 
+2022-01-04 17:17:36 info: CALL spConcesionario(NULL,          'Roberto',         'Aguilar',        'Rosas',        'APMM220103X3W',        'APMM220103NRQ1111',        '46556546556563333',        '2022-01-03',        'F',        'M',        'C',        'Calle 99',        '123',        'interior x',         '090111919',        '55555555',        '04444444',        'email@email.com',        2,        2,        '333333'        )
+2022-01-04 17:17:36 info:  [prerregistro.js] Atención: Ocurrió un error en la edición del Concesionario. Duplicate entry 'APMM220103NRQ1111' for key 'personas.CURP_UNIQUE'
+2022-01-04 17:17:50 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-04 17:17:50 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-04 17:17:50 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionConcesionario 
+2022-01-04 17:17:50 info: CALL spConcesionario(NULL,          'Roberto',         'Aguilar',        'Rosas',        'APMR220103X3W',        'APMM220103NRQ1111',        '46556546556563333',        '2022-01-03',        'F',        'M',        'C',        'Calle 99',        '123',        'interior x',         '090111919',        '55555555',        '04444444',        'email@email.com',        2,        2,        '333333'        )
+2022-01-04 17:17:50 info:  [prerregistro.js] Atención: Ocurrió un error en la edición del Concesionario. Duplicate entry 'APMM220103NRQ1111' for key 'personas.CURP_UNIQUE'
+2022-01-04 17:18:03 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-04 17:18:03 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-04 17:18:03 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionConcesionario 
+2022-01-04 17:18:03 info: CALL spConcesionario(NULL,          'Roberto',         'Aguilar',        'Rosas',        'APMR220103X3W',        NULL,        '46556546556563333',        '2022-01-03',        'F',        'M',        'C',        'Calle 99',        '123',        'interior x',         '090111919',        '55555555',        '04444444',        'email@email.com',        2,        2,        '333333'        )
+2022-01-04 17:18:55 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-prerregistro
+2022-01-04 17:18:55 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-01-04 17:18:55 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioPrerreg 
+2022-01-04 17:18:55 info: CALL spConsultaConcesionarioPrereg()
+2022-01-04 17:22:03 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-prerregistro
+2022-01-04 17:22:03 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-01-04 17:22:03 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioPrerreg 
+2022-01-04 17:22:03 info: CALL spConsultaConcesionarioPrereg()
+2022-01-04 17:22:20 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-prerregistro
+2022-01-04 17:22:20 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-01-04 17:22:20 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioPrerreg 
+2022-01-04 17:22:20 info: CALL spConsultaConcesionarioPrereg()
+2022-01-04 17:23:31 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-prerregistro
+2022-01-04 17:23:31 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-01-04 17:23:31 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioPrerreg 
+2022-01-04 17:23:31 info: CALL spConsultaConcesionarioPrereg()
+2022-01-04 17:24:58 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-prerregistro
+2022-01-04 17:24:58 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-01-04 17:24:58 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioPrerreg 
+2022-01-04 17:24:58 info: CALL spConsultaConcesionarioPrereg()
+2022-01-04 17:26:36 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-prerregistro
+2022-01-04 17:26:36 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-01-04 17:26:36 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioPrerreg 
+2022-01-04 17:26:36 info: CALL spConsultaConcesionarioPrereg()
+2022-01-04 18:01:36 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-04 18:01:36 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-04 18:01:36 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionConcesionario 
+2022-01-04 18:01:36 info: CALL spConcesionario(NULL,          'Ricardo',         'Salas',        'Rosas',        'APM1220103X3W',        NULL,        '46556546556563333',        '2022-01-03',        'F',        'M',        'C',        'Calle 99',        '123',        'interior x',         '090111919',        '55555555',        '04444444',        'email@email.com',        2,        2,        '333333'        )
+2022-01-04 18:02:10 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-04 18:02:10 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-04 18:02:10 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionConcesionario 
+2022-01-04 18:02:10 info: CALL spConcesionario(NULL,          'Ricardo',         'Salas',        'Rosas',        'APM1220103X3W',        NULL,        '46556546556563333',        '2022-01-03',        'F',        'M',        'C',        'Calle 99',        '123',        'interior x',         '090111919',        '55555555',        '04444444',        'email@email.com',        2,        2,        '333333'        )
+2022-01-04 18:02:10 info:  [prerregistro.js] Atención: Ocurrió un error en la edición del Concesionario. Duplicate entry 'APM1220103X3W' for key 'personas.RFC_UNIQUE'
+2022-01-04 18:03:50 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-04 18:03:50 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-04 18:03:50 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionConcesionario 
+2022-01-04 18:03:50 info: CALL spConcesionario(31,          'Ricardo',         'Salas',        'Rosas',        'APM1220103X3W',        NULL,        '46556546556563333',        '2022-01-03',        'F',        'M',        'C',        'Calle 99',        '123',        'interior x',         '090111919',        '55555555',        '04444444',        'Ricardoemail@email.com',        2,        2,        '333333'        )
+2022-01-04 18:08:22 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-prerregistro
+2022-01-04 18:08:22 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-01-04 18:08:22 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioPrerreg 
+2022-01-04 18:08:22 info: CALL spConsultaConcesionarioPrereg()
+2022-01-04 18:08:24 error: mensaje is not defined
+2022-01-04 18:08:24 error:  [prerregistro.js] ERROR: Se presentó un error al consultar a los Concesionarios en prerregistro: ReferenceError: mensaje is not defined
+2022-01-04 18:09:09 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-prerregistro
+2022-01-04 18:09:09 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-01-04 18:09:09 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioPrerreg 
+2022-01-04 18:09:09 info: CALL spConsultaConcesionarioPrereg()
+2022-01-04 18:09:09 error: mensaje is not defined
+2022-01-04 18:09:09 error:  [prerregistro.js] ERROR: Se presentó un error al consultar a los Concesionarios en prerregistro: ReferenceError: mensaje is not defined
+2022-01-04 18:09:45 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-prerregistro
+2022-01-04 18:09:45 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-01-04 18:09:45 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioPrerreg 
+2022-01-04 18:09:45 info: CALL spConsultaConcesionarioPrereg()
+2022-01-04 18:09:46 error: mensaje is not defined
+2022-01-04 18:09:46 error:  [prerregistro.js] ERROR: Se presentó un error al consultar a los Concesionarios en prerregistro: ReferenceError: mensaje is not defined
+2022-01-04 18:10:28 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-prerregistro
+2022-01-04 18:10:28 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-01-04 18:10:28 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioPrerreg 
+2022-01-04 18:10:28 info: CALL spConsultaConcesionarioPrereg()
+2022-01-04 18:11:53 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-prerregistro
+2022-01-04 18:11:53 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-01-04 18:11:53 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioPrerreg 
+2022-01-04 18:11:53 info: CALL spConsultaConcesionarioPrereg()
+2022-01-04 18:11:53 info:  [prerregistro.js] Atención: 
+2022-01-04 18:13:36 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-prerregistro
+2022-01-04 18:13:36 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-01-04 18:13:36 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioPrerreg 
+2022-01-04 18:13:36 info: CALL spConsultaConcesionarioPrereg()
+2022-01-04 18:13:41 info:  [prerregistro.js] Atención: No existe información
+2022-01-04 18:14:21 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-prerregistro
+2022-01-04 18:14:21 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-01-04 18:14:21 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioPrerreg 
+2022-01-04 18:14:21 info: CALL spConsultaConcesionarioPrereg()
+2022-01-04 18:14:26 info:  [prerregistro.js] Atención: No existe información
+2022-01-04 18:14:52 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-prerregistro
+2022-01-04 18:14:52 info:  [persona.dao.js]  FUNCION: consultaConcesionarioPrerreg
+2022-01-04 18:14:52 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdConsultaConcesionarioPrerreg 
+2022-01-04 18:14:52 info: CALL spConsultaConcesionarioPrereg()

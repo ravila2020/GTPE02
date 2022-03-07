@@ -1,0 +1,200 @@
+2022-02-28 11:18:14 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documento-digitaliacion
+2022-02-28 11:18:14 info: body--->
+2022-02-28 11:18:14 info: {"IdVehiculo":"181","IdDocumento":"2","IdConcesionario":"259"}
+2022-02-28 11:18:14 info: req.file
+2022-02-28 11:18:14 info: {"fieldname":"Documento","originalname":"F0000000186.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"C:/ArchivosDocumentos/","filename":"F0000000186_1646068694747.pdf","path":"C:\\ArchivosDocumentos\\F0000000186_1646068694747.pdf","size":122420}
+2022-02-28 11:18:14 info: NombreArchivoPDF
+2022-02-28 11:18:14 info: F0000000186_1646068694747.pdf
+2022-02-28 11:18:14 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: digitalizaDocumento 
+2022-02-28 11:18:14 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: BdDigitalizaDocumento 
+2022-02-28 11:18:15 info: CALL spDocumentoDigitalizar( 'undefined',
+        259,  
+        181,  
+        2, 
+        'F0000000186_1646068694747.pdf'
+        )
+2022-02-28 11:18:15 error: Se presentó un error en BdDigitalizaDocumento: Error: Incorrect number of arguments for PROCEDURE gtpe02.spDocumentoDigitalizar; expected 4, got 5
+2022-02-28 11:18:15 error:  [documentacion.js] ERROR: Se presentó un error al editar el documento: Se presentó un error en BdDigitalizaDocumento: Error: Incorrect number of arguments for PROCEDURE gtpe02.spDocumentoDigitalizar; expected 4, got 5
+2022-02-28 11:18:53 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documento-digitaliacion
+2022-02-28 11:18:53 info: body--->
+2022-02-28 11:18:53 info: {"IdVehiculo":"181","IdDocumento":"2","IdConcesionario":"259"}
+2022-02-28 11:18:53 info: req.file
+2022-02-28 11:18:53 info: {"fieldname":"Documento","originalname":"F0000000186.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"C:/ArchivosDocumentos/","filename":"F0000000186_1646068733874.pdf","path":"C:\\ArchivosDocumentos\\F0000000186_1646068733874.pdf","size":122420}
+2022-02-28 11:18:53 info: NombreArchivoPDF
+2022-02-28 11:18:53 info: F0000000186_1646068733874.pdf
+2022-02-28 11:18:53 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: digitalizaDocumento 
+2022-02-28 11:18:53 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: BdDigitalizaDocumento 
+2022-02-28 11:18:53 info: CALL spDocumentoDigitalizar(
+        259,  
+        181,  
+        2, 
+        'F0000000186_1646068733874.pdf'
+        )
+2022-02-28 11:19:21 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documento-digitaliacion
+2022-02-28 11:19:21 info: body--->
+2022-02-28 11:19:21 info: {"IdVehiculo":"181","IdDocumento":"3","IdConcesionario":"259"}
+2022-02-28 11:19:21 info: req.file
+2022-02-28 11:19:21 info: {"fieldname":"Documento","originalname":"F0000000186.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"C:/ArchivosDocumentos/","filename":"F0000000186_1646068761565.pdf","path":"C:\\ArchivosDocumentos\\F0000000186_1646068761565.pdf","size":122420}
+2022-02-28 11:19:21 info: NombreArchivoPDF
+2022-02-28 11:19:21 info: F0000000186_1646068761565.pdf
+2022-02-28 11:19:21 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: digitalizaDocumento 
+2022-02-28 11:19:21 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: BdDigitalizaDocumento 
+2022-02-28 11:19:21 info: CALL spDocumentoDigitalizar(
+        259,  
+        181,  
+        3, 
+        'F0000000186_1646068761565.pdf'
+        )
+2022-02-28 11:19:50 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documento-digitaliacion
+2022-02-28 11:19:50 info: body--->
+2022-02-28 11:19:50 info: {"IdVehiculo":"181","IdDocumento":"6","IdConcesionario":"259"}
+2022-02-28 11:19:50 info: req.file
+2022-02-28 11:19:50 info: {"fieldname":"Documento","originalname":"F0000000186.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"C:/ArchivosDocumentos/","filename":"F0000000186_1646068790037.pdf","path":"C:\\ArchivosDocumentos\\F0000000186_1646068790037.pdf","size":122420}
+2022-02-28 11:19:50 info: NombreArchivoPDF
+2022-02-28 11:19:50 info: F0000000186_1646068790037.pdf
+2022-02-28 11:19:50 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: digitalizaDocumento 
+2022-02-28 11:19:50 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: BdDigitalizaDocumento 
+2022-02-28 11:19:50 info: CALL spDocumentoDigitalizar(
+        259,  
+        181,  
+        6, 
+        'F0000000186_1646068790037.pdf'
+        )
+2022-02-28 11:42:26 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documento-digitaliacion
+2022-02-28 11:42:26 info: body--->
+2022-02-28 11:42:26 info: {"IdVehiculo":"181","IdDocumento":"6","IdConcesionario":"259"}
+2022-02-28 11:42:26 info: req.file
+2022-02-28 11:42:26 info: {"fieldname":"Documento","originalname":"F0000000186.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"C:/ArchivosDocumentos/","filename":"F0000000186_1646070146284.pdf","path":"C:\\ArchivosDocumentos\\F0000000186_1646070146284.pdf","size":122420}
+2022-02-28 11:42:26 info: NombreArchivoPDF
+2022-02-28 11:42:26 info: F0000000186_1646070146284.pdf
+2022-02-28 11:42:26 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: digitalizaDocumento 
+2022-02-28 11:42:26 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: BdDigitalizaDocumento 
+2022-02-28 11:42:26 info: CALL spDocumentoDigitalizar(
+        259,  
+        181,  
+        6, 
+        'F0000000186_1646070146284.pdf'
+        )
+2022-02-28 11:42:40 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documento-revision
+2022-02-28 11:42:40 info: body--->
+2022-02-28 11:42:40 info: {}
+2022-02-28 11:42:40 info:  [documentacion.js] Atención: Verifique la información requerida.
+2022-02-28 11:43:13 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documento-revision
+2022-02-28 11:43:13 info: documentoModel--->
+2022-02-28 11:43:13 info: {"IdUsuario":"GCABAÑASM","IdDocumento":0,"IdConcesionario":0,"IdVehiculo":0,"Correcto":0,"Observaciones":""}
+2022-02-28 11:43:13 info:  [documentacion.js] Atención: Verifique la información requerida.
+2022-02-28 11:45:01 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documento-revision
+2022-02-28 11:45:01 info: documentoModel--->
+2022-02-28 11:45:01 info: {"IdUsuario":"GCABAÑASM","IdDocumento":"6","IdConcesionario":"259","IdVehiculo":"181","Correcto":"0","Observaciones":"No es visible la firma"}
+2022-02-28 11:45:01 info:  [documentacion.js] Atención: Verifique la información requerida.
+2022-02-28 11:45:43 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documento-revision
+2022-02-28 11:45:43 info: documentoModel--->
+2022-02-28 11:45:43 info: {"IdUsuario":"GCABAÑASM","IdDocumento":"6","IdConcesionario":"259","IdVehiculo":"181","Correcto":"0","Observaciones":"No es visible la firma"}
+2022-02-28 11:45:43 info:  [documentacion.js] Atención: Verifique la información requerida.
+2022-02-28 11:46:14 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documento-revision
+2022-02-28 11:46:14 info: documentoModel--->
+2022-02-28 11:46:14 info: {"IdUsuario":"GCABAÑASM","IdDocumento":"6","IdConcesionario":"259","IdVehiculo":"181","Correcto":"0","Observaciones":"No es visible la firma"}
+2022-02-28 11:46:14 info:  [documentacion.js] Atención: Verifique la información requerida.
+2022-02-28 11:46:18 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documento-revision
+2022-02-28 11:46:18 info: documentoModel--->
+2022-02-28 11:46:18 info: {"IdUsuario":"GCABAÑASM","IdDocumento":"6","IdConcesionario":"259","IdVehiculo":"181","Correcto":"022","Observaciones":"No es visible la firma"}
+2022-02-28 11:46:18 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: verificaDocumento 
+2022-02-28 11:46:18 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: BdVerificaDocumento 
+2022-02-28 11:46:18 info: CALL spDocumentoRevisar(
+        259,  
+        181,  
+        6, 
+        'GCABAÑASM',
+        022
+        'No es visible la firma'
+        )
+2022-02-28 11:46:19 error: Se presentó un error en BdVerificaDocumento: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''No es visible la firma'
+        )' at line 7
+2022-02-28 11:46:19 error:  [documentacion.js] ERROR: Se presentó un error al verificar el documento: Se presentó un error en BdVerificaDocumento: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''No es visible la firma'
+        )' at line 7
+2022-02-28 11:46:57 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documento-revision
+2022-02-28 11:46:57 info: documentoModel--->
+2022-02-28 11:46:57 info: {"IdUsuario":"GCABAÑASM","IdDocumento":"6","IdConcesionario":"259","IdVehiculo":"181","Correcto":"0","Observaciones":"No es visible la firma"}
+2022-02-28 11:46:57 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: verificaDocumento 
+2022-02-28 11:46:57 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: BdVerificaDocumento 
+2022-02-28 11:46:57 info: CALL spDocumentoRevisar(
+        259,  
+        181,  
+        6, 
+        'GCABAÑASM',
+        NULL
+        'No es visible la firma'
+        )
+2022-02-28 11:46:57 error: Se presentó un error en BdVerificaDocumento: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''No es visible la firma'
+        )' at line 7
+2022-02-28 11:46:57 error:  [documentacion.js] ERROR: Se presentó un error al verificar el documento: Se presentó un error en BdVerificaDocumento: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''No es visible la firma'
+        )' at line 7
+2022-02-28 11:47:48 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documento-revision
+2022-02-28 11:47:48 info: documentoModel--->
+2022-02-28 11:47:48 info: {"IdUsuario":"GCABAÑASM","IdDocumento":"6","IdConcesionario":"259","IdVehiculo":"181","Correcto":"0","Observaciones":"No es visible la firma"}
+2022-02-28 11:47:48 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: verificaDocumento 
+2022-02-28 11:47:48 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: BdVerificaDocumento 
+2022-02-28 11:47:48 info: CALL spDocumentoRevisar(
+        259,  
+        181,  
+        6, 
+        'GCABAÑASM',
+        NULL,
+        'No es visible la firma'
+        )
+2022-02-28 11:47:49 info:  [documentacion.js] Atención: Ocurrió un error en la edición del Documento. Unknown column 'p.Observaciones' in 'field list'
+2022-02-28 11:49:00 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documento-revision
+2022-02-28 11:49:00 info: documentoModel--->
+2022-02-28 11:49:00 info: {"IdUsuario":"GCABAÑASM","IdDocumento":"6","IdConcesionario":"259","IdVehiculo":"181","Correcto":"0","Observaciones":"No es visible la firma"}
+2022-02-28 11:49:00 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: verificaDocumento 
+2022-02-28 11:49:00 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: BdVerificaDocumento 
+2022-02-28 11:49:00 info: CALL spDocumentoRevisar(
+        259,  
+        181,  
+        6, 
+        'GCABAÑASM',
+        NULL,
+        'No es visible la firma'
+        )
+2022-02-28 11:49:01 info:  [documentacion.js] Atención: Ocurrió un error en la edición del Documento. Incorrect integer value: 'I' for column 'vEstatusDocumentacion' at row 1
+2022-02-28 11:49:41 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documento-revision
+2022-02-28 11:49:41 info: documentoModel--->
+2022-02-28 11:49:41 info: {"IdUsuario":"GCABAÑASM","IdDocumento":"6","IdConcesionario":"259","IdVehiculo":"181","Correcto":"0","Observaciones":"No es visible la firma"}
+2022-02-28 11:49:41 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: verificaDocumento 
+2022-02-28 11:49:41 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: BdVerificaDocumento 
+2022-02-28 11:49:41 info: CALL spDocumentoRevisar(
+        259,  
+        181,  
+        6, 
+        'GCABAÑASM',
+        NULL,
+        'No es visible la firma'
+        )
+2022-02-28 11:50:07 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documento-revision
+2022-02-28 11:50:07 info: documentoModel--->
+2022-02-28 11:50:07 info: {"IdUsuario":"GCABAÑASM","IdDocumento":"6","IdConcesionario":"259","IdVehiculo":"181","Correcto":"1","Observaciones":"No es visible la firma"}
+2022-02-28 11:50:07 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: verificaDocumento 
+2022-02-28 11:50:07 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: BdVerificaDocumento 
+2022-02-28 11:50:07 info: CALL spDocumentoRevisar(
+        259,  
+        181,  
+        6, 
+        'GCABAÑASM',
+        1,
+        'No es visible la firma'
+        )
+2022-02-28 19:30:46 info:  [documentacion.js] [Usuario: GCABAÑASM] METODO: documento-digitaliacion
+2022-02-28 19:30:47 info: body--->
+2022-02-28 19:30:47 info: {"IdVehiculo":"182","IdDocumento":"6","IdConcesionario":"260"}
+2022-02-28 19:30:47 info: req.file
+2022-02-28 19:30:47 info: {"fieldname":"Documento","originalname":"F0000000186.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"C:/ArchivosDocumentos/","filename":"F0000000186_1646098246466.pdf","path":"C:\\ArchivosDocumentos\\F0000000186_1646098246466.pdf","size":122420}
+2022-02-28 19:30:47 info: NombreArchivoPDF
+2022-02-28 19:30:47 info: F0000000186_1646098246466.pdf
+2022-02-28 19:30:47 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: digitalizaDocumento 
+2022-02-28 19:30:47 info:  [documentacion.dao.js] [Usuario: GCABAÑASM] METODO: BdDigitalizaDocumento 
+2022-02-28 19:30:47 info: CALL spDocumentoDigitalizar(
+        260,  
+        182,  
+        6, 
+        'F0000000186_1646098246466.pdf'
+        )

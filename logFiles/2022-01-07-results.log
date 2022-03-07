@@ -1,0 +1,572 @@
+2022-01-07 18:46:11 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-07 18:46:11 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-07 18:46:11 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-07 18:46:11 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-07 18:46:11 info: CALL spPersona('C',
+        NULL,  
+        'Gabriel', 
+        'Alvarado',
+        'Carrillo',
+        'CAAG0101011A1',
+        NULL,
+        NULL,
+        NULL,
+        '2022-01-03',
+        'F',
+        'M',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'Ricardoemail@email.com',
+        2,
+        2,
+        '333333',
+        undefined,
+        'undefined',
+        'undefined'
+        )
+2022-01-07 18:46:11 error: Se presentó un error en BdEdicionPersona: Error: Unknown column 'undefined' in 'field list'
+2022-01-07 18:46:11 error: Se presentó un error al editar a la Persona: Se presentó un error en BdEdicionPersona: Error: Unknown column 'undefined' in 'field list'
+2022-01-07 18:46:11 error:  [prerregistro.js] ERROR: Se presentó un error al editar al Concesionario en prerregistro: Se presentó un error al editar a la Persona: Se presentó un error en BdEdicionPersona: Error: Unknown column 'undefined' in 'field list'
+2022-01-07 18:48:57 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-07 18:48:57 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-07 18:48:57 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-07 18:48:57 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-07 18:48:57 info: CALL spPersona('C',
+        NULL,  
+        'Gabriel', 
+        'Alvarado',
+        'Carrillo',
+        'CAAG0101011A1',
+        NULL,
+        NULL,
+        NULL,
+        '2022-01-03',
+        'F',
+        'M',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'Ricardoemail@email.com',
+        2,
+        2,
+        '333333',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-07 18:48:57 error: Cannot read property 'resultado' of undefined
+2022-01-07 18:48:57 error:  [prerregistro.js] ERROR: Se presentó un error al editar al Concesionario en prerregistro: TypeError: Cannot read property 'resultado' of undefined
+2022-01-07 18:51:31 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-07 18:51:31 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-07 18:51:31 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-07 18:51:31 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-07 18:51:31 info: CALL spPersona('C',
+        NULL,  
+        'Juan Gabriel', 
+        'Alvarado',
+        'Carrillo',
+        'CAAJ0101011A1',
+        NULL,
+        NULL,
+        NULL,
+        '2022-01-03',
+        'F',
+        'M',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'Ricardoemail@email.com',
+        2,
+        2,
+        '333333',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-07 18:51:31 info: rows
+2022-01-07 18:51:31 info: [object Object]
+2022-01-07 18:51:31 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPersona":34}
+2022-01-07 18:51:31 error: Cannot read property 'resultado' of undefined
+2022-01-07 18:51:31 error:  [prerregistro.js] ERROR: Se presentó un error al editar al Concesionario en prerregistro: TypeError: Cannot read property 'resultado' of undefined
+2022-01-07 18:53:10 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-07 18:53:10 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-07 18:53:10 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-07 18:53:10 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-07 18:53:10 info: CALL spPersona('C',
+        NULL,  
+        'Mauricio', 
+        'Garcia',
+        'Salas',
+        'GASM0101011A1',
+        NULL,
+        NULL,
+        NULL,
+        '2022-01-03',
+        'F',
+        'M',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'Ricardoemail@email.com',
+        2,
+        2,
+        '333333',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-07 18:53:15 info: rows
+2022-01-07 18:53:15 info: [object Object]
+2022-01-07 18:53:15 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPersona":35}
+2022-01-07 18:53:15 error: Cannot read property 'estatus' of undefined
+2022-01-07 18:53:15 error:  [prerregistro.js] ERROR: Se presentó un error al editar al Concesionario en prerregistro: TypeError: Cannot read property 'estatus' of undefined
+2022-01-07 18:55:37 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-07 18:55:37 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-07 18:55:37 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-07 18:55:37 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-07 18:55:37 info: CALL spPersona('C',
+        NULL,  
+        'Roberto', 
+        'Garcia',
+        'Salas',
+        'GASR0101011A1',
+        NULL,
+        NULL,
+        NULL,
+        '2022-01-03',
+        'F',
+        'M',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'Ricardoemail@email.com',
+        2,
+        2,
+        '333333',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-07 18:55:37 info: rows
+2022-01-07 18:55:37 info: [object Object]
+2022-01-07 18:55:37 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPersona":36}
+2022-01-07 18:55:37 error: Cannot read property 'estatus' of undefined
+2022-01-07 18:55:37 error:  [prerregistro.js] ERROR: Se presentó un error al editar al Concesionario en prerregistro: TypeError: Cannot read property 'estatus' of undefined
+2022-01-07 18:56:48 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-07 18:56:48 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-07 18:56:48 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-07 18:56:48 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-07 18:56:48 info: CALL spPersona('C',
+        NULL,  
+        'Roberto', 
+        'Martinez',
+        'Salas',
+        'GAMR0101011A1',
+        NULL,
+        NULL,
+        NULL,
+        '2022-01-03',
+        'F',
+        'M',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'Ricardoemail@email.com',
+        2,
+        2,
+        '333333',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-07 18:56:49 info: rows
+2022-01-07 18:56:49 info: [object Object]
+2022-01-07 18:56:49 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPersona":37}
+2022-01-07 18:56:49 error: Cannot read property 'estatus' of undefined
+2022-01-07 18:56:49 error:  [prerregistro.js] ERROR: Se presentó un error al editar al Concesionario en prerregistro: TypeError: Cannot read property 'estatus' of undefined
+2022-01-07 18:59:23 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-07 18:59:23 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-07 18:59:23 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-07 18:59:23 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-07 18:59:23 info: CALL spPersona('C',
+        NULL,  
+        'Susana', 
+        'Martinez',
+        'Salas',
+        'GAMS0101011A1',
+        NULL,
+        NULL,
+        NULL,
+        '2022-01-03',
+        'F',
+        'F',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'Ricardoemail@email.com',
+        2,
+        2,
+        '333333',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-07 18:59:23 info: rows
+2022-01-07 18:59:23 info: [object Object]
+2022-01-07 18:59:23 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPersona":38}
+2022-01-07 18:59:23 info: result
+2022-01-07 18:59:23 info: [object Object]
+2022-01-07 18:59:23 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdConcesionario":38}
+2022-01-07 19:03:26 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-07 19:03:26 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-07 19:03:26 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-07 19:03:26 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-07 19:03:26 info: CALL spPersona('C',
+        38,  
+        'Susana', 
+        'Martinez',
+        'Salas',
+        'GAMS0101011A1',
+        NULL,
+        NULL,
+        NULL,
+        '2022-01-03',
+        'F',
+        'F',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'Ricardoemail@email.com',
+        2,
+        2,
+        '333333',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-07 19:03:26 info: rows
+2022-01-07 19:04:27 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-07 19:04:27 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-07 19:04:27 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-07 19:04:27 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-07 19:04:27 info: CALL spPersona('C',
+        38,  
+        'Susana', 
+        'Martinez',
+        'Salas',
+        'GAMS0101011A1',
+        NULL,
+        NULL,
+        NULL,
+        '2022-01-03',
+        'F',
+        'F',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'Ricardoemail@email.com',
+        2,
+        2,
+        '333333',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-07 19:04:27 info: rows
+2022-01-07 19:05:27 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-07 19:05:27 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-07 19:05:27 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-07 19:05:27 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-07 19:05:27 info: CALL spPersona('C',
+        38,  
+        'Susana', 
+        'Martinez',
+        'Salas',
+        'GAMS0101011A1',
+        NULL,
+        NULL,
+        NULL,
+        '2022-01-03',
+        'F',
+        'F',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'Ricardoemail@email.com',
+        2,
+        2,
+        '333333',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-07 19:05:27 info: rows
+2022-01-07 19:05:27 info: [object Object]
+2022-01-07 19:05:27 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPersona":38}
+2022-01-07 19:05:27 info: result
+2022-01-07 19:05:27 info: [object Object]
+2022-01-07 19:05:27 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdConcesionario":38}
+2022-01-07 19:06:32 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-07 19:06:32 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-07 19:06:32 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-07 19:06:32 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-07 19:06:32 info: CALL spPersona('C',
+        38,  
+        'Susana', 
+        'Martinez',
+        'Salas',
+        'GAMS0101011A1',
+        NULL,
+        NULL,
+        NULL,
+        '2022-01-03',
+        'F',
+        'F',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'Ricardoemail@email.com',
+        2,
+        2,
+        '333333',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-07 19:06:32 info: rows
+2022-01-07 19:06:32 info: [object Object]
+2022-01-07 19:06:32 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPersona":38}
+2022-01-07 19:06:32 info: result
+2022-01-07 19:06:32 info: [object Object]
+2022-01-07 19:06:32 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdConcesionario":38}
+2022-01-07 19:07:29 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-07 19:07:29 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-07 19:07:29 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-07 19:07:29 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-07 19:07:29 info: CALL spPersona('C',
+        38,  
+        'Susana', 
+        'Martinez',
+        'Salas',
+        'GAMS0101011A1',
+        NULL,
+        NULL,
+        NULL,
+        '2022-01-03',
+        'F',
+        'F',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'Ricardoemail@email.com',
+        2,
+        2,
+        '333333',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-07 19:07:29 info: rows
+2022-01-07 19:07:29 info: [object Object]
+2022-01-07 19:07:29 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPersona":38}
+2022-01-07 19:07:29 info: result
+2022-01-07 19:07:29 info: [object Object]
+2022-01-07 19:07:29 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdConcesionario":38}
+2022-01-07 19:08:07 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-07 19:08:07 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-07 19:08:07 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-07 19:08:07 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-07 19:08:07 info: CALL spPersona('C',
+        38,  
+        'Martha', 
+        'Lagos',
+        'Salas',
+        'LASM0101011A1',
+        NULL,
+        NULL,
+        NULL,
+        '2022-01-03',
+        'F',
+        'F',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'Ricardoemail@email.com',
+        2,
+        2,
+        '333333',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-07 19:08:07 info: rows
+2022-01-07 19:08:07 info: [object Object]
+2022-01-07 19:08:07 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPersona":38}
+2022-01-07 19:08:07 info: result
+2022-01-07 19:08:07 info: [object Object]
+2022-01-07 19:08:07 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdConcesionario":38}
+2022-01-07 19:08:19 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-07 19:08:19 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-07 19:08:19 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-07 19:08:19 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-07 19:08:19 info: CALL spPersona('C',
+        NULL,  
+        'Martha', 
+        'Lagos',
+        'Salas',
+        'LASM0101011A1',
+        NULL,
+        NULL,
+        NULL,
+        '2022-01-03',
+        'F',
+        'F',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'Ricardoemail@email.com',
+        2,
+        2,
+        '333333',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-07 19:08:19 info: rows
+2022-01-07 19:08:19 info: [object Object]
+2022-01-07 19:08:19 info: {"estatus":0,"mensaje":"Ocurrió un error en la edición.","mensajeDet":"Duplicate entry 'LASM0101011A1' for key 'personas.RFC_UNIQUE'"}
+2022-01-07 19:08:19 info: result
+2022-01-07 19:08:19 info: [object Object]
+2022-01-07 19:08:19 info: {"estatus":0,"mensaje":"Ocurrió un error en la edición.","mensajeDet":"Duplicate entry 'LASM0101011A1' for key 'personas.RFC_UNIQUE'"}
+2022-01-07 19:08:19 info:  [prerregistro.js] Atención: Ocurrió un error en la edición. Duplicate entry 'LASM0101011A1' for key 'personas.RFC_UNIQUE'
+2022-01-07 19:08:30 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-07 19:08:30 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-07 19:08:30 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-07 19:08:30 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-07 19:08:30 info: CALL spPersona('C',
+        NULL,  
+        'Martha', 
+        'Lagos',
+        'Salas',
+        'LASX0101011A1',
+        NULL,
+        NULL,
+        NULL,
+        '2022-01-03',
+        'F',
+        'F',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'Ricardoemail@email.com',
+        2,
+        2,
+        '333333',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-07 19:08:31 info: rows
+2022-01-07 19:08:31 info: [object Object]
+2022-01-07 19:08:31 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPersona":40}
+2022-01-07 19:08:31 info: result
+2022-01-07 19:08:31 info: [object Object]
+2022-01-07 19:08:31 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdConcesionario":40}
+2022-01-07 19:08:52 info:  [prerregistro.js] [Usuario: Administrador] METODO: concesionario-edicion
+2022-01-07 19:08:52 info:  [persona.dao.js]  FUNCION: edicionConcesionario
+2022-01-07 19:08:52 info:  [persona.dao.js] [Usuario: Administrador] METODO: EditaPersona 
+2022-01-07 19:08:52 info:  [persona.dao.js] [Usuario: Administrador] METODO: BdEdicionPersona 
+2022-01-07 19:08:52 info: CALL spPersona('C',
+        40,  
+        'Xochitl Martha', 
+        'Lagos',
+        'Salas',
+        'LASX0101011A1',
+        NULL,
+        NULL,
+        NULL,
+        '2022-01-03',
+        'F',
+        'F',
+        'C',
+        'Calle 99',
+        '123',
+        'interior x', 
+        NULL,
+        '55555555',
+        '04444444',
+        'Ricardoemail@email.com',
+        2,
+        2,
+        '333333',
+        NULL,
+        NULL,
+        NULL
+        )
+2022-01-07 19:08:52 info: rows
+2022-01-07 19:08:52 info: [object Object]
+2022-01-07 19:08:52 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdPersona":40}
+2022-01-07 19:08:52 info: result
+2022-01-07 19:08:52 info: [object Object]
+2022-01-07 19:08:52 info: {"estatus":1,"mensaje":"Operación exitosa.","mensajeDet":"","IdConcesionario":40}
