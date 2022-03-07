@@ -2,7 +2,7 @@
 process.env.PORT = process.env.PORT || 4042
     // ========== Conexión a Datos ========== //
 configBD = {
-    host: '192.168.1.31',
+    host: '172.16.8.96',
     user: 'root',
     password: 'root2021',
     database: 'gtpe02',
