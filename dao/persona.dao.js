@@ -729,6 +729,52 @@ function consultaConcesionarioVerifica(entrada) {
     });
 }
 
+/* ********** Edicion de Operador ********** */
+function edicionOperador(entrada) {
+
+    let etiquetaLOG = `${ ruta }[Usuario: ${entrada.IdUsuario}] FUNCION: edicionOperador `;
+    logger.info(etiquetaLOG);
+
+    return new Promise(function(resolve, reject) {
+
+        let resul = [];
+
+        let estatus = false;
+        let mensaje = '';
+        let mensajeDet = '';
+        let IdOperador = 0;
+
+        BdEditaOperador(entrada)
+            .then(function(rows) {
+
+                let resultado = JSON.stringify(rows);
+                let datos = JSON.parse(resultado);
+
+                estatus = datos[0].resultado;
+                mensaje = datos[0].mensaje;
+                mensajeDet = datos[0].mensajeDet;
+                IdOperador = datos[0].IdOperador;
+
+                resul = {
+                    estatus,
+                    mensaje,
+                    mensajeDet,
+                    IdOperador
+                }
+
+                resolve(resul);
+
+            }).catch((err) => setImmediate(() => {
+                return reject(err);
+            }));
+
+    })
+
+    .catch((err) => {
+        throw (`Se presentó un error al editar al Operador: ${err}`);
+    });
+}
+
 
 /****************************************************************/
 /**************    B A S E     D E    D A T O S    **************/
@@ -1019,6 +1065,67 @@ function BdConsultaConcesionarioVerifica(Usuario) {
 
 }
 
+function BdEditaOperador(Entrada) {
+
+    let etiquetaLOG = `${ ruta }[Usuario: ${Entrada.IdUsuario}] METODO: BdEditaOperador `;
+    logger.info(etiquetaLOG);
+
+    let query_str = '';
+
+    query_str = `CALL spOperador(
+    ${utils.paramSP(Entrada.IdOperador,'N')},  
+    ${utils.paramSP(Entrada.Nombre,'S')}, 
+    ${utils.paramSP(Entrada.Paterno,'S')},
+    ${utils.paramSP(Entrada.Materno,'S')},
+    ${utils.paramSP(Entrada.RFC,'S')},
+    ${utils.paramSP(Entrada.CURP,'S')},
+    ${utils.paramSP(Entrada.IdIdentificacion,'N')},
+    ${utils.paramSP(Entrada.FolioIdentificacion,'S')},
+    ${utils.paramSP(Entrada.FechaNacimiento,'S')},
+    ${utils.paramSP(Entrada.TipoPersona,'S')},
+    ${utils.paramSP(Entrada.Genero,'S')},
+    ${utils.paramSP(Entrada.EstadoCivil,'S')},
+    ${utils.paramSP(Entrada.Calle,'S')},
+    ${utils.paramSP(Entrada.Exterior,'S')},
+    ${utils.paramSP(Entrada.Interior,'S')}, 
+    ${utils.paramSP(Entrada.IdColonia,'S')},
+    ${utils.paramSP(Entrada.Telefono,'S')},
+    ${utils.paramSP(Entrada.Celular,'S')},
+    ${utils.paramSP(Entrada.email,'S')},
+    ${utils.paramSP(Entrada.IdConcesionario,'N')},
+    ${utils.paramSP(Entrada.IdVehiculo,'N')},
+    ${utils.paramSP(Entrada.Licencia,'S')}
+    )`;
+    logger.info('query_str');
+    logger.info(query_str);
+    return new Promise(function(resolve, reject) {
+
+        const mysql = require('mysql2');
+
+        const con = mysql.createConnection(configBD);
+
+        con.query(query_str, function(err, rows) {
+            if (err) {
+                if (err.message != 'connect ETIMEDOUT')
+                    con.end();
+
+                return reject(err);
+            }
+
+            con.end();
+
+            resolve(rows[0]);
+        });
+    })
+
+    .catch((err) => {
+
+        throw (`Se presentó un error en BdEditaOperador: ${err}`);
+    });
+
+}
+
+
 module.exports = {
     consultaConcesionarioRFC,
     consultaConcesionarioPrerreg,
@@ -1028,5 +1135,6 @@ module.exports = {
     edicionPropietario,
     consultaPropietarioVehiculo,
     consultaConcesionarioReg,
-    consultaConcesionarioVerifica
+    consultaConcesionarioVerifica,
+    edicionOperador
 };

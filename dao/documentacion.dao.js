@@ -137,7 +137,7 @@ function consultaDocumentosRegistro(entrada) {
                             NombreArchivo: datos[i].NombreArchivo,
                             Faltante: datos[i].Faltante,
                             Revisado: datos[i].Revisado,
-                            Correcto: datos[i].Correcto,
+                            Correcto: (datos[i].Correcto = 1) ? true : false,
                             Observaciones: datos[i].Observaciones
                         });
 

@@ -29,6 +29,7 @@ const PersonaModel = function(datPersona) {
     this.IdAsignacionSindicato = datPersona.IdAsignacionSindicato;
     this.NumeroConcesion = datPersona.NumeroConcesion;
     this.IdVehiculo = datPersona.IdVehiculo;
+    this.IdOperador = datPersona.IdOperador;
     this.Licencia = datPersona.Licencia;
     this.Estatus = datPersona.Estatus;
 };
